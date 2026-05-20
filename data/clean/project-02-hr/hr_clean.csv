@@ -1,0 +1,192 @@
+emp_id,full_name,gender,birth_year,age,city,email,department,position,hire_date,salary_vnd,education,perf_score,leave_days,tenure_years
+EMP-2001,Bùi Minh Cường,Nữ,1999,25,Hồ Chí Minh,buiminhcuong19@outlook.com,Marketing,Brand Manager,2019-11-11,1025084.0,THPT,1.2,7,4.1
+EMP-2002,Đỗ Văn Em,Nam,1995,29,Hồ Chí Minh,dovanem23@outlook.com,Tài chính,Finance Analyst,2018-06-13,1105761.0,Đại học,2.5,2,5.6
+EMP-2003,Phạm Thị Bình,Nữ,1979,45,Hải Phòng,phamthibinh21@company.vn,Marketing,SEO Specialist,2023-08-18,731321.0,Không xác định,4.3,13,0.4
+EMP-2004,Hồ Minh Cường,Nữ,1976,48,Hà Nội,hominhcuong19@gmail.com,Nhân sự,HR Officer,2020-09-25,651790.0,Tiến sĩ,4.7,12,3.3
+EMP-2005,Hồ Minh Cường,Nam,1982,42,Hải Phòng,hominhcuong85@company.vn,Kỹ thuật,Senior Dev,2019-11-30,1544522.0,Thạc sĩ,3.7,18,4.1
+EMP-2006,Bùi Thị Lan,Không xác định,1994,30,Hải Phòng,buithilan97@gmail.com,Kỹ thuật,Senior Dev,2019-09-05,1588627.0,Đại học,3.6,17,4.3
+EMP-2007,Vũ Thị Lan,Nam,2000,24,Hải Phòng,vuthilan74@gmail.com,Marketing,Content Writer,2023-05-29,564529.0,THPT,2.0,2,0.6
+EMP-2008,Đặng Thị Hoa,Nam,1997,27,Cần Thơ,dangthihoa34@outlook.com,Kỹ thuật,Junior Dev,2020-04-21,,Không xác định,3.4,12,3.7
+EMP-2009,Lê Thị Bình,Không xác định,1999,25,Hà Nội,lethibinh21@gmail.com,Kinh doanh,Sales Manager,2021-11-11,1503093.0,Đại học,2.6,17,2.1
+EMP-2010,Phạm Thị Hoa,Nữ,1977,47,Hà Nội,phamthihoa52@company.vn,Vận hành,Ops Staff,2022-11-19,644461.0,Tiến sĩ,3.4,5,1.1
+EMP-2011,Phạm Văn An,Nữ,1996,28,Cần Thơ,phamvanan52@company.vn,Kinh doanh,Sales Rep,2019-11-26,698150.0,Đại học,2.6,0,4.1
+EMP-2012,Đặng Văn Hải,Nữ,1993,31,Đà Nẵng,dangvanhai15@company.vn,Marketing,SEO Specialist,2022-07-13,658363.0,Không xác định,4.3,14,1.5
+EMP-2013,Vũ Văn Giang,Nữ,1996,28,Hà Nội,,Tài chính,Accountant,2020-06-21,834230.0,Cao đẳng,4.3,2,3.5
+EMP-2014,Phạm Thị Dung,Nam,1990,34,Hà Nội,phamthidung32@company.vn,Nhân sự,HR Manager,2020-02-18,1189698.0,Đại học,1.4,15,3.9
+EMP-2015,Đỗ Văn Em,Nữ,1990,34,Hà Nội,dovanem68@outlook.com,Tài chính,Finance Analyst,2021-01-30,1151630.0,Không xác định,3.2,12,2.9
+EMP-2016,Hoàng Minh Cường,Nữ,1985,39,Hồ Chí Minh,hoangminhcuong79@company.vn,Marketing,Brand Manager,2019-02-17,1024041.0,Cao đẳng,3.0,11,4.9
+EMP-2017,Đặng Thị Dung,Nữ,1992,32,Đà Nẵng,dangthidung2@yahoo.com,Tài chính,CFO,2020-08-23,3765707.0,Đại học,1.5,16,3.4
+EMP-2018,Vũ Văn Em,Nam,1995,29,Hồ Chí Minh,vuvanem33@company.vn,Nhân sự,HR Officer,2023-05-06,675730.0,Đại học,1.5,6,0.7
+EMP-2019,Bùi Minh Cường,Nam,1987,37,Cần Thơ,buiminhcuong54@outlook.com,Marketing,Brand Manager,2018-11-18,1265013.0,Đại học,1.3,7,5.1
+EMP-2021,Hoàng Thị Hằng,Nam,1984,40,Cần Thơ,hoangthihang4@gmail.com,Tài chính,Accountant,2022-05-16,713257.0,Cao đẳng,4.4,15,1.6
+EMP-2022,Đỗ Văn Em,Nữ,1991,33,Cần Thơ,dovanem12@outlook.com,Vận hành,Ops Manager,2022-11-17,1104978.0,Không xác định,2.6,0,1.1
+EMP-2023,Phạm Văn Giang,Nữ,2000,24,Đà Nẵng,phamvangiang92@outlook.com,Nhân sự,HR Manager,2020-08-05,1024384.0,Tiến sĩ,1.9,7,3.4
+EMP-2024,Không xác định,Nữ,1994,30,Hà Nội,,Nhân sự,HR Officer,2023-02-09,714836.0,Thạc sĩ,3.1,3,0.9
+EMP-2025,Nguyễn Thị Hoa,Nữ,1986,38,Hồ Chí Minh,nguyenthihoa35@outlook.com,Kinh doanh,Sales Rep,2023-08-04,628459.0,Không xác định,2.9,8,0.4
+EMP-2026,Phạm Thị Hằng,Nam,1991,33,Hồ Chí Minh,phamthihang21@gmail.com,Kinh doanh,Account Exec,2019-01-20,1123033.0,THPT,3.2,15,5.0
+EMP-2027,Nguyễn Văn An,Không xác định,1987,37,Hà Nội,nguyenvanan20@company.vn,Vận hành,Logistics,2019-05-06,636874.0,Đại học,2.0,10,4.7
+EMP-2028,Không xác định,Nữ,1985,39,Cần Thơ,emp2893@yahoo.com,Vận hành,Ops Staff,2020-08-11,621792.0,Đại học,1.2,17,3.4
+EMP-2029,Bùi Văn Em,Nữ,1977,47,Cần Thơ,buivanem82@outlook.com,Marketing,Brand Manager,2019-10-19,1244829.0,THPT,4.5,11,4.2
+EMP-2030,Trần Thị Bình,Nam,1988,36,Hải Phòng,tranthibinh17@yahoo.com,Tài chính,CFO,2021-08-14,4196079.0,Tiến sĩ,1.8,3,2.4
+EMP-2031,Trần Thị Hằng,Nam,1995,29,Hà Nội,tranthihang54@company.vn,Kỹ thuật,Tech Lead,2020-05-04,,Thạc sĩ,1.2,16,3.7
+EMP-2032,Lê Văn Hải,Nam,1993,31,Cần Thơ,levanhai82@company.vn,Kỹ thuật,Senior Dev,2020-10-15,1593997.0,Cao đẳng,3.8,3,3.2
+EMP-2033,Đặng Thị Hoa,Nữ,1986,38,Hà Nội,dangthihoa99@company.vn,Tài chính,CFO,2021-08-22,4108819.0,Cao đẳng,2.8,0,2.4
+EMP-2034,Hoàng Văn Hải,Nam,1999,25,Hà Nội,hoangvanhai13@gmail.com,Marketing,Content Writer,2018-03-30,485067.0,Đại học,1.6,18,5.8
+EMP-2035,Hồ Thị Bình,Nữ,1990,34,Hồ Chí Minh,hothibinh74@outlook.com,Tài chính,Accountant,2019-12-10,914965.0,Đại học,1.2,11,4.1
+EMP-2036,Phạm Minh Cường,Nam,1985,39,Cần Thơ,phamminhcuong58@gmail.com,Vận hành,Ops Manager,2019-09-05,1203594.0,Tiến sĩ,2.2,4,4.3
+EMP-2037,Bùi Văn Giang,Nam,1990,34,Đà Nẵng,buivangiang95@yahoo.com,Kỹ thuật,DevOps,2019-07-07,1891313.0,THPT,2.1,18,4.5
+EMP-2038,Hồ Thị Hằng,Nữ,1980,44,Hồ Chí Minh,hothihang30@yahoo.com,Marketing,SEO Specialist,2021-06-02,761285602.0,Đại học,1.6,2,2.6
+EMP-2039,Phạm Thị Dung,Nam,1981,43,Hồ Chí Minh,phamthidung80@yahoo.com,Marketing,Brand Manager,2021-09-21,1406055.0,Tiến sĩ,3.7,16,2.3
+EMP-2040,Vũ Thị Bình,Nữ,1996,28,Cần Thơ,vuthibinh84@outlook.com,Kỹ thuật,DevOps,2022-05-11,2001425668.0,Cao đẳng,2.5,3,1.6
+EMP-2041,Hoàng Thị Hoa,Nam,1982,42,Đà Nẵng,,Kinh doanh,Account Exec,2018-06-12,1113045.0,Tiến sĩ,3.7,9,5.6
+EMP-2042,Trần Văn Giang,Nam,1987,37,Hồ Chí Minh,tranvangiang88@yahoo.com,Nhân sự,HR Officer,2021-10-31,736593.0,Cao đẳng,3.3,9,2.2
+EMP-2043,Lê Thị Lan,Nam,1979,45,Hải Phòng,lethilan93@gmail.com,Tài chính,CFO,2023-11-16,4494478.0,Không xác định,4.4,0,0.1
+EMP-2044,Hồ Thị Lan,Nữ,1979,45,Đà Nẵng,hothilan30@yahoo.com,Vận hành,Ops Manager,2019-03-14,1467960.0,Đại học,2.4,15,4.8
+EMP-2045,Phạm Thị Dung,Nam,1983,41,Đà Nẵng,phamthidung57@outlook.com,Nhân sự,HR Manager,2018-03-03,1086006.0,Đại học,4.5,13,5.8
+EMP-2046,Nguyễn Văn Hải,Nữ,1991,33,Hà Nội,nguyenvanhai25@company.vn,Tài chính,Accountant,2020-10-03,824515.0,Cao đẳng,4.5,9,3.2
+EMP-2047,Bùi Văn An,Nữ,1987,37,Hải Phòng,buivanan26@outlook.com,Nhân sự,Recruiter,2019-07-09,721475.0,Đại học,2.3,5,4.5
+EMP-2048,Nguyễn Minh Cường,Nữ,1987,37,Đà Nẵng,nguyenminhcuong20@yahoo.com,Kỹ thuật,DevOps,2019-10-17,2053349.0,Cao đẳng,1.7,13,4.2
+EMP-2049,Bùi Văn Hải,Nữ,1975,49,Cần Thơ,buivanhai28@outlook.com,Kỹ thuật,Senior Dev,2020-11-02,1851260328.0,Đại học,2.8,0,3.2
+EMP-2050,Hồ Văn Em,Nữ,1996,28,Cần Thơ,hovanem23@yahoo.com,Kinh doanh,Sales Rep,2018-05-13,523215.0,Đại học,3.4,18,5.6
+EMP-2051,Bùi Minh Cường,Nữ,1992,32,Đà Nẵng,buiminhcuong53@yahoo.com,Kỹ thuật,Tech Lead,2022-10-17,2447822.0,Đại học,3.4,16,1.2
+EMP-2052,Bùi Thị Hằng,Nữ,1991,33,Hải Phòng,buithihang38@yahoo.com,Marketing,Brand Manager,2023-07-27,1296068.0,Đại học,1.1,3,0.4
+EMP-2053,Trần Văn Em,Nữ,1997,27,Hải Phòng,tranvanem15@company.vn,Marketing,SEO Specialist,2020-04-04,,Đại học,3.9,0,3.7
+EMP-2054,Đặng Văn An,Nam,1989,35,Đà Nẵng,dangvanan41@gmail.com,Vận hành,Ops Staff,2021-10-04,573429.0,Cao đẳng,3.7,11,2.2
+EMP-2055,Nguyễn Văn Em,Nữ,1997,27,Cần Thơ,nguyenvanem58@company.vn,Tài chính,CFO,2021-06-16,4023306.0,Không xác định,2.2,1,2.5
+EMP-2056,Lê Thị Bình,Nam,1984,40,Cần Thơ,lethibinh17@yahoo.com,Tài chính,Accountant,2023-11-15,740868.0,Đại học,2.8,16,0.1
+EMP-2057,Phạm Thị Hoa,Nữ,1993,31,Hồ Chí Minh,phamthihoa99@outlook.com,Nhân sự,HR Officer,2018-04-03,534745.0,Đại học,2.1,0,5.8
+EMP-2058,Hồ Thị Hoa,Nam,1980,44,Cần Thơ,,Tài chính,Finance Analyst,2020-09-29,1054263.0,Không xác định,4.6,12,3.3
+EMP-2059,Bùi Thị Lan,Nam,1977,47,Cần Thơ,buithilan60@gmail.com,Tài chính,Finance Analyst,2023-12-26,1072474.0,Đại học,3.7,14,0.0
+EMP-2060,Trần Thị Hằng,Nam,1989,35,Cần Thơ,tranthihang37@company.vn,Nhân sự,HR Officer,2021-08-23,677908.0,Đại học,1.5,3,2.4
+EMP-2061,Phạm Thị Lan,Nữ,1987,37,Hải Phòng,phamthilan44@yahoo.com,Tài chính,Finance Analyst,2023-05-30,1039973.0,Thạc sĩ,3.7,18,0.6
+EMP-2062,Nguyễn Thị Bình,Nữ,1985,39,Hồ Chí Minh,nguyenthibinh97@gmail.com,Nhân sự,HR Officer,2022-04-02,583929.0,Đại học,3.6,9,1.8
+EMP-2063,Vũ Thị Bình,Nữ,1997,27,Hà Nội,vuthibinh17@company.vn,Marketing,Brand Manager,2022-11-16,1401286.0,Đại học,4.6,0,1.1
+EMP-2064,Đỗ Thị Dung,Nam,1987,37,Hồ Chí Minh,dothidung50@company.vn,Kinh doanh,Sales Manager,2022-04-17,1583244.0,Không xác định,1.6,4,1.7
+EMP-2065,Hồ Văn Giang,Nam,1989,35,Đà Nẵng,hovangiang58@outlook.com,Vận hành,Logistics,2022-08-31,805994.0,Đại học,1.7,18,1.3
+EMP-2066,Đỗ Văn Em,Nữ,1997,27,Đà Nẵng,dovanem12@yahoo.com,Kỹ thuật,Junior Dev,2023-05-27,861808.0,Đại học,4.0,2,0.6
+EMP-2067,Đặng Thị Hoa,Không xác định,1993,31,Đà Nẵng,dangthihoa5@company.vn,Marketing,Brand Manager,2023-04-06,1393693.0,Đại học,3.3,15,0.7
+EMP-2068,Không xác định,Nam,1983,41,Đà Nẵng,emp6823@yahoo.com,Marketing,SEO Specialist,2021-02-12,618103.0,Cao đẳng,2.5,7,2.9
+EMP-2069,Lê Thị Dung,Nam,1982,42,Hồ Chí Minh,lethidung34@gmail.com,Tài chính,Accountant,2022-04-19,948037.0,Đại học,2.9,15,1.7
+EMP-2070,Đỗ Văn An,Nữ,1987,37,Cần Thơ,dovanan56@company.vn,Nhân sự,HR Manager,2023-01-13,,Đại học,2.1,18,1.0
+EMP-2071,Đỗ Thị Bình,Nữ,1977,47,Hà Nội,dothibinh33@yahoo.com,Vận hành,Ops Manager,2018-02-04,,Cao đẳng,3.5,6,5.9
+EMP-2072,Hoàng Văn Em,Nam,1978,46,Hải Phòng,hoangvanem36@outlook.com,Nhân sự,Recruiter,2020-01-27,808880.0,Đại học,3.7,8,3.9
+EMP-2073,Lê Thị Hằng,Nữ,1981,43,Hà Nội,lethihang79@gmail.com,Kỹ thuật,Tech Lead,2023-07-08,3080606.0,Cao đẳng,3.9,2,0.5
+EMP-2075,Vũ Thị Bình,Không xác định,1986,38,Đà Nẵng,vuthibinh26@yahoo.com,Kỹ thuật,Tech Lead,2019-01-07,2458440.0,Thạc sĩ,4.9,9,5.0
+EMP-2076,Đỗ Văn Em,Không xác định,1990,34,Cần Thơ,dovanem3@gmail.com,Vận hành,Logistics,2020-09-03,743684.0,Cao đẳng,2.4,12,3.3
+EMP-2077,Phạm Minh Cường,Nữ,1995,29,Hồ Chí Minh,phamminhcuong40@gmail.com,Vận hành,Ops Manager,2023-06-26,1131833.0,THPT,1.7,3,0.5
+EMP-2078,Hồ Văn Hải,Nữ,1978,46,Cần Thơ,hovanhai98@gmail.com,Nhân sự,HR Manager,2021-08-21,1409530.0,Không xác định,2.3,4,2.4
+EMP-2079,Bùi Thị Bình,Nam,1999,25,Hải Phòng,buithibinh12@company.vn,Kinh doanh,Account Exec,2022-03-21,779652.0,THPT,4.2,4,1.8
+EMP-2080,Hoàng Thị Hoa,Không xác định,1995,29,Hồ Chí Minh,hoangthihoa68@gmail.com,Kinh doanh,Account Exec,2018-12-27,1014002.0,Đại học,4.5,16,5.0
+EMP-2082,Vũ Thị Dung,Nam,1988,36,Hồ Chí Minh,vuthidung95@outlook.com,Kỹ thuật,Junior Dev,2021-08-28,966425.0,Không xác định,2.5,15,2.3
+EMP-2083,Lê Văn An,Không xác định,1983,41,Cần Thơ,levanan60@outlook.com,Kinh doanh,Sales Manager,2022-01-08,1399152.0,THPT,4.0,9,2.0
+EMP-2084,Đặng Thị Dung,Nam,1989,35,Hà Nội,dangthidung76@yahoo.com,Kỹ thuật,DevOps,2023-04-24,2147021.0,Đại học,4.6,1,0.7
+EMP-2086,Nguyễn Thị Bình,Nữ,1995,29,Cần Thơ,nguyenthibinh38@outlook.com,Nhân sự,HR Officer,2022-02-26,719808.0,Đại học,3.8,18,1.8
+EMP-2087,Vũ Minh Cường,Nữ,1994,30,Hồ Chí Minh,vuminhcuong27@yahoo.com,Tài chính,CFO,2023-03-22,3982385.0,Đại học,2.0,15,0.8
+EMP-2088,Đỗ Thị Bình,Nữ,1989,35,Hà Nội,dothibinh38@outlook.com,Marketing,Brand Manager,2021-11-15,1346509.0,Cao đẳng,4.2,2,2.1
+EMP-2090,Đỗ Văn Hải,Nữ,1990,34,Đà Nẵng,dovanhai40@yahoo.com,Tài chính,CFO,2021-08-29,3937404.0,Cao đẳng,1.9,9,2.3
+EMP-2091,Nguyễn Thị Hoa,Nam,1980,44,Hà Nội,nguyenthihoa27@gmail.com,Tài chính,Accountant,2019-09-21,907780.0,Đại học,4.9,14,4.3
+EMP-2092,Hoàng Thị Hằng,Nam,1985,39,Hồ Chí Minh,hoangthihang74@yahoo.com,Nhân sự,HR Officer,2023-09-10,737469.0,Thạc sĩ,3.9,10,0.3
+EMP-2093,Phạm Thị Lan,Nữ,1985,39,Đà Nẵng,phamthilan26@gmail.com,Marketing,Content Writer,2019-01-14,505326.0,Đại học,4.4,2,5.0
+EMP-2094,Vũ Văn Em,Nam,1986,38,Hải Phòng,vuvanem94@outlook.com,Vận hành,Logistics,2022-05-01,655865.0,Thạc sĩ,2.7,5,1.7
+EMP-2095,Hồ Văn Giang,Nam,1977,47,Cần Thơ,hovangiang54@yahoo.com,Kinh doanh,Sales Rep,2021-10-05,582775.0,Đại học,3.8,4,2.2
+EMP-2096,Hoàng Thị Hằng,Nữ,2000,24,Cần Thơ,hoangthihang23@outlook.com,Marketing,Brand Manager,2018-04-20,1165879.0,Đại học,2.95,15,5.7
+EMP-2097,Nguyễn Văn Em,Không xác định,1991,33,Hà Nội,nguyenvanem89@yahoo.com,Marketing,Brand Manager,2022-03-09,1349238.0,THPT,1.2,11,1.8
+EMP-2098,Hoàng Văn Em,Nam,1985,39,Hà Nội,hoangvanem75@company.vn,Vận hành,Ops Staff,2021-08-14,635732.0,Cao đẳng,1.1,11,2.4
+EMP-2099,Trần Văn Giang,Nữ,1992,32,Hồ Chí Minh,tranvangiang3@outlook.com,Tài chính,Accountant,2023-11-24,946104.0,Tiến sĩ,3.8,14,0.1
+EMP-2100,Lê Thị Bình,Nam,1984,40,Hà Nội,lethibinh3@outlook.com,Kỹ thuật,Junior Dev,2020-07-17,751155.0,Tiến sĩ,1.2,16,3.5
+EMP-2101,Lê Thị Hoa,Nam,1993,31,Cần Thơ,lethihoa96@company.vn,Vận hành,Ops Staff,2020-04-21,633501.0,Thạc sĩ,2.4,16,3.7
+EMP-2102,Trần Thị Dung,Nam,1999,25,Hồ Chí Minh,tranthidung90@yahoo.com,Tài chính,Accountant,2019-12-05,849228.0,Thạc sĩ,4.8,11,4.1
+EMP-2103,Nguyễn Thị Bình,Nữ,1997,27,Hà Nội,nguyenthibinh77@company.vn,Marketing,Content Writer,2022-01-19,518180.0,Đại học,4.4,13,2.0
+EMP-2104,Trần Thị Bình,Nữ,1991,33,Đà Nẵng,tranthibinh14@yahoo.com,Kinh doanh,Sales Rep,2022-11-30,749694.0,Tiến sĩ,4.9,12,1.1
+EMP-2105,Bùi Thị Bình,Không xác định,1991,33,Đà Nẵng,buithibinh18@gmail.com,Vận hành,Logistics,2023-06-08,645085.0,Tiến sĩ,1.2,0,0.6
+EMP-2106,Hoàng Thị Hằng,Nam,2000,24,Hải Phòng,hoangthihang70@gmail.com,Tài chính,CFO,2023-07-10,3554134.0,Đại học,1.1,3,0.5
+EMP-2107,Hoàng Văn Giang,Nam,1990,34,Cần Thơ,hoangvangiang85@outlook.com,Kỹ thuật,Senior Dev,2019-11-04,1609000.0,Đại học,4.4,12,4.2
+EMP-2108,Hồ Văn An,Nữ,1986,38,Hà Nội,hovanan55@company.vn,Marketing,SEO Specialist,2022-02-09,612199.0,Thạc sĩ,2.6,7,1.9
+EMP-2109,Đặng Thị Lan,Nữ,1976,48,Hải Phòng,,Marketing,Content Writer,2021-08-28,492518851.0,THPT,2.95,12,2.3
+EMP-2110,Phạm Thị Hằng,Nữ,1986,38,Cần Thơ,phamthihang69@yahoo.com,Marketing,SEO Specialist,2021-05-11,735775.0,Đại học,1.2,12,2.6
+EMP-2112,Đỗ Thị Lan,Nam,1983,41,Hải Phòng,dothilan94@gmail.com,Tài chính,Accountant,2023-03-30,864590.0,Thạc sĩ,2.5,4,0.8
+EMP-2113,Phạm Văn Giang,Không xác định,1983,41,Hà Nội,,Vận hành,Ops Staff,2019-10-20,653613.0,Cao đẳng,4.2,15,4.2
+EMP-2114,Bùi Văn An,Nam,1995,29,Hồ Chí Minh,buivanan39@gmail.com,Marketing,Content Writer,2019-12-22,430828.0,Thạc sĩ,2.6,2,4.0
+EMP-2115,Phạm Thị Lan,Nam,1990,34,Hải Phòng,phamthilan75@outlook.com,Tài chính,CFO,2020-10-28,4726371.0,Tiến sĩ,4.0,6,3.2
+EMP-2116,Phạm Văn Em,Nam,1992,32,Hồ Chí Minh,phamvanem92@company.vn,Tài chính,Accountant,2021-07-20,836915.0,Đại học,1.1,1,2.5
+EMP-2117,Bùi Văn Giang,Nữ,1992,32,Đà Nẵng,buivangiang33@company.vn,Marketing,Brand Manager,2019-05-15,1480072.0,Đại học,4.3,6,4.6
+EMP-2118,Vũ Văn Giang,Nam,1998,26,Hà Nội,vuvangiang90@company.vn,Kỹ thuật,Tech Lead,2023-04-14,2991445.0,Cao đẳng,2.4,17,0.7
+EMP-2119,Trần Minh Cường,Nam,1985,39,Đà Nẵng,tranminhcuong84@yahoo.com,Vận hành,Logistics,2021-06-05,758165.0,Đại học,3.7,10,2.6
+EMP-2120,Nguyễn Văn Hải,Nữ,1993,31,Hồ Chí Minh,nguyenvanhai60@yahoo.com,Marketing,Content Writer,2022-03-26,441880.0,Thạc sĩ,4.4,13,1.8
+EMP-2121,Phạm Thị Dung,Không xác định,1978,46,Hồ Chí Minh,phamthidung96@outlook.com,Kỹ thuật,DevOps,2023-07-18,2086819.0,Cao đẳng,2.7,6,0.5
+EMP-2122,Bùi Thị Bình,Nam,1982,42,Đà Nẵng,buithibinh42@outlook.com,Nhân sự,HR Officer,2023-01-22,516906.0,Không xác định,3.9,8,0.9
+EMP-2123,Hồ Văn Giang,Nữ,1975,49,Cần Thơ,hovangiang72@gmail.com,Marketing,Brand Manager,2018-07-06,1470875.0,Cao đẳng,2.0,10,5.5
+EMP-2124,Đặng Văn Em,Không xác định,1998,26,Hải Phòng,dangvanem34@company.vn,Marketing,Content Writer,2021-02-24,487654.0,THPT,1.7,15,2.9
+EMP-2125,Bùi Văn An,Nam,1988,36,Hồ Chí Minh,buivanan59@outlook.com,Kinh doanh,Sales Rep,2023-03-29,565167.0,Tiến sĩ,3.9,11,0.8
+EMP-2126,Đặng Thị Bình,Nữ,1999,25,Hồ Chí Minh,dangthibinh43@gmail.com,Tài chính,CFO,2023-11-25,4337084.0,Thạc sĩ,4.9,11,0.1
+EMP-2127,Hồ Thị Hằng,Nam,1985,39,Cần Thơ,hothihang73@yahoo.com,Nhân sự,Recruiter,2018-01-24,779671.0,Thạc sĩ,1.2,10,5.9
+EMP-2128,Lê Văn Giang,Nữ,1975,49,Hà Nội,levangiang84@yahoo.com,Nhân sự,HR Manager,2019-01-01,1105445.0,THPT,3.0,9,5.0
+EMP-2129,Vũ Thị Lan,Không xác định,1977,47,Cần Thơ,vuthilan66@company.vn,Nhân sự,HR Manager,2022-09-29,1444998.0,Tiến sĩ,3.7,4,1.3
+EMP-2130,Phạm Văn Hải,Nữ,1996,28,Hà Nội,phamvanhai6@gmail.com,Nhân sự,HR Manager,2019-06-08,1058008.0,Đại học,2.7,18,4.6
+EMP-2131,Hoàng Thị Hoa,Nữ,1988,36,Đà Nẵng,hoangthihoa80@company.vn,Kỹ thuật,DevOps,2018-12-08,1659278.0,Thạc sĩ,4.7,6,5.1
+EMP-2133,Không xác định,Nam,1977,47,Hà Nội,emp13320@outlook.com,Kỹ thuật,Senior Dev,2020-02-21,1563670.0,Đại học,2.9,18,3.9
+EMP-2134,Bùi Văn Hải,Không xác định,1976,48,Hải Phòng,buivanhai63@yahoo.com,Kỹ thuật,DevOps,2021-04-06,2235231.0,Thạc sĩ,3.1,10,2.7
+EMP-2135,Phạm Thị Hằng,Nam,1980,44,Hải Phòng,phamthihang88@company.vn,Nhân sự,Recruiter,2018-03-27,857910.0,Đại học,4.4,14,5.8
+EMP-2136,Lê Thị Lan,Nam,1979,45,Hồ Chí Minh,lethilan64@company.vn,Nhân sự,HR Officer,2023-06-01,659242.0,Đại học,3.2,11,0.6
+EMP-2137,Vũ Thị Hoa,Nữ,1990,34,Cần Thơ,vuthihoa20@gmail.com,Kỹ thuật,Tech Lead,2020-07-06,2555620.0,Thạc sĩ,4.7,14,3.5
+EMP-2138,Hoàng Thị Hằng,Nam,1986,38,Hồ Chí Minh,hoangthihang20@company.vn,Tài chính,Accountant,2020-04-21,842338.0,Đại học,1.6,14,3.7
+EMP-2139,Phạm Minh Cường,Nam,1986,38,Hải Phòng,phamminhcuong18@outlook.com,Marketing,Brand Manager,2022-08-27,1102206.0,Đại học,2.6,16,1.3
+EMP-2140,Nguyễn Minh Cường,Nữ,1988,36,Hà Nội,nguyenminhcuong92@company.vn,Vận hành,Ops Manager,2019-11-05,1472949.0,Cao đẳng,4.5,9,4.2
+EMP-2141,Đặng Thị Dung,Không xác định,1997,27,Hồ Chí Minh,dangthidung50@yahoo.com,Vận hành,Logistics,2022-12-17,668509.0,Đại học,3.2,16,1.0
+EMP-2142,Nguyễn Thị Hoa,Nữ,1991,33,Cần Thơ,nguyenthihoa97@gmail.com,Tài chính,CFO,2022-09-28,3813904.0,THPT,2.95,7,1.3
+EMP-2143,Phạm Thị Bình,Nam,1997,27,Hải Phòng,phamthibinh47@outlook.com,Marketing,SEO Specialist,2019-07-28,674670.0,Không xác định,3.8,2,4.4
+EMP-2144,Đặng Thị Hằng,Nam,1983,41,Hà Nội,dangthihang54@yahoo.com,Kỹ thuật,Tech Lead,2022-06-06,2801822.0,THPT,1.5,4,1.6
+EMP-2145,Trần Thị Bình,Nữ,1994,30,Hải Phòng,tranthibinh16@company.vn,Nhân sự,HR Manager,2019-05-02,1035652.0,Tiến sĩ,2.5,0,4.7
+EMP-2146,Đặng Thị Hằng,Nữ,1977,47,Hải Phòng,dangthihang49@outlook.com,Marketing,Content Writer,2021-11-29,,Đại học,4.3,4,2.1
+EMP-2147,Hoàng Thị Bình,Nam,1996,28,Cần Thơ,hoangthibinh99@company.vn,Kỹ thuật,DevOps,2018-07-07,1808809.0,THPT,1.5,6,5.5
+EMP-2148,Phạm Thị Dung,Nam,1975,49,Cần Thơ,phamthidung11@company.vn,Nhân sự,Recruiter,2020-01-07,846122.0,Đại học,1.2,0,4.0
+EMP-2149,Trần Minh Cường,Nữ,1980,44,Đà Nẵng,tranminhcuong79@company.vn,Marketing,Content Writer,2019-08-13,447929.0,Thạc sĩ,3.9,3,4.4
+EMP-2150,Trần Văn Em,Nữ,1999,25,Hồ Chí Minh,tranvanem62@gmail.com,Kỹ thuật,Senior Dev,2023-09-15,1418774.0,Cao đẳng,1.9,8,0.3
+EMP-2151,Vũ Văn Hải,Nam,2000,24,Hải Phòng,vuvanhai55@outlook.com,Marketing,Brand Manager,2020-04-13,1215238.0,Tiến sĩ,4.3,9,3.7
+EMP-2152,Đỗ Thị Lan,Không xác định,1984,40,Đà Nẵng,dothilan18@company.vn,Vận hành,Logistics,2023-09-22,812303.0,Không xác định,1.8,10,0.3
+EMP-2153,Không xác định,Không xác định,1975,49,Hà Nội,,Marketing,Content Writer,2021-09-07,557455.0,Đại học,1.7,15,2.3
+EMP-2154,Nguyễn Thị Bình,Nam,1987,37,Hồ Chí Minh,nguyenthibinh29@gmail.com,Vận hành,Logistics,2022-01-06,727284.0,Không xác định,3.7,6,2.0
+EMP-2155,Đặng Thị Bình,Nữ,1975,49,Hồ Chí Minh,dangthibinh71@yahoo.com,Marketing,Content Writer,2020-05-06,481151.0,THPT,3.3,18,3.7
+EMP-2156,Đỗ Thị Hằng,Nữ,1994,30,Hải Phòng,dothihang87@gmail.com,Tài chính,CFO,2023-12-23,4651604.0,Đại học,2.3,13,0.0
+EMP-2157,Vũ Thị Bình,Nữ,1975,49,Hà Nội,vuthibinh29@outlook.com,Vận hành,Ops Staff,2021-07-19,477832.0,Đại học,4.7,10,2.5
+EMP-2158,Đỗ Thị Dung,Nữ,1976,48,Hồ Chí Minh,dothidung98@gmail.com,Kỹ thuật,Tech Lead,2021-10-27,2965508.0,Không xác định,3.3,1,2.2
+EMP-2159,Đặng Văn Giang,Nam,1992,32,Hải Phòng,dangvangiang77@gmail.com,Kỹ thuật,Tech Lead,2018-08-17,2735739.0,Đại học,2.9,3,5.4
+EMP-2160,Phạm Thị Lan,Không xác định,1993,31,Đà Nẵng,phamthilan62@outlook.com,Tài chính,Accountant,2018-10-04,714562109.0,Cao đẳng,1.6,4,5.2
+EMP-2161,Lê Văn An,Không xác định,1991,33,Hải Phòng,levanan7@outlook.com,Kinh doanh,Sales Manager,2018-02-03,1362858.0,Không xác định,4.9,6,5.9
+EMP-2162,Trần Thị Hằng,Nữ,1988,36,Hải Phòng,tranthihang1@yahoo.com,Tài chính,CFO,2021-05-12,3929833.0,Đại học,2.9,15,2.6
+EMP-2163,Phạm Thị Lan,Nam,1979,45,Hồ Chí Minh,phamthilan26@yahoo.com,Kinh doanh,Sales Rep,2019-04-17,597076.0,Cao đẳng,1.9,5,4.7
+EMP-2164,Hoàng Thị Hằng,Nam,1985,39,Đà Nẵng,hoangthihang68@outlook.com,Marketing,Content Writer,2019-03-31,429199.0,Đại học,1.3,4,4.8
+EMP-2165,Phạm Văn An,Không xác định,2000,24,Cần Thơ,phamvanan66@outlook.com,Vận hành,Ops Staff,2021-04-19,670123.0,Không xác định,1.3,2,2.7
+EMP-2166,Bùi Văn Em,Nam,1997,27,Cần Thơ,buivanem84@gmail.com,Tài chính,Finance Analyst,2023-06-03,1013759.0,Đại học,4.6,7,0.6
+EMP-2167,Nguyễn Thị Hằng,Không xác định,1986,38,Hà Nội,nguyenthihang56@outlook.com,Marketing,Brand Manager,2023-10-27,1060684.0,Thạc sĩ,3.0,0,0.2
+EMP-2168,Vũ Văn An,Nam,1978,46,Đà Nẵng,vuvanan33@company.vn,Marketing,Brand Manager,2020-07-21,1266140.0,Tiến sĩ,4.1,6,3.4
+EMP-2169,Lê Văn Giang,Nam,1990,34,Hồ Chí Minh,levangiang30@outlook.com,Marketing,SEO Specialist,2018-02-18,814276.0,Không xác định,2.8,10,5.9
+EMP-2170,Vũ Thị Hoa,Nữ,1990,34,Cần Thơ,vuthihoa98@company.vn,Tài chính,Accountant,2018-02-09,799904.0,Đại học,1.1,4,5.9
+EMP-2171,Bùi Văn Em,Không xác định,1978,46,Cần Thơ,buivanem5@outlook.com,Nhân sự,HR Officer,2023-04-29,737686.0,Không xác định,1.8,12,0.7
+EMP-2172,Trần Minh Cường,Nam,1987,37,Cần Thơ,tranminhcuong27@yahoo.com,Kỹ thuật,Tech Lead,2022-08-10,2643532.0,Không xác định,2.2,15,1.4
+EMP-2173,Đỗ Thị Hoa,Nam,1994,30,Hải Phòng,dothihoa74@gmail.com,Marketing,Content Writer,2022-06-24,426489.0,Cao đẳng,2.2,14,1.5
+EMP-2174,Hồ Thị Bình,Nữ,1996,28,Hải Phòng,hothibinh21@company.vn,Nhân sự,HR Officer,2022-04-25,553099.0,Thạc sĩ,3.2,2,1.7
+EMP-2175,Không xác định,Nam,1989,35,Đà Nẵng,emp17587@outlook.com,Marketing,Content Writer,2022-08-07,576079.0,Không xác định,4.0,12,1.4
+EMP-2176,Không xác định,Nữ,1979,45,Hồ Chí Minh,emp17638@gmail.com,Nhân sự,HR Manager,2022-11-28,1052754.0,Đại học,2.6,0,1.1
+EMP-2178,Lê Minh Cường,Nữ,2000,24,Đà Nẵng,leminhcuong42@yahoo.com,Kỹ thuật,Tech Lead,2019-01-31,2945527.0,Đại học,4.7,13,4.9
+EMP-2179,Hồ Thị Hoa,Nữ,1996,28,Đà Nẵng,hothihoa99@outlook.com,Nhân sự,Recruiter,2018-09-28,683547.0,Đại học,1.4,18,5.3
+EMP-2180,Vũ Văn An,Nữ,1996,28,Cần Thơ,vuvanan82@yahoo.com,Vận hành,Ops Manager,2021-07-26,1083807.0,Đại học,2.95,3,2.4
+EMP-2181,Hồ Thị Hằng,Nữ,1982,42,Đà Nẵng,hothihang83@gmail.com,Kinh doanh,Sales Manager,2018-06-05,1469287.0,THPT,4.9,9,5.6
+EMP-2182,Đỗ Thị Hoa,Nam,1994,30,Hồ Chí Minh,dothihoa63@gmail.com,Tài chính,Accountant,2020-06-30,970122.0,Thạc sĩ,1.2,6,3.5
+EMP-2183,Hoàng Văn Em,Nam,1980,44,Hồ Chí Minh,hoangvanem62@gmail.com,Nhân sự,Recruiter,2022-10-03,725781.0,Đại học,2.4,15,1.2
+EMP-2185,Bùi Văn Em,Nữ,1998,26,Cần Thơ,buivanem5@gmail.com,Vận hành,Ops Manager,2022-06-05,1199644.0,Không xác định,3.3,13,1.6
+EMP-2186,Bùi Văn An,Không xác định,1998,26,Hồ Chí Minh,buivanan4@yahoo.com,Vận hành,Ops Manager,2022-10-03,1196727.0,Thạc sĩ,2.8,8,1.2
+EMP-2187,Lê Văn Giang,Nữ,1981,43,Hồ Chí Minh,levangiang85@outlook.com,Kỹ thuật,DevOps,2023-10-25,1816320.0,THPT,3.9,2,0.2
+EMP-2188,Đặng Văn Hải,Nữ,1990,34,Hồ Chí Minh,dangvanhai23@company.vn,Vận hành,Logistics,2019-11-21,734242339.0,Đại học,1.5,16,4.1
+EMP-2189,Hồ Thị Bình,Nam,1989,35,Hà Nội,hothibinh49@gmail.com,Vận hành,Ops Staff,2022-08-02,645519.0,Đại học,2.4,15,1.4
+EMP-2190,Hoàng Thị Hằng,Nữ,1987,37,Đà Nẵng,hoangthihang48@company.vn,Vận hành,Ops Manager,2018-01-30,1398819.0,Đại học,4.3,12,5.9
+EMP-2191,Đỗ Văn Em,Nữ,1994,30,Hải Phòng,dovanem58@outlook.com,Nhân sự,Recruiter,2018-04-16,707506.0,Không xác định,2.95,0,5.7
+EMP-2192,Trần Văn Giang,Nữ,1996,28,Hà Nội,tranvangiang67@gmail.com,Nhân sự,Recruiter,2023-05-05,766526.0,THPT,4.2,17,0.7
+EMP-2193,Nguyễn Minh Cường,Không xác định,1988,36,Hải Phòng,nguyenminhcuong36@yahoo.com,Kinh doanh,Sales Rep,2019-03-09,550904.0,Đại học,3.7,3,4.8
+EMP-2194,Đặng Văn Hải,Nữ,1997,27,Cần Thơ,dangvanhai34@gmail.com,Kinh doanh,Account Exec,2022-03-25,1040881.0,Cao đẳng,1.4,18,1.8
+EMP-2195,Đặng Văn Giang,Nữ,1993,31,Hải Phòng,dangvangiang17@yahoo.com,Marketing,SEO Specialist,2018-09-11,756536716.0,Không xác định,1.0,10,5.3
+EMP-2196,Đỗ Thị Bình,Nữ,1994,30,Hà Nội,dothibinh81@yahoo.com,Kinh doanh,Account Exec,2018-05-21,867021.0,Không xác định,3.8,10,5.6
+EMP-2197,Vũ Văn Giang,Nữ,1975,49,Hồ Chí Minh,vuvangiang51@gmail.com,Vận hành,Logistics,2019-10-15,630266.0,Đại học,2.1,6,4.2
+EMP-2198,Phạm Thị Dung,Nam,1984,40,Hà Nội,phamthidung47@gmail.com,Vận hành,Logistics,2023-05-31,671458.0,Không xác định,5.0,13,0.6
+EMP-2199,Đặng Thị Dung,Không xác định,1979,45,Hà Nội,dangthidung63@company.vn,Kinh doanh,Sales Rep,2022-11-12,538163.0,Đại học,4.8,12,1.1
+EMP-2200,Đỗ Thị Dung,Nam,1978,46,Đà Nẵng,dothidung74@outlook.com,Marketing,Brand Manager,2018-12-05,1333534.0,Cao đẳng,4.0,5,5.1

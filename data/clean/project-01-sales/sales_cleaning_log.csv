@@ -1,0 +1,479 @@
+row_original,field,old_value,new_value,action
+25,order_id,ORD-1003,,DROPPED_DUPLICATE
+28,order_id,ORD-1007,,DROPPED_DUPLICATE
+61,order_id,ORD-1041,,DROPPED_DUPLICATE
+75,order_id,ORD-1069,,DROPPED_DUPLICATE
+76,order_id,ORD-1072,,DROPPED_DUPLICATE
+200,order_id,ORD-1088,,DROPPED_DUPLICATE
+232,order_id,ORD-1054,,DROPPED_DUPLICATE
+234,order_id,ORD-1067,,DROPPED_DUPLICATE
+237,order_id,ORD-1044,,DROPPED_DUPLICATE
+259,order_id,ORD-1103,,DROPPED_DUPLICATE
+2,date,02/22/2024,2024-02-22,DATE_FORMAT_INFERRED
+29,date,06/28/2024,2024-06-28,DATE_FORMAT_INFERRED
+55,date,08/18/2024,2024-08-18,DATE_FORMAT_INFERRED
+60,date,07/25/2024,2024-07-25,DATE_FORMAT_INFERRED
+85,date,09/15/2024,2024-09-15,DATE_FORMAT_INFERRED
+98,date,05/20/2024,2024-05-20,DATE_FORMAT_INFERRED
+105,date,08/15/2024,2024-08-15,DATE_FORMAT_INFERRED
+130,date,07/20/2024,2024-07-20,DATE_FORMAT_INFERRED
+132,date,05/23/2024,2024-05-23,DATE_FORMAT_INFERRED
+139,date,06/27/2024,2024-06-27,DATE_FORMAT_INFERRED
+144,date,10/17/2024,2024-10-17,DATE_FORMAT_INFERRED
+159,date,02/17/2024,2024-02-17,DATE_FORMAT_INFERRED
+167,date,08/23/2024,2024-08-23,DATE_FORMAT_INFERRED
+202,date,09/28/2024,2024-09-28,DATE_FORMAT_INFERRED
+204,date,04/15/2024,2024-04-15,DATE_FORMAT_INFERRED
+207,date,03/20/2024,2024-03-20,DATE_FORMAT_INFERRED
+216,date,02/13/2024,2024-02-13,DATE_FORMAT_INFERRED
+221,date,10/25/2024,2024-10-25,DATE_FORMAT_INFERRED
+224,date,11/18/2024,2024-11-18,DATE_FORMAT_INFERRED
+226,date,04/22/2024,2024-04-22,DATE_FORMAT_INFERRED
+230,date,03/30/2024,2024-03-30,DATE_FORMAT_INFERRED
+231,date,12/25/2024,2024-12-25,DATE_FORMAT_INFERRED
+236,date,07/28/2024,2024-07-28,DATE_FORMAT_INFERRED
+243,date,10/27/2024,2024-10-27,DATE_FORMAT_INFERRED
+261,date,08/21/2024,2024-08-21,DATE_FORMAT_INFERRED
+264,date,05/18/2024,2024-05-18,DATE_FORMAT_INFERRED
+272,date,03/17/2024,2024-03-17,DATE_FORMAT_INFERRED
+278,date,01/25/2024,2024-01-25,DATE_FORMAT_INFERRED
+285,date,10/28/2024,2024-10-28,DATE_FORMAT_INFERRED
+294,date,03/21/2024,2024-03-21,DATE_FORMAT_INFERRED
+298,date,10/16/2024,2024-10-16,DATE_FORMAT_INFERRED
+2,region,Ho Chi Minh,Hồ Chí Minh,REGION_NORMALIZED
+3,region,HCM,Hồ Chí Minh,REGION_NORMALIZED
+5,region,HN,Hà Nội,REGION_NORMALIZED
+6,region,DN,Đà Nẵng,REGION_NORMALIZED
+8,region,DN,Đà Nẵng,REGION_NORMALIZED
+9,region,Ha Noi,Hà Nội,REGION_NORMALIZED
+10,region,Sài Gòn,Hồ Chí Minh,REGION_NORMALIZED
+13,region,Ha Noi,Hà Nội,REGION_NORMALIZED
+14,region,Sài Gòn,Hồ Chí Minh,REGION_NORMALIZED
+17,region,Ha Noi,Hà Nội,REGION_NORMALIZED
+18,region,HP,Hải Phòng,REGION_NORMALIZED
+19,region,HCM,Hồ Chí Minh,REGION_NORMALIZED
+24,region,DN,Đà Nẵng,REGION_NORMALIZED
+26,region,HCM,Hồ Chí Minh,REGION_NORMALIZED
+27,region,HN,Hà Nội,REGION_NORMALIZED
+29,region,HP,Hải Phòng,REGION_NORMALIZED
+32,region,HCM,Hồ Chí Minh,REGION_NORMALIZED
+33,region,HCM,Hồ Chí Minh,REGION_NORMALIZED
+36,region,hai phong,Hải Phòng,REGION_NORMALIZED
+37,region,HCM,Hồ Chí Minh,REGION_NORMALIZED
+38,region,Sài Gòn,Hồ Chí Minh,REGION_NORMALIZED
+39,region,Ho Chi Minh,Hồ Chí Minh,REGION_NORMALIZED
+40,region,HP,Hải Phòng,REGION_NORMALIZED
+44,region,DN,Đà Nẵng,REGION_NORMALIZED
+46,region,hai phong,Hải Phòng,REGION_NORMALIZED
+47,region,Da Nang,Đà Nẵng,REGION_NORMALIZED
+48,region,hà nội,Hà Nội,REGION_NORMALIZED
+51,region,,Không xác định,REGION_NORMALIZED
+52,region,HN,Hà Nội,REGION_NORMALIZED
+54,region,DN,Đà Nẵng,REGION_NORMALIZED
+55,region,HN,Hà Nội,REGION_NORMALIZED
+56,region,Ha Noi,Hà Nội,REGION_NORMALIZED
+60,region,HN,Hà Nội,REGION_NORMALIZED
+62,region,HP,Hải Phòng,REGION_NORMALIZED
+63,region,Ha Noi,Hà Nội,REGION_NORMALIZED
+66,region,SG,Hồ Chí Minh,REGION_NORMALIZED
+67,region,HP,Hải Phòng,REGION_NORMALIZED
+70,region,Da Nang,Đà Nẵng,REGION_NORMALIZED
+71,region,Ho Chi Minh,Hồ Chí Minh,REGION_NORMALIZED
+73,region,Da Nang,Đà Nẵng,REGION_NORMALIZED
+74,region,hai phong,Hải Phòng,REGION_NORMALIZED
+78,region,Ha Noi,Hà Nội,REGION_NORMALIZED
+79,region,Da Nang,Đà Nẵng,REGION_NORMALIZED
+80,region,hà nội,Hà Nội,REGION_NORMALIZED
+81,region,Ha Noi,Hà Nội,REGION_NORMALIZED
+82,region,HN,Hà Nội,REGION_NORMALIZED
+83,region,hai phong,Hải Phòng,REGION_NORMALIZED
+86,region,Ha Noi,Hà Nội,REGION_NORMALIZED
+87,region,Sài Gòn,Hồ Chí Minh,REGION_NORMALIZED
+88,region,SG,Hồ Chí Minh,REGION_NORMALIZED
+89,region,,Không xác định,REGION_NORMALIZED
+90,region,HN,Hà Nội,REGION_NORMALIZED
+91,region,Ha Noi,Hà Nội,REGION_NORMALIZED
+92,region,HCM,Hồ Chí Minh,REGION_NORMALIZED
+94,region,HP,Hải Phòng,REGION_NORMALIZED
+95,region,HP,Hải Phòng,REGION_NORMALIZED
+96,region,hà nội,Hà Nội,REGION_NORMALIZED
+98,region,Sài Gòn,Hồ Chí Minh,REGION_NORMALIZED
+100,region,,Không xác định,REGION_NORMALIZED
+102,region,DN,Đà Nẵng,REGION_NORMALIZED
+103,region,hà nội,Hà Nội,REGION_NORMALIZED
+105,region,DN,Đà Nẵng,REGION_NORMALIZED
+106,region,Sài Gòn,Hồ Chí Minh,REGION_NORMALIZED
+107,region,Ha Noi,Hà Nội,REGION_NORMALIZED
+109,region,HN,Hà Nội,REGION_NORMALIZED
+111,region,Ho Chi Minh,Hồ Chí Minh,REGION_NORMALIZED
+113,region,SG,Hồ Chí Minh,REGION_NORMALIZED
+114,region,HP,Hải Phòng,REGION_NORMALIZED
+115,region,hai phong,Hải Phòng,REGION_NORMALIZED
+118,region,HN,Hà Nội,REGION_NORMALIZED
+119,region,Ho Chi Minh,Hồ Chí Minh,REGION_NORMALIZED
+120,region,SG,Hồ Chí Minh,REGION_NORMALIZED
+121,region,Sài Gòn,Hồ Chí Minh,REGION_NORMALIZED
+122,region,DN,Đà Nẵng,REGION_NORMALIZED
+123,region,HP,Hải Phòng,REGION_NORMALIZED
+124,region,hà nội,Hà Nội,REGION_NORMALIZED
+126,region,Ho Chi Minh,Hồ Chí Minh,REGION_NORMALIZED
+127,region,Ha Noi,Hà Nội,REGION_NORMALIZED
+128,region,Sài Gòn,Hồ Chí Minh,REGION_NORMALIZED
+129,region,hai phong,Hải Phòng,REGION_NORMALIZED
+130,region,hà nội,Hà Nội,REGION_NORMALIZED
+134,region,Sài Gòn,Hồ Chí Minh,REGION_NORMALIZED
+135,region,Da Nang,Đà Nẵng,REGION_NORMALIZED
+136,region,SG,Hồ Chí Minh,REGION_NORMALIZED
+137,region,Da Nang,Đà Nẵng,REGION_NORMALIZED
+138,region,hà nội,Hà Nội,REGION_NORMALIZED
+140,region,Da Nang,Đà Nẵng,REGION_NORMALIZED
+141,region,Sài Gòn,Hồ Chí Minh,REGION_NORMALIZED
+142,region,hà nội,Hà Nội,REGION_NORMALIZED
+143,region,Ha Noi,Hà Nội,REGION_NORMALIZED
+145,region,HN,Hà Nội,REGION_NORMALIZED
+146,region,Ha Noi,Hà Nội,REGION_NORMALIZED
+147,region,HN,Hà Nội,REGION_NORMALIZED
+148,region,hà nội,Hà Nội,REGION_NORMALIZED
+150,region,DN,Đà Nẵng,REGION_NORMALIZED
+151,region,HN,Hà Nội,REGION_NORMALIZED
+153,region,Sài Gòn,Hồ Chí Minh,REGION_NORMALIZED
+154,region,hai phong,Hải Phòng,REGION_NORMALIZED
+155,region,HN,Hà Nội,REGION_NORMALIZED
+156,region,hai phong,Hải Phòng,REGION_NORMALIZED
+157,region,Da Nang,Đà Nẵng,REGION_NORMALIZED
+158,region,hai phong,Hải Phòng,REGION_NORMALIZED
+159,region,hà nội,Hà Nội,REGION_NORMALIZED
+160,region,DN,Đà Nẵng,REGION_NORMALIZED
+161,region,hai phong,Hải Phòng,REGION_NORMALIZED
+163,region,Da Nang,Đà Nẵng,REGION_NORMALIZED
+165,region,Da Nang,Đà Nẵng,REGION_NORMALIZED
+166,region,hai phong,Hải Phòng,REGION_NORMALIZED
+167,region,DN,Đà Nẵng,REGION_NORMALIZED
+168,region,Ho Chi Minh,Hồ Chí Minh,REGION_NORMALIZED
+169,region,,Không xác định,REGION_NORMALIZED
+170,region,hà nội,Hà Nội,REGION_NORMALIZED
+172,region,Da Nang,Đà Nẵng,REGION_NORMALIZED
+174,region,Sài Gòn,Hồ Chí Minh,REGION_NORMALIZED
+175,region,Da Nang,Đà Nẵng,REGION_NORMALIZED
+176,region,DN,Đà Nẵng,REGION_NORMALIZED
+177,region,HP,Hải Phòng,REGION_NORMALIZED
+179,region,hà nội,Hà Nội,REGION_NORMALIZED
+181,region,hà nội,Hà Nội,REGION_NORMALIZED
+182,region,Sài Gòn,Hồ Chí Minh,REGION_NORMALIZED
+183,region,HCM,Hồ Chí Minh,REGION_NORMALIZED
+184,region,SG,Hồ Chí Minh,REGION_NORMALIZED
+185,region,Ha Noi,Hà Nội,REGION_NORMALIZED
+186,region,Ho Chi Minh,Hồ Chí Minh,REGION_NORMALIZED
+187,region,Da Nang,Đà Nẵng,REGION_NORMALIZED
+188,region,Ha Noi,Hà Nội,REGION_NORMALIZED
+189,region,DN,Đà Nẵng,REGION_NORMALIZED
+190,region,Ho Chi Minh,Hồ Chí Minh,REGION_NORMALIZED
+191,region,Sài Gòn,Hồ Chí Minh,REGION_NORMALIZED
+192,region,SG,Hồ Chí Minh,REGION_NORMALIZED
+193,region,DN,Đà Nẵng,REGION_NORMALIZED
+194,region,Ha Noi,Hà Nội,REGION_NORMALIZED
+195,region,Ha Noi,Hà Nội,REGION_NORMALIZED
+196,region,DN,Đà Nẵng,REGION_NORMALIZED
+198,region,,Không xác định,REGION_NORMALIZED
+202,region,,Không xác định,REGION_NORMALIZED
+204,region,hà nội,Hà Nội,REGION_NORMALIZED
+205,region,HP,Hải Phòng,REGION_NORMALIZED
+208,region,DN,Đà Nẵng,REGION_NORMALIZED
+209,region,Ho Chi Minh,Hồ Chí Minh,REGION_NORMALIZED
+211,region,hai phong,Hải Phòng,REGION_NORMALIZED
+213,region,HCM,Hồ Chí Minh,REGION_NORMALIZED
+214,region,,Không xác định,REGION_NORMALIZED
+215,region,HN,Hà Nội,REGION_NORMALIZED
+216,region,Ha Noi,Hà Nội,REGION_NORMALIZED
+217,region,HCM,Hồ Chí Minh,REGION_NORMALIZED
+218,region,SG,Hồ Chí Minh,REGION_NORMALIZED
+219,region,Ho Chi Minh,Hồ Chí Minh,REGION_NORMALIZED
+221,region,HP,Hải Phòng,REGION_NORMALIZED
+222,region,Ho Chi Minh,Hồ Chí Minh,REGION_NORMALIZED
+223,region,SG,Hồ Chí Minh,REGION_NORMALIZED
+224,region,Ho Chi Minh,Hồ Chí Minh,REGION_NORMALIZED
+230,region,hai phong,Hải Phòng,REGION_NORMALIZED
+233,region,,Không xác định,REGION_NORMALIZED
+236,region,DN,Đà Nẵng,REGION_NORMALIZED
+238,region,HCM,Hồ Chí Minh,REGION_NORMALIZED
+239,region,DN,Đà Nẵng,REGION_NORMALIZED
+240,region,hai phong,Hải Phòng,REGION_NORMALIZED
+242,region,HCM,Hồ Chí Minh,REGION_NORMALIZED
+244,region,SG,Hồ Chí Minh,REGION_NORMALIZED
+245,region,hai phong,Hải Phòng,REGION_NORMALIZED
+248,region,Sài Gòn,Hồ Chí Minh,REGION_NORMALIZED
+249,region,Ho Chi Minh,Hồ Chí Minh,REGION_NORMALIZED
+250,region,Ha Noi,Hà Nội,REGION_NORMALIZED
+251,region,Da Nang,Đà Nẵng,REGION_NORMALIZED
+253,region,DN,Đà Nẵng,REGION_NORMALIZED
+254,region,DN,Đà Nẵng,REGION_NORMALIZED
+255,region,HCM,Hồ Chí Minh,REGION_NORMALIZED
+256,region,SG,Hồ Chí Minh,REGION_NORMALIZED
+257,region,HP,Hải Phòng,REGION_NORMALIZED
+258,region,Ha Noi,Hà Nội,REGION_NORMALIZED
+260,region,Da Nang,Đà Nẵng,REGION_NORMALIZED
+262,region,Ha Noi,Hà Nội,REGION_NORMALIZED
+263,region,Ho Chi Minh,Hồ Chí Minh,REGION_NORMALIZED
+264,region,Ha Noi,Hà Nội,REGION_NORMALIZED
+265,region,Ho Chi Minh,Hồ Chí Minh,REGION_NORMALIZED
+266,region,HP,Hải Phòng,REGION_NORMALIZED
+267,region,HP,Hải Phòng,REGION_NORMALIZED
+268,region,hai phong,Hải Phòng,REGION_NORMALIZED
+269,region,Da Nang,Đà Nẵng,REGION_NORMALIZED
+270,region,Ho Chi Minh,Hồ Chí Minh,REGION_NORMALIZED
+273,region,Ho Chi Minh,Hồ Chí Minh,REGION_NORMALIZED
+274,region,Sài Gòn,Hồ Chí Minh,REGION_NORMALIZED
+275,region,HP,Hải Phòng,REGION_NORMALIZED
+278,region,HP,Hải Phòng,REGION_NORMALIZED
+280,region,DN,Đà Nẵng,REGION_NORMALIZED
+281,region,Da Nang,Đà Nẵng,REGION_NORMALIZED
+282,region,Sài Gòn,Hồ Chí Minh,REGION_NORMALIZED
+283,region,Sài Gòn,Hồ Chí Minh,REGION_NORMALIZED
+284,region,Ho Chi Minh,Hồ Chí Minh,REGION_NORMALIZED
+285,region,hà nội,Hà Nội,REGION_NORMALIZED
+286,region,HCM,Hồ Chí Minh,REGION_NORMALIZED
+289,region,Da Nang,Đà Nẵng,REGION_NORMALIZED
+292,region,Ho Chi Minh,Hồ Chí Minh,REGION_NORMALIZED
+294,region,DN,Đà Nẵng,REGION_NORMALIZED
+295,region,Ho Chi Minh,Hồ Chí Minh,REGION_NORMALIZED
+297,region,Da Nang,Đà Nẵng,REGION_NORMALIZED
+300,region,hai phong,Hải Phòng,REGION_NORMALIZED
+301,region,hà nội,Hà Nội,REGION_NORMALIZED
+4,salesperson,,Không xác định,NAME_NORMALIZED
+6,salesperson,,Không xác định,NAME_NORMALIZED
+7,salesperson,Nguyễn Văn An ,Nguyễn Văn An,NAME_NORMALIZED
+8,salesperson,,Không xác định,NAME_NORMALIZED
+9,salesperson,,Không xác định,NAME_NORMALIZED
+11,salesperson,,Không xác định,NAME_NORMALIZED
+13,salesperson,TRẦN THỊ BÌNH,Trần Thị Bình,NAME_NORMALIZED
+15,salesperson,le minh cuong,Lê Minh Cường,NAME_NORMALIZED
+19,salesperson,,Không xác định,NAME_NORMALIZED
+20,salesperson,,Không xác định,NAME_NORMALIZED
+21,salesperson,Nguyễn Văn An ,Nguyễn Văn An,NAME_NORMALIZED
+22,salesperson,,Không xác định,NAME_NORMALIZED
+23,salesperson,,Không xác định,NAME_NORMALIZED
+24,salesperson,,Không xác định,NAME_NORMALIZED
+26,salesperson,Nguyễn Văn An ,Nguyễn Văn An,NAME_NORMALIZED
+27,salesperson,TRẦN THỊ BÌNH,Trần Thị Bình,NAME_NORMALIZED
+31,salesperson,,Không xác định,NAME_NORMALIZED
+33,salesperson,Nguyễn Văn An ,Nguyễn Văn An,NAME_NORMALIZED
+34,salesperson,,Không xác định,NAME_NORMALIZED
+35,salesperson,le minh cuong,Lê Minh Cường,NAME_NORMALIZED
+36,salesperson,TRẦN THỊ BÌNH,Trần Thị Bình,NAME_NORMALIZED
+39,salesperson,,Không xác định,NAME_NORMALIZED
+40,salesperson,,Không xác định,NAME_NORMALIZED
+41,salesperson,Nguyễn Văn An ,Nguyễn Văn An,NAME_NORMALIZED
+43,salesperson,,Không xác định,NAME_NORMALIZED
+46,salesperson,le minh cuong,Lê Minh Cường,NAME_NORMALIZED
+47,salesperson,le minh cuong,Lê Minh Cường,NAME_NORMALIZED
+48,salesperson,le minh cuong,Lê Minh Cường,NAME_NORMALIZED
+49,salesperson,,Không xác định,NAME_NORMALIZED
+53,salesperson,,Không xác định,NAME_NORMALIZED
+55,salesperson,le minh cuong,Lê Minh Cường,NAME_NORMALIZED
+56,salesperson,,Không xác định,NAME_NORMALIZED
+57,salesperson,TRẦN THỊ BÌNH,Trần Thị Bình,NAME_NORMALIZED
+58,salesperson,,Không xác định,NAME_NORMALIZED
+59,salesperson,Nguyễn Văn An ,Nguyễn Văn An,NAME_NORMALIZED
+60,salesperson,le minh cuong,Lê Minh Cường,NAME_NORMALIZED
+63,salesperson,,Không xác định,NAME_NORMALIZED
+65,salesperson,le minh cuong,Lê Minh Cường,NAME_NORMALIZED
+67,salesperson,TRẦN THỊ BÌNH,Trần Thị Bình,NAME_NORMALIZED
+68,salesperson,le minh cuong,Lê Minh Cường,NAME_NORMALIZED
+70,salesperson,le minh cuong,Lê Minh Cường,NAME_NORMALIZED
+72,salesperson,,Không xác định,NAME_NORMALIZED
+73,salesperson,le minh cuong,Lê Minh Cường,NAME_NORMALIZED
+78,salesperson,le minh cuong,Lê Minh Cường,NAME_NORMALIZED
+82,salesperson,,Không xác định,NAME_NORMALIZED
+87,salesperson,TRẦN THỊ BÌNH,Trần Thị Bình,NAME_NORMALIZED
+88,salesperson,Nguyễn Văn An ,Nguyễn Văn An,NAME_NORMALIZED
+92,salesperson,le minh cuong,Lê Minh Cường,NAME_NORMALIZED
+93,salesperson,TRẦN THỊ BÌNH,Trần Thị Bình,NAME_NORMALIZED
+94,salesperson,,Không xác định,NAME_NORMALIZED
+95,salesperson,,Không xác định,NAME_NORMALIZED
+96,salesperson,Nguyễn Văn An ,Nguyễn Văn An,NAME_NORMALIZED
+97,salesperson,,Không xác định,NAME_NORMALIZED
+98,salesperson,le minh cuong,Lê Minh Cường,NAME_NORMALIZED
+99,salesperson,Nguyễn Văn An ,Nguyễn Văn An,NAME_NORMALIZED
+100,salesperson,,Không xác định,NAME_NORMALIZED
+102,salesperson,,Không xác định,NAME_NORMALIZED
+105,salesperson,,Không xác định,NAME_NORMALIZED
+108,salesperson,Nguyễn Văn An ,Nguyễn Văn An,NAME_NORMALIZED
+111,salesperson,,Không xác định,NAME_NORMALIZED
+117,salesperson,TRẦN THỊ BÌNH,Trần Thị Bình,NAME_NORMALIZED
+118,salesperson,Nguyễn Văn An ,Nguyễn Văn An,NAME_NORMALIZED
+122,salesperson,TRẦN THỊ BÌNH,Trần Thị Bình,NAME_NORMALIZED
+125,salesperson,,Không xác định,NAME_NORMALIZED
+126,salesperson,le minh cuong,Lê Minh Cường,NAME_NORMALIZED
+127,salesperson,le minh cuong,Lê Minh Cường,NAME_NORMALIZED
+129,salesperson,,Không xác định,NAME_NORMALIZED
+131,salesperson,TRẦN THỊ BÌNH,Trần Thị Bình,NAME_NORMALIZED
+132,salesperson,TRẦN THỊ BÌNH,Trần Thị Bình,NAME_NORMALIZED
+133,salesperson,le minh cuong,Lê Minh Cường,NAME_NORMALIZED
+135,salesperson,,Không xác định,NAME_NORMALIZED
+136,salesperson,TRẦN THỊ BÌNH,Trần Thị Bình,NAME_NORMALIZED
+137,salesperson,Nguyễn Văn An ,Nguyễn Văn An,NAME_NORMALIZED
+138,salesperson,,Không xác định,NAME_NORMALIZED
+142,salesperson,Nguyễn Văn An ,Nguyễn Văn An,NAME_NORMALIZED
+143,salesperson,TRẦN THỊ BÌNH,Trần Thị Bình,NAME_NORMALIZED
+144,salesperson,,Không xác định,NAME_NORMALIZED
+145,salesperson,,Không xác định,NAME_NORMALIZED
+149,salesperson,Nguyễn Văn An ,Nguyễn Văn An,NAME_NORMALIZED
+150,salesperson,,Không xác định,NAME_NORMALIZED
+152,salesperson,Nguyễn Văn An ,Nguyễn Văn An,NAME_NORMALIZED
+155,salesperson,,Không xác định,NAME_NORMALIZED
+157,salesperson,Nguyễn Văn An ,Nguyễn Văn An,NAME_NORMALIZED
+158,salesperson,TRẦN THỊ BÌNH,Trần Thị Bình,NAME_NORMALIZED
+159,salesperson,,Không xác định,NAME_NORMALIZED
+161,salesperson,le minh cuong,Lê Minh Cường,NAME_NORMALIZED
+165,salesperson,,Không xác định,NAME_NORMALIZED
+166,salesperson,,Không xác định,NAME_NORMALIZED
+168,salesperson,,Không xác định,NAME_NORMALIZED
+169,salesperson,,Không xác định,NAME_NORMALIZED
+170,salesperson,,Không xác định,NAME_NORMALIZED
+171,salesperson,,Không xác định,NAME_NORMALIZED
+174,salesperson,Nguyễn Văn An ,Nguyễn Văn An,NAME_NORMALIZED
+176,salesperson,,Không xác định,NAME_NORMALIZED
+180,salesperson,,Không xác định,NAME_NORMALIZED
+182,salesperson,,Không xác định,NAME_NORMALIZED
+185,salesperson,le minh cuong,Lê Minh Cường,NAME_NORMALIZED
+187,salesperson,,Không xác định,NAME_NORMALIZED
+189,salesperson,,Không xác định,NAME_NORMALIZED
+190,salesperson,le minh cuong,Lê Minh Cường,NAME_NORMALIZED
+191,salesperson,,Không xác định,NAME_NORMALIZED
+193,salesperson,,Không xác định,NAME_NORMALIZED
+196,salesperson,le minh cuong,Lê Minh Cường,NAME_NORMALIZED
+197,salesperson,TRẦN THỊ BÌNH,Trần Thị Bình,NAME_NORMALIZED
+201,salesperson,Nguyễn Văn An ,Nguyễn Văn An,NAME_NORMALIZED
+202,salesperson,Nguyễn Văn An ,Nguyễn Văn An,NAME_NORMALIZED
+205,salesperson,Nguyễn Văn An ,Nguyễn Văn An,NAME_NORMALIZED
+206,salesperson,,Không xác định,NAME_NORMALIZED
+212,salesperson,TRẦN THỊ BÌNH,Trần Thị Bình,NAME_NORMALIZED
+213,salesperson,le minh cuong,Lê Minh Cường,NAME_NORMALIZED
+214,salesperson,,Không xác định,NAME_NORMALIZED
+222,salesperson,TRẦN THỊ BÌNH,Trần Thị Bình,NAME_NORMALIZED
+223,salesperson,le minh cuong,Lê Minh Cường,NAME_NORMALIZED
+224,salesperson,le minh cuong,Lê Minh Cường,NAME_NORMALIZED
+225,salesperson,,Không xác định,NAME_NORMALIZED
+227,salesperson,le minh cuong,Lê Minh Cường,NAME_NORMALIZED
+228,salesperson,Nguyễn Văn An ,Nguyễn Văn An,NAME_NORMALIZED
+229,salesperson,,Không xác định,NAME_NORMALIZED
+235,salesperson,le minh cuong,Lê Minh Cường,NAME_NORMALIZED
+238,salesperson,TRẦN THỊ BÌNH,Trần Thị Bình,NAME_NORMALIZED
+239,salesperson,Nguyễn Văn An ,Nguyễn Văn An,NAME_NORMALIZED
+240,salesperson,le minh cuong,Lê Minh Cường,NAME_NORMALIZED
+243,salesperson,,Không xác định,NAME_NORMALIZED
+246,salesperson,le minh cuong,Lê Minh Cường,NAME_NORMALIZED
+251,salesperson,TRẦN THỊ BÌNH,Trần Thị Bình,NAME_NORMALIZED
+253,salesperson,le minh cuong,Lê Minh Cường,NAME_NORMALIZED
+254,salesperson,le minh cuong,Lê Minh Cường,NAME_NORMALIZED
+260,salesperson,Nguyễn Văn An ,Nguyễn Văn An,NAME_NORMALIZED
+261,salesperson,Nguyễn Văn An ,Nguyễn Văn An,NAME_NORMALIZED
+262,salesperson,TRẦN THỊ BÌNH,Trần Thị Bình,NAME_NORMALIZED
+263,salesperson,le minh cuong,Lê Minh Cường,NAME_NORMALIZED
+264,salesperson,,Không xác định,NAME_NORMALIZED
+265,salesperson,,Không xác định,NAME_NORMALIZED
+271,salesperson,Nguyễn Văn An ,Nguyễn Văn An,NAME_NORMALIZED
+272,salesperson,,Không xác định,NAME_NORMALIZED
+274,salesperson,,Không xác định,NAME_NORMALIZED
+275,salesperson,,Không xác định,NAME_NORMALIZED
+277,salesperson,,Không xác định,NAME_NORMALIZED
+281,salesperson,Nguyễn Văn An ,Nguyễn Văn An,NAME_NORMALIZED
+283,salesperson,le minh cuong,Lê Minh Cường,NAME_NORMALIZED
+284,salesperson,,Không xác định,NAME_NORMALIZED
+286,salesperson,le minh cuong,Lê Minh Cường,NAME_NORMALIZED
+287,salesperson,Nguyễn Văn An ,Nguyễn Văn An,NAME_NORMALIZED
+288,salesperson,,Không xác định,NAME_NORMALIZED
+290,salesperson,,Không xác định,NAME_NORMALIZED
+292,salesperson,TRẦN THỊ BÌNH,Trần Thị Bình,NAME_NORMALIZED
+296,salesperson,,Không xác định,NAME_NORMALIZED
+297,salesperson,,Không xác định,NAME_NORMALIZED
+300,salesperson,,Không xác định,NAME_NORMALIZED
+34,amount,-4200000,-4200000,AMOUNT_STATUS_CONFLICT
+55,amount,-18900000,-18900000,AMOUNT_STATUS_CONFLICT
+144,amount,-7800000,-7800000,AMOUNT_STATUS_CONFLICT
+186,amount,-1200000,-1200000,AMOUNT_STATUS_CONFLICT
+227,amount,-6500000,-6500000,AMOUNT_STATUS_CONFLICT
+250,amount,-1200000,-1200000,AMOUNT_STATUS_CONFLICT
+266,amount,-6500000,-6500000,AMOUNT_STATUS_CONFLICT
+278,amount,-9500000,-9500000,AMOUNT_STATUS_CONFLICT
+11,amount,-28500000,-28500000,AMOUNT_NEGATIVE_RETURNED
+14,amount,-4200000,-4200000,AMOUNT_NEGATIVE_RETURNED
+35,amount,-9500000,-9500000,AMOUNT_NEGATIVE_RETURNED
+46,amount,-450000,-450000,AMOUNT_NEGATIVE_RETURNED
+57,amount,-7800000,-7800000,AMOUNT_NEGATIVE_RETURNED
+58,amount,-4200000,-4200000,AMOUNT_NEGATIVE_RETURNED
+59,amount,-1200000,-1200000,AMOUNT_NEGATIVE_RETURNED
+62,amount,-4200000,-4200000,AMOUNT_NEGATIVE_RETURNED
+87,amount,-18900000,-18900000,AMOUNT_NEGATIVE_RETURNED
+91,amount,-7800000,-7800000,AMOUNT_NEGATIVE_RETURNED
+103,amount,-18900000,-18900000,AMOUNT_NEGATIVE_RETURNED
+106,amount,-6500000,-6500000,AMOUNT_NEGATIVE_RETURNED
+111,amount,-4200000,-4200000,AMOUNT_NEGATIVE_RETURNED
+120,amount,-7800000,-7800000,AMOUNT_NEGATIVE_RETURNED
+123,amount,-6500000,-6500000,AMOUNT_NEGATIVE_RETURNED
+128,amount,-6500000,-6500000,AMOUNT_NEGATIVE_RETURNED
+138,amount,-6500000,-6500000,AMOUNT_NEGATIVE_RETURNED
+139,amount,-4200000,-4200000,AMOUNT_NEGATIVE_RETURNED
+148,amount,-7800000,-7800000,AMOUNT_NEGATIVE_RETURNED
+157,amount,-9500000,-9500000,AMOUNT_NEGATIVE_RETURNED
+168,amount,-28500000,-28500000,AMOUNT_NEGATIVE_RETURNED
+175,amount,-18900000,-18900000,AMOUNT_NEGATIVE_RETURNED
+181,amount,-6500000,-6500000,AMOUNT_NEGATIVE_RETURNED
+185,amount,-6500000,-6500000,AMOUNT_NEGATIVE_RETURNED
+196,amount,-7800000,-7800000,AMOUNT_NEGATIVE_RETURNED
+197,amount,-18900000,-18900000,AMOUNT_NEGATIVE_RETURNED
+202,amount,-9500000,-9500000,AMOUNT_NEGATIVE_RETURNED
+214,amount,-4200000,-4200000,AMOUNT_NEGATIVE_RETURNED
+216,amount,-1200000,-1200000,AMOUNT_NEGATIVE_RETURNED
+224,amount,-4200000,-4200000,AMOUNT_NEGATIVE_RETURNED
+233,amount,-4200000,-4200000,AMOUNT_NEGATIVE_RETURNED
+242,amount,-18900000,-18900000,AMOUNT_NEGATIVE_RETURNED
+254,amount,-1200000,-1200000,AMOUNT_NEGATIVE_RETURNED
+275,amount,-4200000,-4200000,AMOUNT_NEGATIVE_RETURNED
+281,amount,-6500000,-6500000,AMOUNT_NEGATIVE_RETURNED
+282,amount,-1200000,-1200000,AMOUNT_NEGATIVE_RETURNED
+293,amount,-28500000,-28500000,AMOUNT_NEGATIVE_RETURNED
+166,amount,7800,7800000,AMOUNT_UNIT_FIXED
+206,amount,18900,18900000,AMOUNT_UNIT_FIXED
+228,amount,28500,28500000,AMOUNT_UNIT_FIXED
+231,amount,7800,7800000,AMOUNT_UNIT_FIXED
+276,amount,18900,18900000,AMOUNT_UNIT_FIXED
+2,customer_id,,UNKNOWN,FILLED_NULL
+57,customer_id,,UNKNOWN,FILLED_NULL
+70,customer_id,,UNKNOWN,FILLED_NULL
+73,customer_id,,UNKNOWN,FILLED_NULL
+93,customer_id,,UNKNOWN,FILLED_NULL
+173,customer_id,,UNKNOWN,FILLED_NULL
+253,customer_id,,UNKNOWN,FILLED_NULL
+283,customer_id,,UNKNOWN,FILLED_NULL
+286,customer_id,,UNKNOWN,FILLED_NULL
+300,customer_id,,UNKNOWN,FILLED_NULL
+16,discount_pct,,0,FILLED_NULL
+17,discount_pct,,0,FILLED_NULL
+24,discount_pct,,0,FILLED_NULL
+30,discount_pct,,0,FILLED_NULL
+77,discount_pct,,0,FILLED_NULL
+78,discount_pct,,0,FILLED_NULL
+83,discount_pct,,0,FILLED_NULL
+86,discount_pct,,0,FILLED_NULL
+92,discount_pct,,0,FILLED_NULL
+113,discount_pct,,0,FILLED_NULL
+121,discount_pct,,0,FILLED_NULL
+122,discount_pct,,0,FILLED_NULL
+125,discount_pct,,0,FILLED_NULL
+156,discount_pct,,0,FILLED_NULL
+164,discount_pct,,0,FILLED_NULL
+165,discount_pct,,0,FILLED_NULL
+171,discount_pct,,0,FILLED_NULL
+184,discount_pct,,0,FILLED_NULL
+207,discount_pct,,0,FILLED_NULL
+210,discount_pct,,0,FILLED_NULL
+219,discount_pct,,0,FILLED_NULL
+228,discount_pct,,0,FILLED_NULL
+241,discount_pct,,0,FILLED_NULL
+266,discount_pct,,0,FILLED_NULL
+271,discount_pct,,0,FILLED_NULL
+286,discount_pct,,0,FILLED_NULL
+291,discount_pct,,0,FILLED_NULL
+296,discount_pct,,0,FILLED_NULL
+299,discount_pct,,0,FILLED_NULL

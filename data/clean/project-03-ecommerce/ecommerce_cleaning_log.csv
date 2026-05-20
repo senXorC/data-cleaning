@@ -1,0 +1,483 @@
+table,row_id,field,old_value,new_value,action
+customers,CUS-1070,customer_id,CUS-1070,,DROPPED_DUPLICATE
+customers,CUS-1058,customer_id,CUS-1058,,DROPPED_DUPLICATE
+customers,CUS-1050,customer_id,CUS-1050,,DROPPED_DUPLICATE
+customers,CUS-1078,customer_id,CUS-1078,,DROPPED_DUPLICATE
+customers,CUS-1005,customer_id,CUS-1005,,DROPPED_DUPLICATE
+customers,CUS-1111,customer_id,CUS-1111,,DROPPED_DUPLICATE
+customers,CUS-1009,full_name,PHẠM VĂN EM,Phạm Văn Em,NAME_NORMALIZED
+customers,CUS-1010,full_name,LÊ VĂN GIANG,Lê Văn Giang,NAME_NORMALIZED
+customers,CUS-1016,full_name,lê thị hằng,Lê Thị Hằng,NAME_NORMALIZED
+customers,CUS-1019,full_name,ĐỖ VĂN EM,Đỗ Văn Em,NAME_NORMALIZED
+customers,CUS-1032,full_name,vũ thị lan,Vũ Thị Lan,NAME_NORMALIZED
+customers,CUS-1036,full_name,BÙI MINH CƯỜNG,Bùi Minh Cường,NAME_NORMALIZED
+customers,CUS-1047,full_name,ĐẶNG VĂN AN,Đặng Văn An,NAME_NORMALIZED
+customers,CUS-1070,full_name,TRẦN MINH CƯỜNG,Trần Minh Cường,NAME_NORMALIZED
+customers,CUS-1074,full_name,BÙI VĂN HẢI,Bùi Văn Hải,NAME_NORMALIZED
+customers,CUS-1076,full_name,bùi thị dung,Bùi Thị Dung,NAME_NORMALIZED
+customers,CUS-1114,full_name,BÙI VĂN HẢI,Bùi Văn Hải,NAME_NORMALIZED
+customers,CUS-1115,full_name,ĐỖ THỊ LAN,Đỗ Thị Lan,NAME_NORMALIZED
+customers,CUS-1125,full_name,bùi thị hoa,Bùi Thị Hoa,NAME_NORMALIZED
+customers,CUS-1132,full_name,LÊ VĂN GIANG,Lê Văn Giang,NAME_NORMALIZED
+customers,CUS-1146,full_name,trần văn hải,Trần Văn Hải,NAME_NORMALIZED
+customers,CUS-1148,full_name,PHẠM VĂN GIANG,Phạm Văn Giang,NAME_NORMALIZED
+customers,CUS-1001,email,nguyễnthịbình50@company.vn,nguyenthibinh50@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1002,email,vũvănem33@yahoo.com,vuvanem33@yahoo.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1003,email,hồvănan30@company.vn,hovanan30@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1004,email,hồvănan48@yahoo.com,hovanan48@yahoo.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1005,email,hồvănem87@gmail.com,hovanem87@gmail.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1006,email,lêthịdung57@company.vn,lethidung57@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1007,email,bùivănem78@yahoo.com,buivanem78@yahoo.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1008,email,lêthịhoa57@outlook.com,lethihoa57@outlook.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1009,email,phạmvănem55@yahoo.com,phamvanem55@yahoo.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1010,email,lêvăngiang64yahoo.com,levangiang64@yahoo.com,EMAIL_AT_INSERTED
+customers,CUS-1011,email,bùivănhải51@gmail.com,buivanhai51@gmail.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1012,email,phạmvănan20@outlook.com,phamvanan20@outlook.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1013,email,vũvănem81@yahoo.com,vuvanem81@yahoo.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1014,email,hồvăngiang46@yahoo.com,hovangiang46@yahoo.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1015,email,trầnvăngiang56@yahoo.com,tranvangiang56@yahoo.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1016,email,lêthịhằng40gmail.com,lethihang40@gmail.com,EMAIL_AT_INSERTED
+customers,CUS-1017,email,dặngvăngiang16@company.vn,dangvangiang16@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1018,email,bùivănan9@outlook.com,buivanan9@outlook.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1019,email,dỗvănem86@yahoo.com,dovanem86@yahoo.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1020,email,bùithịlan96@gmail.com,buithilan96@gmail.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1021,email,phạmthịhoa8@gmail.com,phamthihoa8@gmail.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1022,email,hồvănan18@company.vn,hovanan18@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1023,email,phạmvănem39outlook.com,phamvanem39@outlook.com,EMAIL_AT_INSERTED
+customers,CUS-1024,email,dặngvăngiang67@gmail.com,dangvangiang67@gmail.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1025,email,hoàngthịdung54@gmail.com,hoangthidung54@gmail.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1026,email,nguyễnthịbình33@company.vn,nguyenthibinh33@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1027,email,lêvăngiang65@company.vn,levangiang65@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1028,email,lêvănan75@yahoo.com,levanan75@yahoo.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1029,email,phạmvăngiang15@yahoo.com,phamvangiang15@yahoo.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1030,email,dặngthịdung3@company.vn,dangthidung3@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1031,email,phạmthịhằng10@gmail.com,phamthihang10@gmail.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1032,email,vũthịlan35@company.vn,vuthilan35@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1033,email,bùithịlan13@yahoo.com,buithilan13@yahoo.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1034,email,hồthịhoa48@gmail.com,hothihoa48@gmail.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1035,email,vũvănan26@company.vn,vuvanan26@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1036,email,bùiminhcường5@outlook.com,buiminhcuong5@outlook.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1037,email,hoàngthịbình35@outlook.com,hoangthibinh35@outlook.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1038,email,hoàngthịdung85@gmail.com,hoangthidung85@gmail.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1039,email,nguyễnthịhằng12@gmail.com,nguyenthihang12@gmail.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1040,email,phạmvănem4@yahoo.com,phamvanem4@yahoo.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1041,email,trầnthịhoa50@gmail.com,tranthihoa50@gmail.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1042,email,trầnthịhằng38@yahoo.com,tranthihang38@yahoo.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1043,email,hồthịhằng45@yahoo.com,hothihang45@yahoo.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1044,email,dặngthịdung94@outlook.com,dangthidung94@outlook.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1045,email,hồthịlan31@gmail.com,hothilan31@gmail.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1046,email,dỗthịhoa33@yahoo.com,dothihoa33@yahoo.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1047,email,dặngvănan17@company.vn,dangvanan17@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1048,email,dỗvănem92@outlook.com,dovanem92@outlook.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1049,email,dỗvăngiang23@company.vn,dovangiang23@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1050,email,dặngvănhải35@gmail.com,dangvanhai35@gmail.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1051,email,vũthịdung45@outlook.com,vuthidung45@outlook.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1052,email,hồthịbình55@outlook.com,hothibinh55@outlook.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1053,email,hoàngminhcường72@yahoo.com,hoangminhcuong72@yahoo.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1054,email,trầnthịhằng91@company.vn,tranthihang91@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1055,email,lêthịhằng61@yahoo.com,lethihang61@yahoo.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1056,email,bùithịhoa87@yahoo.com,buithihoa87@yahoo.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1057,email,dặngvănhải19@yahoo.com,dangvanhai19@yahoo.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1058,email,hoàngthịlan64@yahoo.com,hoangthilan64@yahoo.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1059,email,dặngthịbình94@outlook.com,dangthibinh94@outlook.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1060,email,bùithịdung58@yahoo.com,buithidung58@yahoo.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1061,email,trầnthịbình63@outlook.com,tranthibinh63@outlook.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1062,email,hồvăngiang53@gmail.com,hovangiang53@gmail.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1063,email,lêthịdung54@gmail.com,lethidung54@gmail.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1064,email,bùithịbình10@company.vn,buithibinh10@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1065,email,hoàngthịhoa39@yahoo.com,hoangthihoa39@yahoo.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1066,email,lêvănan14@yahoo.com,levanan14@yahoo.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1067,email,trầnvănhải66@outlook.com,tranvanhai66@outlook.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1068,email,lêvăngiang85@gmail.com,levangiang85@gmail.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1069,email,dặngthịbình84@company.vn,dangthibinh84@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1070,email,trầnminhcường9@outlook.com,tranminhcuong9@outlook.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1071,email,nguyễnthịlan82@yahoo.com,nguyenthilan82@yahoo.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1072,email,phạmthịhoa86@gmail.com,phamthihoa86@gmail.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1073,email,vũthịlan72@yahoo.com,vuthilan72@yahoo.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1074,email,bùivănhải96@yahoo.com,buivanhai96@yahoo.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1075,email,hoàngthịlan99@company.vn,hoangthilan99@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1076,email,bùithịdung34@company.vn,buithidung34@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1077,email,trầnthịhằng61yahoo.com,tranthihang61@yahoo.com,EMAIL_AT_INSERTED
+customers,CUS-1078,email,phạmthịhoa8@yahoo.com,phamthihoa8@yahoo.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1079,email,lêvăngiang92@outlook.com,levangiang92@outlook.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1080,email,dặngthịbình67@company.vn,dangthibinh67@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1082,email,trầnminhcường9@outlook.com,dangvanan40@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1083,email,dặngvănan40@company.vn,dangvanem16@gmail.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1084,email,dặngvănem16@gmail.com,dovanem24@yahoo.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1085,email,dỗvănem24@yahoo.com,hothihang51@gmail.com,EMAIL_AT_INSERTED
+customers,CUS-1086,email,hồthịhằng51gmail.com,buithidung33@yahoo.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1089,email,bùithịdung33@yahoo.com,hovangiang30@outlook.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1090,email,hoàngthịlan64@yahoo.com,nguyenthilan17@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1091,email,dặngvănhải35@gmail.com,dangminhcuong99@outlook.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1092,email,hồvăngiang30@outlook.com,nguyenvanan55@yahoo.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1093,email,nguyễnthịlan17@company.vn,dothibinh97@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1094,email,dặngminhcường99@outlook.com,tranthihoa96@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1095,email,nguyễnvănan55@yahoo.com,dovangiang67@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1096,email,dỗthịbình97@company.vn,nguyenthihang6@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1098,email,trầnthịhoa96@company.vn,dangthilan99@outlook.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1099,email,dỗvăngiang67@company.vn,hoangthilan66@yahoo.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1100,email,nguyễnthịhằng6@company.vn,hoangvanan19@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1101,email,phạmthịhoa8@yahoo.com,levanan11@outlook.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1102,email,dặngthịlan99@outlook.com,hovanhai62@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1103,email,hoàngthịlan66@yahoo.com,vuthilan70@yahoo.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1105,email,hoàngvănan19@company.vn,dangvanhai82@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1106,email,lêvănan11@outlook.com,buithibinh19@outlook.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1107,email,hồvănhải62@company.vn,phamthidung47@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1108,email,vũthịlan70@yahoo.com,hovangiang52@yahoo.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1109,email,hồvănem87@gmail.com,buivangiang30@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1110,email,dặngvănhải82@company.vn,tranthidung96@outlook.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1111,email,bùithịbình19@outlook.com,buivanan32@gmail.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1112,email,phạmthịdung47@company.vn,hoangminhcuong94@outlook.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1113,email,hồvăngiang52@yahoo.com,dangvanhai40@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1114,email,bùivăngiang30@company.vn,buivanhai28@outlook.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1115,email,trầnthịdung96@outlook.com,dothilan61@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1116,email,bùivănan32@gmail.com,hoangthibinh9@gmail.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1117,email,hoàngminhcường94@outlook.com,lethihang66@yahoo.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1118,email,dặngvănhải40@company.vn,hothihang94@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1119,email,bùivănhải28@outlook.com,leminhcuong93@gmail.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1120,email,dỗthịlan61@company.vn,tranthilan8@outlook.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1121,email,hoàngthịbình9@gmail.com,lethilan52@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1122,email,lêthịhằng66@yahoo.com,tranvangiang33@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1123,email,hồthịhằng94@company.vn,levanem99@outlook.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1124,email,lêminhcường93@gmail.com,hothihoa38@outlook.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1125,email,trầnthịlan8@outlook.com,buithihoa26@yahoo.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1126,email,lêthịlan52@company.vn,dangthihoa50@yahoo.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1127,email,trầnvăngiang33@company.vn,nguyenthihang67@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1128,email,lêvănem99@outlook.com,buithilan96@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1129,email,hồthịhoa38@outlook.com,hoangvanan98@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1130,email,bùithịhoa26@yahoo.com,buivanem85@outlook.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1131,email,dặngthịhoa50@yahoo.com,vuminhcuong94@outlook.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1132,email,nguyễnthịhằng67@company.vn,levangiang94@yahoo.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1133,email,bùithịlan96@company.vn,buivanem49@yahoo.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1134,email,hoàngvănan98@company.vn,hoangthihoa63@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1135,email,bùivănem85@outlook.com,vuthibinh20@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1136,email,vũminhcường94@outlook.com,vuvangiang34@outlook.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1137,email,lêvăngiang94@yahoo.com,hothihang93@yahoo.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1138,email,bùivănem49@yahoo.com,vuvanem63@outlook.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1139,email,hoàngthịhoa63@company.vn,levanhai53@outlook.com,EMAIL_AT_INSERTED
+customers,CUS-1140,email,vũthịbình20@company.vn,hoangminhcuong37@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1141,email,vũvăngiang34@outlook.com,tranthidung39@company.vn,EMAIL_AT_INSERTED
+customers,CUS-1142,email,hồthịhằng93@yahoo.com,buithibinh93@outlook.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1143,email,vũvănem63@outlook.com,phamvanem5@gmail.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1144,email,lêvănhải53outlook.com,lethibinh61@outlook.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1145,email,hoàngminhcường37@company.vn,hoangminhcuong24@outlook.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1146,email,trầnthịdung39company.vn,tranvanhai11@company.vn,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1147,email,bùithịbình93@outlook.com,tranminhcuong90@gmail.com,EMAIL_AT_INSERTED
+customers,CUS-1148,email,phạmvănem5@gmail.com,phamvangiang34@gmail.com,EMAIL_DIACRITIC_REMOVED
+customers,CUS-1150,email,lêthịbình61@outlook.com,vuvanan18@yahoo.com,EMAIL_AT_INSERTED
+customers,CUS-1005,phone,+84943166247,0943166247,PHONE_NORMALIZED
+customers,CUS-1018,phone,+84965286303,0965286303,PHONE_NORMALIZED
+customers,CUS-1026,phone,+84961612490,0961612490,PHONE_NORMALIZED
+customers,CUS-1062,phone,+84939598138,0939598138,PHONE_NORMALIZED
+customers,CUS-1066,phone,+84984090536,0984090536,PHONE_NORMALIZED
+customers,CUS-1071,phone,+84976105295,0976105295,PHONE_NORMALIZED
+customers,CUS-1077,phone,+84930339338,0930339338,PHONE_NORMALIZED
+customers,CUS-1085,phone,0916090322,0903465807,PHONE_NORMALIZED
+customers,CUS-1115,phone,0902877475,0942831915,PHONE_NORMALIZED
+customers,CUS-1128,phone,0955334439,0979721837,PHONE_NORMALIZED
+customers,CUS-1138,phone,0954629348,0959699527,PHONE_NORMALIZED
+customers,CUS-1141,phone,0965666581,0963202176,PHONE_NORMALIZED
+customers,CUS-1001,membership_tier,bronze,Bronze,TIER_NORMALIZED
+customers,CUS-1007,membership_tier,bronze,Bronze,TIER_NORMALIZED
+customers,CUS-1011,membership_tier,bronze,Bronze,TIER_NORMALIZED
+customers,CUS-1015,membership_tier,bronze,Bronze,TIER_NORMALIZED
+customers,CUS-1021,membership_tier,bronze,Bronze,TIER_NORMALIZED
+customers,CUS-1022,membership_tier,bronze,Bronze,TIER_NORMALIZED
+customers,CUS-1023,membership_tier,bronze,Bronze,TIER_NORMALIZED
+customers,CUS-1026,membership_tier,GOLD,Gold,TIER_NORMALIZED
+customers,CUS-1027,membership_tier,,Không xác định,TIER_NORMALIZED
+customers,CUS-1028,membership_tier,bronze,Bronze,TIER_NORMALIZED
+customers,CUS-1030,membership_tier,,Không xác định,TIER_NORMALIZED
+customers,CUS-1031,membership_tier,GOLD,Gold,TIER_NORMALIZED
+customers,CUS-1033,membership_tier,,Không xác định,TIER_NORMALIZED
+customers,CUS-1035,membership_tier,GOLD,Gold,TIER_NORMALIZED
+customers,CUS-1037,membership_tier,,Không xác định,TIER_NORMALIZED
+customers,CUS-1044,membership_tier,GOLD,Gold,TIER_NORMALIZED
+customers,CUS-1046,membership_tier,GOLD,Gold,TIER_NORMALIZED
+customers,CUS-1048,membership_tier,,Không xác định,TIER_NORMALIZED
+customers,CUS-1049,membership_tier,bronze,Bronze,TIER_NORMALIZED
+customers,CUS-1058,membership_tier,bronze,Bronze,TIER_NORMALIZED
+customers,CUS-1062,membership_tier,bronze,Bronze,TIER_NORMALIZED
+customers,CUS-1064,membership_tier,,Không xác định,TIER_NORMALIZED
+customers,CUS-1065,membership_tier,,Không xác định,TIER_NORMALIZED
+customers,CUS-1066,membership_tier,GOLD,Gold,TIER_NORMALIZED
+customers,CUS-1067,membership_tier,GOLD,Gold,TIER_NORMALIZED
+customers,CUS-1070,membership_tier,GOLD,Gold,TIER_NORMALIZED
+customers,CUS-1072,membership_tier,bronze,Bronze,TIER_NORMALIZED
+customers,CUS-1079,membership_tier,,Không xác định,TIER_NORMALIZED
+customers,CUS-1083,membership_tier,,Không xác định,TIER_NORMALIZED
+customers,CUS-1084,membership_tier,bronze,Bronze,TIER_NORMALIZED
+customers,CUS-1090,membership_tier,bronze,Bronze,TIER_NORMALIZED
+customers,CUS-1093,membership_tier,GOLD,Gold,TIER_NORMALIZED
+customers,CUS-1095,membership_tier,,Không xác định,TIER_NORMALIZED
+customers,CUS-1098,membership_tier,bronze,Bronze,TIER_NORMALIZED
+customers,CUS-1102,membership_tier,bronze,Bronze,TIER_NORMALIZED
+customers,CUS-1103,membership_tier,bronze,Bronze,TIER_NORMALIZED
+customers,CUS-1107,membership_tier,,Không xác định,TIER_NORMALIZED
+customers,CUS-1111,membership_tier,bronze,Bronze,TIER_NORMALIZED
+customers,CUS-1114,membership_tier,bronze,Bronze,TIER_NORMALIZED
+customers,CUS-1115,membership_tier,,Không xác định,TIER_NORMALIZED
+customers,CUS-1116,membership_tier,GOLD,Gold,TIER_NORMALIZED
+customers,CUS-1117,membership_tier,GOLD,Gold,TIER_NORMALIZED
+customers,CUS-1118,membership_tier,bronze,Bronze,TIER_NORMALIZED
+customers,CUS-1119,membership_tier,bronze,Bronze,TIER_NORMALIZED
+customers,CUS-1125,membership_tier,bronze,Bronze,TIER_NORMALIZED
+customers,CUS-1126,membership_tier,bronze,Bronze,TIER_NORMALIZED
+customers,CUS-1127,membership_tier,GOLD,Gold,TIER_NORMALIZED
+customers,CUS-1131,membership_tier,bronze,Bronze,TIER_NORMALIZED
+customers,CUS-1134,membership_tier,bronze,Bronze,TIER_NORMALIZED
+customers,CUS-1135,membership_tier,bronze,Bronze,TIER_NORMALIZED
+customers,CUS-1138,membership_tier,bronze,Bronze,TIER_NORMALIZED
+customers,CUS-1139,membership_tier,GOLD,Gold,TIER_NORMALIZED
+customers,CUS-1140,membership_tier,GOLD,Gold,TIER_NORMALIZED
+customers,CUS-1144,membership_tier,,Không xác định,TIER_NORMALIZED
+customers,CUS-1145,membership_tier,bronze,Bronze,TIER_NORMALIZED
+customers,CUS-1150,membership_tier,GOLD,Gold,TIER_NORMALIZED
+products,PRD-2006,status,,unknown,STATUS_NORMALIZED
+products,PRD-2007,status,Active,active,STATUS_NORMALIZED
+products,PRD-2008,status,,unknown,STATUS_NORMALIZED
+products,PRD-2009,status,ACTIVE,active,STATUS_NORMALIZED
+products,PRD-2012,status,ACTIVE,active,STATUS_NORMALIZED
+products,PRD-2013,status,ACTIVE,active,STATUS_NORMALIZED
+products,PRD-2014,status,,unknown,STATUS_NORMALIZED
+products,PRD-2017,status,Active,active,STATUS_NORMALIZED
+products,PRD-2019,status,Active,active,STATUS_NORMALIZED
+products,PRD-2020,status,,unknown,STATUS_NORMALIZED
+products,PRD-2022,status,,unknown,STATUS_NORMALIZED
+products,PRD-2024,status,ACTIVE,active,STATUS_NORMALIZED
+products,PRD-2027,status,ACTIVE,active,STATUS_NORMALIZED
+products,PRD-2029,status,Active,active,STATUS_NORMALIZED
+products,PRD-2030,status,ACTIVE,active,STATUS_NORMALIZED
+products,PRD-2033,status,ACTIVE,active,STATUS_NORMALIZED
+products,PRD-2034,status,Active,active,STATUS_NORMALIZED
+products,PRD-2035,status,Active,active,STATUS_NORMALIZED
+products,PRD-2036,status,,unknown,STATUS_NORMALIZED
+products,PRD-2039,status,,unknown,STATUS_NORMALIZED
+products,PRD-2044,status,Active,active,STATUS_NORMALIZED
+products,PRD-2045,status,,unknown,STATUS_NORMALIZED
+products,PRD-2047,status,,unknown,STATUS_NORMALIZED
+products,PRD-2048,status,ACTIVE,active,STATUS_NORMALIZED
+products,PRD-2049,status,ACTIVE,active,STATUS_NORMALIZED
+products,PRD-2001,stock_qty,-5,0,STOCK_NEGATIVE_ZEROED
+orders,ORD-3108,order_id,ORD-3108,,DROPPED_DUPLICATE
+orders,ORD-3175,order_id,ORD-3175,,DROPPED_DUPLICATE
+orders,ORD-3051,order_id,ORD-3051,,DROPPED_DUPLICATE
+orders,ORD-3138,order_id,ORD-3138,,DROPPED_DUPLICATE
+orders,ORD-3096,order_id,ORD-3096,,DROPPED_DUPLICATE
+orders,ORD-3222,order_id,ORD-3222,,DROPPED_DUPLICATE
+orders,ORD-3052,order_id,ORD-3052,,DROPPED_DUPLICATE
+orders,ORD-3200,order_id,ORD-3200,,DROPPED_DUPLICATE
+orders,ORD-3272,order_id,ORD-3272,,DROPPED_DUPLICATE
+orders,ORD-3287,order_id,ORD-3287,,DROPPED_DUPLICATE
+orders,ORD-3286,order_id,ORD-3286,,DROPPED_DUPLICATE
+orders,ORD-3358,order_id,ORD-3358,,DROPPED_DUPLICATE
+orders,ORD-3235,order_id,ORD-3235,,DROPPED_DUPLICATE
+orders,ORD-3030,currency,USD,VND,CURRENCY_FIXED
+orders,ORD-3030,total_amount,22.08,(tính lại từ unit_price × qty),TOTAL_WILL_RECALCULATE
+orders,ORD-3052,currency,USD,VND,CURRENCY_FIXED
+orders,ORD-3052,total_amount,34.01,(tính lại từ unit_price × qty),TOTAL_WILL_RECALCULATE
+orders,ORD-3061,currency,USD,VND,CURRENCY_FIXED
+orders,ORD-3061,total_amount,399.52,(tính lại từ unit_price × qty),TOTAL_WILL_RECALCULATE
+orders,ORD-3082,currency,USD,VND,CURRENCY_FIXED
+orders,ORD-3082,total_amount,18.0,(tính lại từ unit_price × qty),TOTAL_WILL_RECALCULATE
+orders,ORD-3119,currency,USD,VND,CURRENCY_FIXED
+orders,ORD-3119,total_amount,38.16,(tính lại từ unit_price × qty),TOTAL_WILL_RECALCULATE
+orders,ORD-3145,currency,USD,VND,CURRENCY_FIXED
+orders,ORD-3145,total_amount,23.28,(tính lại từ unit_price × qty),TOTAL_WILL_RECALCULATE
+orders,ORD-3156,currency,USD,VND,CURRENCY_FIXED
+orders,ORD-3156,total_amount,23.52,(tính lại từ unit_price × qty),TOTAL_WILL_RECALCULATE
+orders,ORD-3183,currency,USD,VND,CURRENCY_FIXED
+orders,ORD-3183,total_amount,9.9,(tính lại từ unit_price × qty),TOTAL_WILL_RECALCULATE
+orders,ORD-3205,currency,USD,VND,CURRENCY_FIXED
+orders,ORD-3205,total_amount,242.4,(tính lại từ unit_price × qty),TOTAL_WILL_RECALCULATE
+orders,ORD-3206,currency,USD,VND,CURRENCY_FIXED
+orders,ORD-3206,total_amount,62.32,(tính lại từ unit_price × qty),TOTAL_WILL_RECALCULATE
+orders,ORD-3233,currency,USD,VND,CURRENCY_FIXED
+orders,ORD-3233,total_amount,103.44,(tính lại từ unit_price × qty),TOTAL_WILL_RECALCULATE
+orders,ORD-3237,currency,USD,VND,CURRENCY_FIXED
+orders,ORD-3237,total_amount,-13.08,(tính lại từ unit_price × qty),TOTAL_WILL_RECALCULATE
+orders,ORD-3241,currency,USD,VND,CURRENCY_FIXED
+orders,ORD-3241,total_amount,934.8,(tính lại từ unit_price × qty),TOTAL_WILL_RECALCULATE
+orders,ORD-3254,currency,USD,VND,CURRENCY_FIXED
+orders,ORD-3254,total_amount,13.2,(tính lại từ unit_price × qty),TOTAL_WILL_RECALCULATE
+orders,ORD-3256,currency,USD,VND,CURRENCY_FIXED
+orders,ORD-3256,total_amount,224.0,(tính lại từ unit_price × qty),TOTAL_WILL_RECALCULATE
+orders,ORD-3275,currency,USD,VND,CURRENCY_FIXED
+orders,ORD-3275,total_amount,22.4,(tính lại từ unit_price × qty),TOTAL_WILL_RECALCULATE
+orders,ORD-3278,currency,USD,VND,CURRENCY_FIXED
+orders,ORD-3278,total_amount,187.68,(tính lại từ unit_price × qty),TOTAL_WILL_RECALCULATE
+orders,ORD-3318,currency,USD,VND,CURRENCY_FIXED
+orders,ORD-3318,total_amount,77.92,(tính lại từ unit_price × qty),TOTAL_WILL_RECALCULATE
+orders,ORD-3324,currency,USD,VND,CURRENCY_FIXED
+orders,ORD-3324,total_amount,20.92,(tính lại từ unit_price × qty),TOTAL_WILL_RECALCULATE
+orders,ORD-3337,currency,USD,VND,CURRENCY_FIXED
+orders,ORD-3337,total_amount,265.6,(tính lại từ unit_price × qty),TOTAL_WILL_RECALCULATE
+orders,ORD-3360,currency,USD,VND,CURRENCY_FIXED
+orders,ORD-3360,total_amount,5.72,(tính lại từ unit_price × qty),TOTAL_WILL_RECALCULATE
+orders,ORD-3362,currency,USD,VND,CURRENCY_FIXED
+orders,ORD-3362,total_amount,25.28,(tính lại từ unit_price × qty),TOTAL_WILL_RECALCULATE
+orders,ORD-3377,currency,USD,VND,CURRENCY_FIXED
+orders,ORD-3377,total_amount,99.0,(tính lại từ unit_price × qty),TOTAL_WILL_RECALCULATE
+orders,ORD-3381,currency,USD,VND,CURRENCY_FIXED
+orders,ORD-3381,total_amount,46.88,(tính lại từ unit_price × qty),TOTAL_WILL_RECALCULATE
+orders,ORD-3385,currency,USD,VND,CURRENCY_FIXED
+orders,ORD-3385,total_amount,7.36,(tính lại từ unit_price × qty),TOTAL_WILL_RECALCULATE
+orders,ORD-3394,currency,USD,VND,CURRENCY_FIXED
+orders,ORD-3394,total_amount,55.8,(tính lại từ unit_price × qty),TOTAL_WILL_RECALCULATE
+orders,ORD-3441,currency,USD,VND,CURRENCY_FIXED
+orders,ORD-3441,total_amount,131.36,(tính lại từ unit_price × qty),TOTAL_WILL_RECALCULATE
+orders,ORD-3461,currency,USD,VND,CURRENCY_FIXED
+orders,ORD-3461,total_amount,45.28,(tính lại từ unit_price × qty),TOTAL_WILL_RECALCULATE
+orders,ORD-3490,currency,USD,VND,CURRENCY_FIXED
+orders,ORD-3490,total_amount,187.68,(tính lại từ unit_price × qty),TOTAL_WILL_RECALCULATE
+orders,ORD-3491,currency,USD,VND,CURRENCY_FIXED
+orders,ORD-3491,total_amount,48.48,(tính lại từ unit_price × qty),TOTAL_WILL_RECALCULATE
+orders,ORD-3493,currency,USD,VND,CURRENCY_FIXED
+orders,ORD-3493,total_amount,11.2,(tính lại từ unit_price × qty),TOTAL_WILL_RECALCULATE
+orders,ORD-3498,currency,USD,VND,CURRENCY_FIXED
+orders,ORD-3498,total_amount,44.64,(tính lại từ unit_price × qty),TOTAL_WILL_RECALCULATE
+orders,ORD-3499,currency,USD,VND,CURRENCY_FIXED
+orders,ORD-3499,total_amount,193.92,(tính lại từ unit_price × qty),TOTAL_WILL_RECALCULATE
+orders,ORD-3022,total_amount,426600.0,474000.0,TOTAL_RECALCULATED
+orders,ORD-3029,total_amount,1400000.0,140000.0,TOTAL_RECALCULATED
+orders,ORD-3030,total_amount,22.08,552000.0,TOTAL_RECALCULATED
+orders,ORD-3036,total_amount,13079000.000000002,11890000.0,TOTAL_RECALCULATED
+orders,ORD-3041,total_amount,32840000.0,3284000.0,TOTAL_RECALCULATED
+orders,ORD-3050,total_amount,1023000.0,930000.0,TOTAL_RECALCULATED
+orders,ORD-3052,total_amount,34.01,773000.0,TOTAL_RECALCULATED
+orders,ORD-3061,total_amount,399.52,9988000.0,TOTAL_RECALCULATED
+orders,ORD-3082,total_amount,18.0,450000.0,TOTAL_RECALCULATED
+orders,ORD-3089,total_amount,639000.0,710000.0,TOTAL_RECALCULATED
+orders,ORD-3093,total_amount,630000.0,700000.0,TOTAL_RECALCULATED
+orders,ORD-3094,total_amount,1600000.0,160000.0,TOTAL_RECALCULATED
+orders,ORD-3103,total_amount,3505500.0,3895000.0,TOTAL_RECALCULATED
+orders,ORD-3105,total_amount,4971600.0,5524000.0,TOTAL_RECALCULATED
+orders,ORD-3118,total_amount,3038200.0000000005,2762000.0,TOTAL_RECALCULATED
+orders,ORD-3119,total_amount,38.16,954000.0,TOTAL_RECALCULATED
+orders,ORD-3132,total_amount,23200000.0,2320000.0,TOTAL_RECALCULATED
+orders,ORD-3145,total_amount,23.28,582000.0,TOTAL_RECALCULATED
+orders,ORD-3156,total_amount,23.52,588000.0,TOTAL_RECALCULATED
+orders,ORD-3165,total_amount,69050000.0,6905000.0,TOTAL_RECALCULATED
+orders,ORD-3174,total_amount,738900.0,821000.0,TOTAL_RECALCULATED
+orders,ORD-3183,total_amount,9.9,2475000.0,TOTAL_RECALCULATED
+orders,ORD-3205,total_amount,242.4,6060000.0,TOTAL_RECALCULATED
+orders,ORD-3206,total_amount,62.32,1558000.0,TOTAL_RECALCULATED
+orders,ORD-3226,total_amount,13950000.0,1395000.0,TOTAL_RECALCULATED
+orders,ORD-3227,total_amount,15690000.0,1569000.0,TOTAL_RECALCULATED
+orders,ORD-3233,total_amount,103.44,2586000.0,TOTAL_RECALCULATED
+orders,ORD-3241,total_amount,934.8,2337000.0,TOTAL_RECALCULATED
+orders,ORD-3254,total_amount,13.2,300000.0,TOTAL_RECALCULATED
+orders,ORD-3256,total_amount,224.0,560000.0,TOTAL_RECALCULATED
+orders,ORD-3257,total_amount,13079000.000000002,11890000.0,TOTAL_RECALCULATED
+orders,ORD-3275,total_amount,22.4,560000.0,TOTAL_RECALCULATED
+orders,ORD-3278,total_amount,187.68,4692000.0,TOTAL_RECALCULATED
+orders,ORD-3292,total_amount,7350000.0,735000.0,TOTAL_RECALCULATED
+orders,ORD-3299,total_amount,238500.0,2385000.0,TOTAL_RECALCULATED
+orders,ORD-3318,total_amount,77.92,1948000.0,TOTAL_RECALCULATED
+orders,ORD-3319,total_amount,16350000.0,1635000.0,TOTAL_RECALCULATED
+orders,ORD-3322,total_amount,1173000.0,11730000.0,TOTAL_RECALCULATED
+orders,ORD-3324,total_amount,20.92,523000.0,TOTAL_RECALCULATED
+orders,ORD-3329,total_amount,11236500.0,12485000.0,TOTAL_RECALCULATED
+orders,ORD-3332,total_amount,5580000.0,558000.0,TOTAL_RECALCULATED
+orders,ORD-3337,total_amount,265.6,6640000.0,TOTAL_RECALCULATED
+orders,ORD-3359,total_amount,781000.0000000001,710000.0,TOTAL_RECALCULATED
+orders,ORD-3360,total_amount,5.72,143000.0,TOTAL_RECALCULATED
+orders,ORD-3362,total_amount,25.28,632000.0,TOTAL_RECALCULATED
+orders,ORD-3374,total_amount,1333200.0,1212000.0,TOTAL_RECALCULATED
+orders,ORD-3375,total_amount,2678500.0,2435000.0,TOTAL_RECALCULATED
+orders,ORD-3377,total_amount,99.0,2475000.0,TOTAL_RECALCULATED
+orders,ORD-3381,total_amount,46.88,1172000.0,TOTAL_RECALCULATED
+orders,ORD-3385,total_amount,7.36,184000.0,TOTAL_RECALCULATED
+orders,ORD-3392,total_amount,56000.0,560000.0,TOTAL_RECALCULATED
+orders,ORD-3394,total_amount,55.8,1395000.0,TOTAL_RECALCULATED
+orders,ORD-3428,total_amount,339900.0,309000.0,TOTAL_RECALCULATED
+orders,ORD-3432,total_amount,4382400.0,3984000.0,TOTAL_RECALCULATED
+orders,ORD-3439,total_amount,64000.0,640000.0,TOTAL_RECALCULATED
+orders,ORD-3441,total_amount,131.36,3284000.0,TOTAL_RECALCULATED
+orders,ORD-3445,total_amount,2970000.0,297000.0,TOTAL_RECALCULATED
+orders,ORD-3448,total_amount,10366400.0,9424000.0,TOTAL_RECALCULATED
+orders,ORD-3457,total_amount,785700.0,873000.0,TOTAL_RECALCULATED
+orders,ORD-3461,total_amount,45.28,1132000.0,TOTAL_RECALCULATED
+orders,ORD-3463,total_amount,966900.0,879000.0,TOTAL_RECALCULATED
+orders,ORD-3465,total_amount,11920000.0,1192000.0,TOTAL_RECALCULATED
+orders,ORD-3490,total_amount,187.68,4692000.0,TOTAL_RECALCULATED
+orders,ORD-3491,total_amount,48.48,1212000.0,TOTAL_RECALCULATED
+orders,ORD-3493,total_amount,11.2,280000.0,TOTAL_RECALCULATED
+orders,ORD-3498,total_amount,44.64,1116000.0,TOTAL_RECALCULATED
+orders,ORD-3499,total_amount,193.92,4848000.0,TOTAL_RECALCULATED
+orders,ORD-3001,discount_pct,,0,FILLED_NULL
+orders,ORD-3002,discount_pct,,0,FILLED_NULL
+orders,ORD-3020,discount_pct,,0,FILLED_NULL
+orders,ORD-3036,discount_pct,,0,FILLED_NULL
+orders,ORD-3042,discount_pct,,0,FILLED_NULL
+orders,ORD-3058,discount_pct,,0,FILLED_NULL
+orders,ORD-3059,discount_pct,,0,FILLED_NULL
+orders,ORD-3067,discount_pct,,0,FILLED_NULL
+orders,ORD-3103,discount_pct,,0,FILLED_NULL
+orders,ORD-3112,discount_pct,,0,FILLED_NULL
+orders,ORD-3123,discount_pct,,0,FILLED_NULL
+orders,ORD-3148,discount_pct,,0,FILLED_NULL
+orders,ORD-3149,discount_pct,,0,FILLED_NULL
+orders,ORD-3151,discount_pct,,0,FILLED_NULL
+orders,ORD-3162,discount_pct,,0,FILLED_NULL
+orders,ORD-3171,discount_pct,,0,FILLED_NULL
+orders,ORD-3189,discount_pct,,0,FILLED_NULL
+orders,ORD-3200,discount_pct,,0,FILLED_NULL
+orders,ORD-3211,discount_pct,,0,FILLED_NULL
+orders,ORD-3226,discount_pct,,0,FILLED_NULL
+orders,ORD-3231,discount_pct,,0,FILLED_NULL
+orders,ORD-3235,discount_pct,,0,FILLED_NULL
+orders,ORD-3241,discount_pct,,0,FILLED_NULL
+orders,ORD-3257,discount_pct,,0,FILLED_NULL
+orders,ORD-3262,discount_pct,,0,FILLED_NULL
+orders,ORD-3277,discount_pct,,0,FILLED_NULL
+orders,ORD-3278,discount_pct,,0,FILLED_NULL
+orders,ORD-3280,discount_pct,,0,FILLED_NULL
+orders,ORD-3284,discount_pct,,0,FILLED_NULL
+orders,ORD-3287,discount_pct,,0,FILLED_NULL
+orders,ORD-3300,discount_pct,,0,FILLED_NULL
+orders,ORD-3308,discount_pct,,0,FILLED_NULL
+orders,ORD-3316,discount_pct,,0,FILLED_NULL
+orders,ORD-3324,discount_pct,,0,FILLED_NULL
+orders,ORD-3352,discount_pct,,0,FILLED_NULL
+orders,ORD-3367,discount_pct,,0,FILLED_NULL
+orders,ORD-3377,discount_pct,,0,FILLED_NULL
+orders,ORD-3383,discount_pct,,0,FILLED_NULL
+orders,ORD-3388,discount_pct,,0,FILLED_NULL
+orders,ORD-3391,discount_pct,,0,FILLED_NULL
+orders,ORD-3400,discount_pct,,0,FILLED_NULL
+orders,ORD-3403,discount_pct,,0,FILLED_NULL
+orders,ORD-3406,discount_pct,,0,FILLED_NULL
+orders,ORD-3408,discount_pct,,0,FILLED_NULL
+orders,ORD-3416,discount_pct,,0,FILLED_NULL
+orders,ORD-3423,discount_pct,,0,FILLED_NULL
+orders,ORD-3448,discount_pct,,0,FILLED_NULL
+orders,ORD-3451,discount_pct,,0,FILLED_NULL
+orders,ORD-3453,discount_pct,,0,FILLED_NULL
+orders,ORD-3468,discount_pct,,0,FILLED_NULL
+orders,ORD-3475,discount_pct,,0,FILLED_NULL
+orders,ORD-3479,discount_pct,,0,FILLED_NULL
+orders,ORD-3492,discount_pct,,0,FILLED_NULL
+orders,ORD-3498,discount_pct,,0,FILLED_NULL
+orders,ORD-3016,shipping_address,"{""street"": ""224 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Hà Nội""","{""street"": ""224 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Hà Nội""}",ADDRESS_FIXED
+orders,ORD-3027,shipping_address,"{""street"": ""344 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Cần Thơ""","{""street"": ""344 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Cần Thơ""}",ADDRESS_FIXED
+orders,ORD-3047,shipping_address,"{""street"": ""794 Đường ABC"", ""district"": ""Quận 1"", ""city"": ""Hồ Chí Minh""","{""street"": ""794 Đường ABC"", ""district"": ""Quận 1"", ""city"": ""Hồ Chí Minh""}",ADDRESS_FIXED
+orders,ORD-3051,shipping_address,"{""street"": ""426 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Hải Phòng""","{""street"": ""426 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Hải Phòng""}",ADDRESS_FIXED
+orders,ORD-3060,shipping_address,"{""street"": ""448 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Hà Nội""","{""street"": ""448 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Hà Nội""}",ADDRESS_FIXED
+orders,ORD-3078,shipping_address,"{""street"": ""746 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Cần Thơ""","{""street"": ""746 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Cần Thơ""}",ADDRESS_FIXED
+orders,ORD-3112,shipping_address,"{""street"": ""978 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Đà Nẵng""","{""street"": ""978 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Đà Nẵng""}",ADDRESS_FIXED
+orders,ORD-3195,shipping_address,"{""street"": ""583 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Đà Nẵng""","{""street"": ""583 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Đà Nẵng""}",ADDRESS_FIXED
+orders,ORD-3207,shipping_address,"{""street"": ""910 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Hải Phòng""","{""street"": ""910 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Hải Phòng""}",ADDRESS_FIXED
+orders,ORD-3240,shipping_address,"{""street"": ""505 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Cần Thơ""","{""street"": ""505 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Cần Thơ""}",ADDRESS_FIXED
+orders,ORD-3263,shipping_address,"{""street"": ""735 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Cần Thơ""","{""street"": ""735 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Cần Thơ""}",ADDRESS_FIXED
+orders,ORD-3265,shipping_address,"{""street"": ""554 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Cần Thơ""","{""street"": ""554 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Cần Thơ""}",ADDRESS_FIXED
+orders,ORD-3288,shipping_address,"{""street"": ""457 Đường ABC"", ""district"": ""Quận 1"", ""city"": ""Cần Thơ""","{""street"": ""457 Đường ABC"", ""district"": ""Quận 1"", ""city"": ""Cần Thơ""}",ADDRESS_FIXED
+orders,ORD-3333,shipping_address,"{""street"": ""614 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hồ Chí Minh""","{""street"": ""614 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hồ Chí Minh""}",ADDRESS_FIXED
+orders,ORD-3349,shipping_address,"{""street"": ""428 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Đà Nẵng""","{""street"": ""428 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Đà Nẵng""}",ADDRESS_FIXED
+orders,ORD-3395,shipping_address,"{""street"": ""918 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hải Phòng""","{""street"": ""918 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hải Phòng""}",ADDRESS_FIXED
+orders,ORD-3413,shipping_address,"{""street"": ""253 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Đà Nẵng""","{""street"": ""253 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Đà Nẵng""}",ADDRESS_FIXED
+orders,ORD-3422,shipping_address,"{""street"": ""236 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hải Phòng""","{""street"": ""236 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hải Phòng""}",ADDRESS_FIXED
+orders,ORD-3447,shipping_address,"{""street"": ""371 Đường ABC"", ""district"": ""Quận 12"", ""city"": ""Đà Nẵng""","{""street"": ""371 Đường ABC"", ""district"": ""Quận 12"", ""city"": ""Đà Nẵng""}",ADDRESS_FIXED
+orders,ORD-3472,shipping_address,"{""street"": ""315 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Hà Nội""","{""street"": ""315 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Hà Nội""}",ADDRESS_FIXED
+orders,ORD-3494,shipping_address,"{""street"": ""934 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hải Phòng""","{""street"": ""934 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hải Phòng""}",ADDRESS_FIXED
+orders,ORD-3500,shipping_address,"{""street"": ""689 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Đà Nẵng""","{""street"": ""689 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Đà Nẵng""}",ADDRESS_FIXED

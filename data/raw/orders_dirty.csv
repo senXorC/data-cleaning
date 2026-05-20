@@ -1,0 +1,501 @@
+order_id,customer_id,product_id,order_date,ship_date,quantity,unit_price_vnd,total_amount,currency,status,shipping_address,discount_pct
+ORD-3001,CUS-1046,PRD-2036,04/12/23,2023-12-14,4,-140000.0,-560000.0,VND,pending,"{""street"": ""306 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Hồ Chí Minh""}",
+ORD-3002,CUS-1131,PRD-2020,13/08/23,25/08/2023,3,477000.0,1431000.0,VND,completed,"{""street"": ""626 Đường ABC"", ""district"": ""Quận 12"", ""city"": ""Hồ Chí Minh""}",
+ORD-3003,CUS-1142,PRD-2014,06-10-2023,08/10/23,2,103000.0,206000.0,VND,pending,"{""street"": ""152 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Hà Nội""}",10
+ORD-3004,CUS-9116,PRD-2046,07/03/2023,14/03/23,2,809000.0,1618000.0,VND,completed,"{""street"": ""461 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Đà Nẵng""}",0
+ORD-3005,CUS-1039,PRD-2037,07/07/23,17-07-2023,4,1314000.0,5256000.0,VND,returned,"{""street"": ""65 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Hà Nội""}",10
+ORD-3006,CUS-1140,PRD-9834,10-04-2023,15/04/2023,3,103000.0,309000.0,VND,cancelled,"{""street"": ""565 Đường ABC"", ""district"": ""Quận 7"", ""city"": ""Hà Nội""}",15
+ORD-3007,CUS-1075,PRD-2023,01-01-2023,09/01/23,2,140000.0,280000.0,VND,returned,"{""street"": ""821 Đường ABC"", ""district"": ""Quận 7"", ""city"": ""Đà Nẵng""}",10
+ORD-3008,CUS-1033,PRD-2026,2023-03-13,2023-03-26,5,283000.0,1415000.0,VND,completed,"{""street"": ""211 Đường ABC"", ""district"": ""Quận 7"", ""city"": ""Hà Nội""}",0
+ORD-3009,CUS-1033,PRD-2019,01/07/23,2023-07-10,2,140000.0,280000.0,VND,completed,"{""street"": ""33 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Hồ Chí Minh""}",0
+ORD-3010,CUS-1030,PRD-2018,11-07-2023,2023-07-24,5,298000.0,1490000.0,VND,pending,"{""street"": ""737 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Hồ Chí Minh""}",0
+ORD-3011,CUS-1022,PRD-2008,2023-07-24,2023-07-30,3,1328000.0,3984000.0,VND,completed,"{""street"": ""286 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Hồ Chí Minh""}",5
+ORD-3012,CUS-1058,PRD-2029,28-01-2023,2023-02-08,5,143000.0,715000.0,VND,completed,"{""street"": ""446 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Hà Nội""}",0
+ORD-3013,CUS-1147,PRD-9496,2023-05-27,2023-06-07,3,142000.0,426000.0,VND,completed,"{""street"": ""144 Đường ABC"", ""district"": ""Quận 12"", ""city"": ""Đà Nẵng""}",0
+ORD-3014,CUS-1028,PRD-2006,14/05/2023,16/05/23,3,1293000.0,3879000.0,VND,pending,"{""street"": ""631 Đường ABC"", ""district"": ""Quận 1"", ""city"": ""Đà Nẵng""}",10
+ORD-3015,CUS-1023,PRD-2040,03/10/2023,05/10/2023,3,279000.0,837000.0,VND,returned,"{""street"": ""167 Đường ABC"", ""district"": ""Quận 12"", ""city"": ""Hải Phòng""}",0
+ORD-3016,CUS-1022,PRD-2029,03-05-2023,12/05/23,5,143000.0,715000.0,VND,returned,"{""street"": ""224 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Hà Nội""",10
+ORD-3017,CUS-1144,PRD-2007,09-06-2023,2023-06-10,5,523000.0,2615000.0,VND,completed,"{""street"": ""767 Đường ABC"", ""district"": ""Quận 9"", ""city"": ""Cần Thơ""}",0
+ORD-3018,CUS-1135,PRD-2041,12-11-2023,20/11/23,5,150000.0,750000.0,VND,completed,"{""street"": ""372 Đường ABC"", ""district"": ""Quận 12"", ""city"": ""Hà Nội""}",5
+ORD-3019,CUS-1094,PRD-2043,2023-03-15,26/03/2023,5,291000.0,1455000.0,VND,completed,"{""street"": ""6 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Cần Thơ""}",15
+ORD-3020,CUS-1062,PRD-2011,16/05/23,30/05/23,5,142000.0,710000.0,VND,cancelled,"{""street"": ""184 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Cần Thơ""}",
+ORD-3021,CUS-1044,PRD-2012,16-07-2023,20/07/23,1,327000.0,327000.0,VND,completed,"{""street"": ""227 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Hồ Chí Minh""}",20
+ORD-3022,CUS-1039,PRD-2042,22-12-2023,24-12-2023,3,158000.0,426600.0,VND,completed,"{""street"": ""447 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Đà Nẵng""}",0
+ORD-3023,CUS-1136,PRD-2013,24/06/23,01/07/23,5,99000.0,495000.0,VND,pending,"{""street"": ""2 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Hải Phòng""}",5
+ORD-3024,CUS-1137,PRD-2031,05-08-2023,07-08-2023,2,833000.0,1666000.0,VND,completed,"{""street"": ""882 Đường ABC"", ""district"": ""Quận 12"", ""city"": ""Hải Phòng""}",15
+ORD-3025,CUS-1118,PRD-2023,2023-12-06,18/12/23,3,140000.0,420000.0,VND,completed,"{""street"": ""166 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Hà Nội""}",15
+ORD-3026,CUS-1074,PRD-2035,2023-10-17,31-10-2023,5,464000.0,2320000.0,VND,cancelled,"{""street"": ""316 Đường ABC"", ""district"": ""Quận 12"", ""city"": ""Cần Thơ""}",0
+ORD-3027,CUS-1075,PRD-2024,11-02-2023,18/02/2023,4,811000.0,3244000.0,VND,cancelled,"{""street"": ""344 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Cần Thơ""",5
+ORD-3028,CUS-1021,PRD-2045,2023-09-13,2023-09-16,4,2346000.0,9384000.0,VND,returned,"{""street"": ""792 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Hà Nội""}",15
+ORD-3029,CUS-1131,PRD-2023,2023-06-26,29-06-2023,1,140000.0,1400000.0,VND,completed,"{""street"": ""75 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Hà Nội""}",15
+ORD-3030,CUS-1120,PRD-2030,2023-06-22,27/06/23,4,138000.0,22.08,USD,completed,"{""street"": ""444 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hải Phòng""}",0
+ORD-3031,CUS-1107,PRD-2048,26/05/2023,2023-05-31,1,0,0,VND,completed,"{""street"": ""360 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Hải Phòng""}",15
+ORD-3032,CUS-1017,PRD-2043,23/11/23,27/11/2023,4,291000.0,1164000.0,VND,completed,"{""street"": ""320 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Đà Nẵng""}",0
+ORD-3033,CUS-1008,PRD-2012,11-09-2023,18-09-2023,5,327000.0,1635000.0,VND,completed,"{""street"": ""15 Đường ABC"", ""district"": ""Quận 7"", ""city"": ""Hải Phòng""}",5
+ORD-3034,CUS-1040,PRD-2021,03-11-2023,2023-11-05,2,2475000.0,4950000.0,VND,completed,"{""street"": ""447 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Hà Nội""}",0
+ORD-3035,CUS-1043,PRD-2032,29-09-2023,30/09/23,3,487000.0,1461000.0,VND,returned,"{""street"": ""655 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Hồ Chí Minh""}",15
+ORD-3036,CUS-1001,PRD-2034,28-01-2023,2023-02-11,5,2378000.0,13079000.000000002,VND,pending,"{""street"": ""534 Đường ABC"", ""district"": ""Quận 12"", ""city"": ""Hồ Chí Minh""}",
+ORD-3037,CUS-1034,PRD-2010,2023-07-16,19-07-2023,4,2497000.0,9988000.0,VND,returned,,20
+ORD-3038,CUS-1060,PRD-2007,2023-03-17,23/03/2023,3,523000.0,1569000.0,VND,cancelled,"{""street"": ""517 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Hồ Chí Minh""}",0
+ORD-3039,CUS-1038,PRD-2039,29-08-2023,09/09/23,3,0,0,VND,cancelled,"{""street"": ""739 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Hồ Chí Minh""}",10
+ORD-3040,CUS-1126,PRD-9187,19-05-2023,2023-05-25,3,523000.0,1569000.0,VND,cancelled,"{""street"": ""709 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Cần Thơ""}",0
+ORD-3041,CUS-1101,PRD-2002,11/01/23,25-01-2023,4,821000.0,32840000.0,VND,completed,"{""street"": ""27 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Hà Nội""}",5
+ORD-3042,CUS-9764,PRD-2027,2023-04-22,30/04/2023,2,879000.0,1758000.0,VND,pending,"{""street"": ""535 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Hà Nội""}",
+ORD-3043,CUS-1058,PRD-2050,11/01/2023,24-01-2023,2,773000.0,1546000.0,VND,completed,"{""street"": ""734 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Hồ Chí Minh""}",20
+ORD-3044,CUS-1022,PRD-2011,29/05/23,04/06/23,4,142000.0,568000.0,VND,completed,"{""street"": ""176 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Cần Thơ""}",0
+ORD-3045,CUS-9896,PRD-2049,2023-04-30,07/05/23,5,-109000.0,-545000.0,VND,pending,"{""street"": ""240 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Đà Nẵng""}",5
+ORD-3046,CUS-1067,PRD-2009,2023-09-26,06/10/23,2,2356000.0,4712000.0,VND,pending,"{""street"": ""297 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hà Nội""}",0
+ORD-3047,CUS-1114,PRD-2042,28/05/2023,06-06-2023,2,158000.0,316000.0,VND,completed,"{""street"": ""794 Đường ABC"", ""district"": ""Quận 1"", ""city"": ""Hồ Chí Minh""",5
+ORD-3048,CUS-1102,PRD-2048,19/10/23,29/10/2023,5,0,0,VND,returned,"{""street"": ""23 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Đà Nẵng""}",15
+ORD-3049,CUS-1141,PRD-2040,26/02/2023,11-03-2023,1,279000.0,279000.0,VND,returned,"{""street"": ""581 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Hải Phòng""}",0
+ORD-3050,CUS-1042,PRD-2005,18-10-2023,31-10-2023,2,465000.0,1023000.0000000001,VND,completed,"{""street"": ""696 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Cần Thơ""}",10
+ORD-3051,CUS-1128,PRD-2009,2023-12-08,2023-12-19,5,2356000.0,11780000.0,VND,pending,"{""street"": ""426 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Hải Phòng""",0
+ORD-3052,CUS-1116,PRD-2050,21-05-2023,30-05-2023,1,773000.0,34.01,USD,pending,"{""street"": ""953 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Hà Nội""}",20
+ORD-3053,CUS-1010,PRD-2049,2023-08-14,18/08/23,3,-109000.0,-327000.0,VND,completed,"{""street"": ""313 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Hà Nội""}",5
+ORD-3054,CUS-1036,PRD-2050,19/02/23,24/02/23,2,773000.0,1546000.0,VND,returned,,20
+ORD-3055,CUS-1016,PRD-2050,15-05-2023,2023-05-27,2,773000.0,1546000.0,VND,completed,"{""street"": ""627 Đường ABC"", ""district"": ""Quận 9"", ""city"": ""Đà Nẵng""}",15
+ORD-3056,CUS-1107,PRD-2001,06-07-2023,20-07-2023,3,160000.0,480000.0,VND,pending,"{""street"": ""407 Đường ABC"", ""district"": ""Quận 12"", ""city"": ""Hồ Chí Minh""}",0
+ORD-3057,CUS-1071,PRD-2026,2023-10-18,27-10-2023,5,283000.0,1415000.0,VND,returned,"{""street"": ""16 Đường ABC"", ""district"": ""Quận 7"", ""city"": ""Hồ Chí Minh""}",5
+ORD-3058,CUS-1042,PRD-2027,2023-05-12,25/05/23,1,879000.0,879000.0,VND,cancelled,"{""street"": ""13 Đường ABC"", ""district"": ""Quận 9"", ""city"": ""Hải Phòng""}",
+ORD-3059,CUS-1124,PRD-2021,06/01/2023,12/01/2023,1,2475000.0,2475000.0,VND,completed,"{""street"": ""226 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Đà Nẵng""}",
+ORD-3060,CUS-1057,PRD-2029,17/04/23,20/04/2023,2,143000.0,286000.0,VND,completed,"{""street"": ""448 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Hà Nội""",0
+ORD-3061,CUS-1008,PRD-2010,08/04/23,17/04/23,4,2497000.0,399.52,USD,completed,"{""street"": ""499 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Hải Phòng""}",0
+ORD-3062,CUS-1070,PRD-2014,16/12/2023,22/12/2023,4,103000.0,412000.0,VND,completed,"{""street"": ""841 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Hà Nội""}",0
+ORD-3063,CUS-1077,PRD-2043,22-08-2023,05-09-2023,2,291000.0,582000.0,VND,completed,"{""street"": ""751 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Hà Nội""}",0
+ORD-3064,CUS-1122,PRD-2018,09/05/23,14-05-2023,1,298000.0,298000.0,VND,completed,"{""street"": ""632 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Hà Nội""}",0
+ORD-3065,CUS-1055,PRD-2044,2023-12-19,25/12/23,1,142000.0,142000.0,VND,completed,"{""street"": ""844 Đường ABC"", ""district"": ""Quận 9"", ""city"": ""Hồ Chí Minh""}",10
+ORD-3066,CUS-1070,PRD-2004,19/10/2023,24/10/23,5,280000.0,1400000.0,VND,returned,"{""street"": ""656 Đường ABC"", ""district"": ""Quận 9"", ""city"": ""Hải Phòng""}",0
+ORD-3067,CUS-1146,PRD-2031,15-08-2023,29/08/2023,1,833000.0,833000.0,VND,cancelled,"{""street"": ""360 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Hà Nội""}",
+ORD-3068,CUS-1131,PRD-2023,20/06/2023,01/07/2023,3,140000.0,420000.0,VND,completed,"{""street"": ""838 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Hồ Chí Minh""}",5
+ORD-3069,CUS-1067,PRD-2042,2023-11-08,2023-11-11,2,158000.0,316000.0,VND,completed,"{""street"": ""764 Đường ABC"", ""district"": ""Quận 12"", ""city"": ""Hồ Chí Minh""}",0
+ORD-3070,CUS-1029,PRD-2033,13/02/23,15-02-2023,4,1212000.0,4848000.0,VND,completed,"{""street"": ""766 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Cần Thơ""}",0
+ORD-3071,CUS-1005,PRD-2015,25-09-2023,05-10-2023,1,160000.0,160000.0,VND,returned,"{""street"": ""352 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Đà Nẵng""}",0
+ORD-3072,CUS-1065,PRD-2029,28/11/2023,29-11-2023,2,143000.0,286000.0,VND,cancelled,"{""street"": ""563 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Đà Nẵng""}",0
+ORD-3073,CUS-1017,PRD-2043,2023-02-10,14/02/2023,4,291000.0,1164000.0,VND,completed,"{""street"": ""299 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Cần Thơ""}",0
+ORD-3074,CUS-1114,PRD-2015,06/11/23,13-11-2023,5,160000.0,800000.0,VND,pending,"{""street"": ""889 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Cần Thơ""}",10
+ORD-3075,CUS-1130,PRD-2035,15-04-2023,2023-04-26,4,464000.0,1856000.0,VND,pending,"{""street"": ""406 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Cần Thơ""}",20
+ORD-3076,CUS-1121,PRD-2032,16-11-2023,29-11-2023,3,487000.0,1461000.0,VND,returned,"{""street"": ""811 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Hà Nội""}",15
+ORD-3077,CUS-1119,PRD-2016,24/04/23,08/05/23,4,1381000.0,5524000.0,VND,completed,"{""street"": ""747 Đường ABC"", ""district"": ""Quận 1"", ""city"": ""Hà Nội""}",20
+ORD-3078,CUS-9384,PRD-9877,2023-02-06,11-02-2023,5,298000.0,1490000.0,VND,cancelled,"{""street"": ""746 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Cần Thơ""",10
+ORD-3079,CUS-1082,PRD-2026,19/10/23,01/11/23,5,283000.0,1415000.0,VND,cancelled,"{""street"": ""775 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Hải Phòng""}",0
+ORD-3080,CUS-1059,PRD-2029,13/08/23,17/08/2023,5,143000.0,715000.0,VND,completed,"{""street"": ""488 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Hải Phòng""}",20
+ORD-3081,CUS-1095,PRD-2012,21-06-2023,03/07/2023,3,327000.0,981000.0,VND,completed,"{""street"": ""988 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Hồ Chí Minh""}",15
+ORD-3082,CUS-1021,PRD-9420,07/04/23,2023-04-10,3,150000.0,18.0,USD,completed,"{""street"": ""330 Đường ABC"", ""district"": ""Quận 7"", ""city"": ""Cần Thơ""}",15
+ORD-3083,CUS-1134,PRD-2047,2023-08-21,28-08-2023,5,293000.0,1465000.0,VND,completed,"{""street"": ""850 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Cần Thơ""}",0
+ORD-3084,CUS-1140,PRD-2005,15/10/23,28/10/2023,4,465000.0,1860000.0,VND,completed,"{""street"": ""916 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Cần Thơ""}",0
+ORD-3085,CUS-1025,PRD-2019,12-01-2023,23-01-2023,1,140000.0,140000.0,VND,cancelled,"{""street"": ""6 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Hà Nội""}",0
+ORD-3086,CUS-1122,PRD-2017,05/07/23,18/07/23,1,147000.0,147000.0,VND,completed,"{""street"": ""11 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Hà Nội""}",10
+ORD-3087,CUS-1146,PRD-2010,30/09/23,03/10/23,3,2497000.0,7491000.0,VND,completed,"{""street"": ""751 Đường ABC"", ""district"": ""Quận 1"", ""city"": ""Hồ Chí Minh""}",0
+ORD-3088,CUS-1027,PRD-2029,04-05-2023,10-05-2023,4,143000.0,572000.0,VND,returned,"{""street"": ""174 Đường ABC"", ""district"": ""Quận 7"", ""city"": ""Cần Thơ""}",0
+ORD-3089,CUS-1079,PRD-2011,2023-04-08,17/04/2023,5,142000.0,639000.0,VND,pending,"{""street"": ""24 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Hà Nội""}",20
+ORD-3090,CUS-1026,PRD-2037,06-09-2023,10/09/23,2,1314000.0,2628000.0,VND,returned,"{""street"": ""477 Đường ABC"", ""district"": ""Quận 12"", ""city"": ""Cần Thơ""}",0
+ORD-3091,CUS-1094,PRD-2045,2023-08-16,28-08-2023,1,2346000.0,2346000.0,VND,completed,"{""street"": ""968 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Hồ Chí Minh""}",5
+ORD-3092,CUS-1002,PRD-2032,28-10-2023,09/11/23,5,487000.0,2435000.0,VND,pending,"{""street"": ""302 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Hà Nội""}",10
+ORD-3093,CUS-1138,PRD-2028,23/12/2023,2024-01-05,5,140000.0,630000.0,VND,returned,"{""street"": ""68 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Hải Phòng""}",10
+ORD-3094,CUS-1084,PRD-2001,2023-08-25,26/08/2023,1,160000.0,1600000.0,VND,cancelled,"{""street"": ""476 Đường ABC"", ""district"": ""Quận 9"", ""city"": ""Cần Thơ""}",15
+ORD-3095,CUS-1096,PRD-2012,10/09/2023,13/09/23,4,327000.0,1308000.0,VND,cancelled,"{""street"": ""52 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Đà Nẵng""}",20
+ORD-3096,CUS-1061,PRD-2046,2023-05-06,2023-05-04,5,809000.0,4045000.0,VND,cancelled,"{""street"": ""913 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Đà Nẵng""}",20
+ORD-3097,CUS-1089,PRD-2006,17-10-2023,19/10/23,3,1293000.0,3879000.0,VND,cancelled,"{""street"": ""913 Đường ABC"", ""district"": ""Quận 1"", ""city"": ""Hà Nội""}",5
+ORD-3098,CUS-1078,PRD-2044,22/04/23,25/04/23,4,142000.0,568000.0,VND,cancelled,"{""street"": ""868 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Đà Nẵng""}",20
+ORD-3099,CUS-1090,PRD-2031,07/01/23,15-01-2023,5,833000.0,4165000.0,VND,pending,"{""street"": ""587 Đường ABC"", ""district"": ""Quận 7"", ""city"": ""Cần Thơ""}",0
+ORD-3100,CUS-1078,PRD-2048,2023-05-22,25/05/23,5,0,0,VND,returned,"{""street"": ""330 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Hồ Chí Minh""}",0
+ORD-3101,CUS-1128,PRD-2037,09/12/2023,18/12/2023,3,1314000.0,3942000.0,VND,completed,"{""street"": ""324 Đường ABC"", ""district"": ""Quận 9"", ""city"": ""Cần Thơ""}",15
+ORD-3102,CUS-1113,PRD-2038,10/01/2023,18/01/23,5,779000.0,3895000.0,VND,returned,"{""street"": ""347 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Cần Thơ""}",20
+ORD-3103,CUS-1141,PRD-2038,2023-03-05,09/03/2023,5,779000.0,3505500.0,VND,cancelled,"{""street"": ""312 Đường ABC"", ""district"": ""Quận 12"", ""city"": ""Hồ Chí Minh""}",
+ORD-3104,CUS-1117,PRD-2032,11/09/23,17-09-2023,1,487000.0,487000.0,VND,completed,"{""street"": ""729 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Hồ Chí Minh""}",10
+ORD-3105,CUS-1049,PRD-2016,01-07-2023,12/07/2023,4,1381000.0,4971600.0,VND,completed,"{""street"": ""692 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hồ Chí Minh""}",20
+ORD-3106,CUS-1036,PRD-2012,30/11/23,02-12-2023,1,327000.0,327000.0,VND,completed,"{""street"": ""93 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Cần Thơ""}",0
+ORD-3107,CUS-1043,PRD-2035,07-10-2023,2023-10-19,2,464000.0,928000.0,VND,completed,"{""street"": ""214 Đường ABC"", ""district"": ""Quận 9"", ""city"": ""Hồ Chí Minh""}",0
+ORD-3108,CUS-9578,PRD-2003,2023-10-20,03-11-2023,1,802000.0,802000.0,VND,completed,"{""street"": ""326 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Cần Thơ""}",0
+ORD-3109,CUS-1082,PRD-2026,2023-03-15,2023-03-27,1,283000.0,283000.0,VND,cancelled,"{""street"": ""877 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Cần Thơ""}",10
+ORD-3110,CUS-1125,PRD-2045,04/08/23,05/08/23,2,2346000.0,4692000.0,VND,completed,"{""street"": ""395 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Hà Nội""}",0
+ORD-3108,CUS-9578,PRD-2003,2023-10-20,03-11-2023,1,802000.0,802000.0,VND,completed,"{""street"": ""326 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Cần Thơ""}",0
+ORD-3112,CUS-1006,PRD-2002,25-09-2023,04/10/2023,1,821000.0,821000.0,VND,cancelled,"{""street"": ""978 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Đà Nẵng""",
+ORD-3113,CUS-1010,PRD-2006,21/01/23,24-01-2023,4,1293000.0,5172000.0,VND,cancelled,"{""street"": ""43 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Hà Nội""}",5
+ORD-3114,CUS-1107,PRD-2013,04-03-2023,2023-03-12,4,99000.0,396000.0,VND,completed,"{""street"": ""327 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Đà Nẵng""}",15
+ORD-3115,CUS-1106,PRD-2012,26/09/2023,04/10/2023,4,327000.0,1308000.0,VND,cancelled,"{""street"": ""550 Đường ABC"", ""district"": ""Quận 1"", ""city"": ""Hồ Chí Minh""}",20
+ORD-3116,CUS-1012,PRD-2019,17-06-2023,21/06/2023,4,140000.0,560000.0,VND,completed,"{""street"": ""514 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Hà Nội""}",0
+ORD-3117,CUS-1106,PRD-2023,2023-09-12,2023-09-20,1,140000.0,140000.0,VND,completed,"{""street"": ""568 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Hà Nội""}",15
+ORD-3118,CUS-1120,PRD-2016,20/06/23,30/06/2023,2,1381000.0,3038200.0000000005,VND,completed,"{""street"": ""733 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hải Phòng""}",10
+ORD-3119,CUS-1025,PRD-2020,10-02-2023,2023-02-16,2,477000.0,38.16,USD,returned,"{""street"": ""407 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Hồ Chí Minh""}",0
+ORD-3120,CUS-9571,PRD-2034,06/02/2023,08/02/2023,1,2378000.0,2378000.0,VND,pending,"{""street"": ""412 Đường ABC"", ""district"": ""Quận 12"", ""city"": ""Hồ Chí Minh""}",0
+ORD-3121,CUS-1093,PRD-2009,03/05/23,14/05/2023,5,2356000.0,11780000.0,VND,completed,"{""street"": ""135 Đường ABC"", ""district"": ""Quận 1"", ""city"": ""Hải Phòng""}",0
+ORD-3122,CUS-1047,PRD-2007,01-03-2023,11/03/2023,2,523000.0,1046000.0,VND,returned,"{""street"": ""46 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hà Nội""}",10
+ORD-3123,CUS-1134,PRD-2001,28/04/2023,06/05/2023,2,160000.0,320000.0,VND,completed,"{""street"": ""459 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Đà Nẵng""}",
+ORD-3124,CUS-1058,PRD-2035,07/06/23,09/06/23,3,464000.0,1392000.0,VND,completed,"{""street"": ""133 Đường ABC"", ""district"": ""Quận 9"", ""city"": ""Đà Nẵng""}",5
+ORD-3125,CUS-1043,PRD-2001,19/02/23,03/03/2023,4,160000.0,640000.0,VND,cancelled,"{""street"": ""362 Đường ABC"", ""district"": ""Quận 7"", ""city"": ""Hải Phòng""}",15
+ORD-3126,CUS-1040,PRD-2003,15/02/2023,2023-02-27,5,802000.0,4010000.0,VND,completed,"{""street"": ""369 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Hà Nội""}",0
+ORD-3127,CUS-1113,PRD-2016,03/01/23,2023-01-13,5,1381000.0,6905000.0,VND,completed,"{""street"": ""289 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Đà Nẵng""}",0
+ORD-3128,CUS-1089,PRD-2023,13/06/2023,17/06/2023,5,140000.0,700000.0,VND,returned,"{""street"": ""467 Đường ABC"", ""district"": ""Quận 1"", ""city"": ""Đà Nẵng""}",0
+ORD-3129,CUS-1061,PRD-2025,10/07/23,13-07-2023,4,1283000.0,5132000.0,VND,completed,"{""street"": ""875 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Hải Phòng""}",5
+ORD-3130,CUS-1090,PRD-2009,13/08/23,26/08/2023,5,2356000.0,11780000.0,VND,completed,"{""street"": ""518 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Hải Phòng""}",0
+ORD-3131,CUS-1036,PRD-2010,2023-08-08,2023-08-14,5,2497000.0,12485000.0,VND,completed,"{""street"": ""839 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Cần Thơ""}",0
+ORD-3132,CUS-1002,PRD-2035,10/11/2023,15/11/2023,5,464000.0,23200000.0,VND,completed,"{""street"": ""833 Đường ABC"", ""district"": ""Quận 1"", ""city"": ""Hải Phòng""}",5
+ORD-3133,CUS-1069,PRD-2010,03/10/2023,2023-10-10,2,2497000.0,4994000.0,VND,completed,"{""street"": ""578 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Đà Nẵng""}",15
+ORD-3134,CUS-1098,PRD-2036,2023-11-20,02/12/2023,4,-140000.0,-560000.0,VND,cancelled,"{""street"": ""161 Đường ABC"", ""district"": ""Quận 12"", ""city"": ""Đà Nẵng""}",5
+ORD-3135,CUS-1138,PRD-2040,2023-04-21,03-05-2023,5,279000.0,1395000.0,VND,pending,"{""street"": ""505 Đường ABC"", ""district"": ""Quận 7"", ""city"": ""Cần Thơ""}",15
+ORD-3136,CUS-1109,PRD-2050,08/09/2023,20/09/23,2,773000.0,1546000.0,VND,completed,"{""street"": ""134 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Hồ Chí Minh""}",15
+ORD-3137,CUS-1066,PRD-2025,20/01/2023,21-01-2023,2,1283000.0,2566000.0,VND,pending,"{""street"": ""116 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hồ Chí Minh""}",0
+ORD-3138,CUS-1017,PRD-2030,26/11/23,02/12/2023,5,138000.0,690000.0,VND,completed,"{""street"": ""24 Đường ABC"", ""district"": ""Quận 1"", ""city"": ""Cần Thơ""}",0
+ORD-3139,CUS-1142,PRD-2036,10-07-2023,19/07/23,5,-140000.0,-630000.0,VND,completed,"{""street"": ""401 Đường ABC"", ""district"": ""Quận 12"", ""city"": ""Hải Phòng""}",0
+ORD-3140,CUS-1101,PRD-2009,05/10/2023,14-10-2023,3,2356000.0,7068000.0,VND,completed,"{""street"": ""813 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Hải Phòng""}",0
+ORD-3141,CUS-1025,PRD-2001,2023-06-16,2023-06-29,4,160000.0,640000.0,VND,completed,"{""street"": ""780 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Cần Thơ""}",0
+ORD-3142,CUS-1111,PRD-2015,2023-03-13,2023-03-15,5,160000.0,800000.0,VND,completed,"{""street"": ""469 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Hồ Chí Minh""}",10
+ORD-3143,CUS-1126,PRD-2024,2023-11-03,17/11/23,5,811000.0,4055000.0,VND,completed,"{""street"": ""386 Đường ABC"", ""district"": ""Quận 7"", ""city"": ""Đà Nẵng""}",5
+ORD-3144,CUS-1112,PRD-2046,2023-01-06,12-01-2023,4,809000.0,3236000.0,VND,pending,"{""street"": ""422 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Hồ Chí Minh""}",0
+ORD-3145,CUS-1124,PRD-2043,2023-10-08,13/10/23,2,291000.0,23.28,USD,cancelled,"{""street"": ""641 Đường ABC"", ""district"": ""Quận 12"", ""city"": ""Hồ Chí Minh""}",20
+ORD-3146,CUS-1132,PRD-2042,2023-01-17,22/01/2023,1,158000.0,158000.0,VND,returned,"{""street"": ""607 Đường ABC"", ""district"": ""Quận 12"", ""city"": ""Cần Thơ""}",5
+ORD-3147,CUS-1027,PRD-2008,2023-10-28,06/11/23,4,1328000.0,5312000.0,VND,pending,"{""street"": ""811 Đường ABC"", ""district"": ""Quận 12"", ""city"": ""Hồ Chí Minh""}",0
+ORD-3148,CUS-1054,PRD-2007,09/12/23,2023-12-04,5,523000.0,2615000.0,VND,cancelled,"{""street"": ""633 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Hồ Chí Minh""}",
+ORD-3149,CUS-1050,PRD-2036,09/12/2023,2023-12-12,3,-140000.0,-420000.0,VND,completed,"{""street"": ""597 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Hải Phòng""}",
+ORD-3150,CUS-1053,PRD-2050,2023-09-29,2023-09-30,4,773000.0,3092000.0,VND,completed,"{""street"": ""154 Đường ABC"", ""district"": ""Quận 12"", ""city"": ""Hải Phòng""}",15
+ORD-3151,CUS-1070,PRD-2012,19-03-2023,26-03-2023,1,327000.0,327000.0,VND,cancelled,"{""street"": ""518 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Đà Nẵng""}",
+ORD-3152,CUS-1121,PRD-2039,25/03/2023,2023-04-08,2,0,0,VND,returned,"{""street"": ""35 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Hà Nội""}",0
+ORD-3153,CUS-1112,PRD-2026,10-01-2023,21-01-2023,4,283000.0,1132000.0,VND,completed,"{""street"": ""243 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Đà Nẵng""}",15
+ORD-3154,CUS-1007,PRD-2015,29-08-2023,31/08/2023,3,160000.0,480000.0,VND,returned,"{""street"": ""654 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Cần Thơ""}",5
+ORD-3155,CUS-1002,PRD-2039,2023-08-29,2023-09-02,2,0,0,VND,completed,"{""street"": ""478 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Hải Phòng""}",10
+ORD-3156,CUS-1150,PRD-2017,2023-10-28,2023-11-11,4,147000.0,23.52,USD,completed,"{""street"": ""662 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hà Nội""}",10
+ORD-3157,CUS-1114,PRD-2023,08/11/2023,2023-11-21,3,140000.0,420000.0,VND,pending,"{""street"": ""152 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Cần Thơ""}",20
+ORD-3158,CUS-1144,PRD-2030,2023-01-10,19/01/23,1,138000.0,138000.0,VND,pending,"{""street"": ""567 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Đà Nẵng""}",0
+ORD-3159,CUS-1008,PRD-2007,05-02-2023,2023-02-07,2,523000.0,1046000.0,VND,pending,"{""street"": ""265 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Hà Nội""}",0
+ORD-3160,CUS-1018,PRD-2038,27/03/2023,31/03/2023,4,779000.0,3116000.0,VND,pending,"{""street"": ""828 Đường ABC"", ""district"": ""Quận 1"", ""city"": ""Hải Phòng""}",5
+ORD-3161,CUS-1116,PRD-2039,2023-02-03,05/02/23,4,0,0,VND,cancelled,"{""street"": ""975 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hà Nội""}",0
+ORD-3162,CUS-1105,PRD-2015,2023-07-22,24-07-2023,3,160000.0,480000.0,VND,completed,"{""street"": ""542 Đường ABC"", ""district"": ""Quận 12"", ""city"": ""Đà Nẵng""}",
+ORD-3163,CUS-1082,PRD-2009,11/09/2023,12/09/2023,5,2356000.0,11780000.0,VND,pending,"{""street"": ""885 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Hải Phòng""}",15
+ORD-3164,CUS-1007,PRD-2005,2023-03-10,21-03-2023,3,465000.0,1395000.0,VND,completed,"{""street"": ""706 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Hải Phòng""}",0
+ORD-3165,CUS-1030,PRD-2016,12/11/2023,26-11-2023,5,1381000.0,69050000.0,VND,pending,"{""street"": ""347 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Hà Nội""}",5
+ORD-3166,CUS-1018,PRD-2016,17/03/23,23/03/2023,5,1381000.0,6905000.0,VND,completed,"{""street"": ""571 Đường ABC"", ""district"": ""Quận 1"", ""city"": ""Hà Nội""}",0
+ORD-3167,CUS-1144,PRD-2021,08-10-2023,17/10/2023,5,2475000.0,12375000.0,VND,pending,"{""street"": ""236 Đường ABC"", ""district"": ""Quận 9"", ""city"": ""Đà Nẵng""}",15
+ORD-3168,CUS-1077,PRD-2049,13-10-2023,15/10/2023,3,-109000.0,-327000.0,VND,completed,"{""street"": ""237 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Cần Thơ""}",5
+ORD-3169,CUS-9438,PRD-2029,2023-03-16,19-03-2023,3,143000.0,429000.0,VND,cancelled,"{""street"": ""92 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hồ Chí Minh""}",15
+ORD-3170,CUS-1078,PRD-2037,26/07/2023,31/07/2023,2,1314000.0,2628000.0,VND,returned,"{""street"": ""325 Đường ABC"", ""district"": ""Quận 9"", ""city"": ""Đà Nẵng""}",5
+ORD-3171,CUS-1131,PRD-9896,02-09-2023,09/09/23,3,298000.0,894000.0,VND,cancelled,"{""street"": ""345 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hải Phòng""}",
+ORD-3172,CUS-1092,PRD-2030,06/03/23,15/03/2023,5,138000.0,690000.0,VND,pending,"{""street"": ""940 Đường ABC"", ""district"": ""Quận 12"", ""city"": ""Hà Nội""}",5
+ORD-3173,CUS-1128,PRD-2048,2023-01-25,2023-02-04,4,0,0,VND,cancelled,"{""street"": ""605 Đường ABC"", ""district"": ""Quận 12"", ""city"": ""Cần Thơ""}",0
+ORD-3174,CUS-1024,PRD-2002,11/06/23,16-06-2023,1,821000.0,738900.0,VND,completed,"{""street"": ""247 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Hồ Chí Minh""}",20
+ORD-3175,CUS-1034,PRD-2045,2023-06-18,21/06/23,1,2346000.0,2346000.0,VND,completed,"{""street"": ""759 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Hải Phòng""}",10
+ORD-3176,CUS-1044,PRD-2032,09/02/2023,23/02/23,4,487000.0,1948000.0,VND,cancelled,"{""street"": ""377 Đường ABC"", ""district"": ""Quận 1"", ""city"": ""Đà Nẵng""}",20
+ORD-3177,CUS-1115,PRD-9032,17-10-2023,27-10-2023,2,465000.0,930000.0,VND,completed,"{""street"": ""909 Đường ABC"", ""district"": ""Quận 1"", ""city"": ""Hải Phòng""}",0
+ORD-3178,CUS-1086,PRD-2038,18/06/2023,24/06/2023,4,779000.0,3116000.0,VND,cancelled,"{""street"": ""483 Đường ABC"", ""district"": ""Quận 1"", ""city"": ""Hải Phòng""}",10
+ORD-3175,CUS-1034,PRD-2045,2023-06-18,21/06/23,1,2346000.0,2346000.0,VND,completed,"{""street"": ""759 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Hải Phòng""}",10
+ORD-3180,CUS-1001,PRD-2027,15/11/2023,20/11/2023,5,879000.0,4395000.0,VND,pending,"{""street"": ""957 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Hải Phòng""}",0
+ORD-3051,CUS-1128,PRD-2009,2023-12-08,2023-12-19,5,2356000.0,11780000.0,VND,pending,"{""street"": ""426 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Hải Phòng""",0
+ORD-3182,CUS-1141,PRD-2027,17/04/23,28/04/23,1,879000.0,879000.0,VND,returned,"{""street"": ""743 Đường ABC"", ""district"": ""Quận 9"", ""city"": ""Hà Nội""}",0
+ORD-3183,CUS-1078,PRD-2021,18/02/23,22/02/2023,1,2475000.0,9.9,USD,completed,"{""street"": ""560 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Hải Phòng""}",0
+ORD-3184,CUS-1042,PRD-2035,2023-02-24,06-03-2023,3,464000.0,1392000.0,VND,cancelled,"{""street"": ""566 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Đà Nẵng""}",5
+ORD-3185,CUS-1013,PRD-2003,24/03/23,05/04/23,2,802000.0,1604000.0,VND,completed,"{""street"": ""558 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Hà Nội""}",0
+ORD-3186,CUS-1052,PRD-2040,22/05/23,23/05/2023,1,279000.0,279000.0,VND,cancelled,"{""street"": ""621 Đường ABC"", ""district"": ""Quận 1"", ""city"": ""Hà Nội""}",0
+ORD-3187,CUS-1086,PRD-2046,26/05/2023,04/06/2023,3,809000.0,2427000.0,VND,returned,"{""street"": ""831 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Hồ Chí Minh""}",10
+ORD-3188,CUS-1069,PRD-2035,18/12/2023,21-12-2023,3,464000.0,1392000.0,VND,completed,"{""street"": ""371 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Đà Nẵng""}",5
+ORD-3189,CUS-1056,PRD-2020,13-02-2023,2023-02-27,4,477000.0,1908000.0,VND,completed,"{""street"": ""626 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Cần Thơ""}",
+ORD-3138,CUS-1017,PRD-2030,26/11/23,02/12/2023,5,138000.0,690000.0,VND,completed,"{""street"": ""24 Đường ABC"", ""district"": ""Quận 1"", ""city"": ""Cần Thơ""}",0
+ORD-3191,CUS-1001,PRD-2028,03/12/23,10-12-2023,1,140000.0,140000.0,VND,pending,"{""street"": ""233 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Hải Phòng""}",20
+ORD-3192,CUS-1052,PRD-2044,03-10-2023,13/10/2023,5,142000.0,710000.0,VND,returned,"{""street"": ""388 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Cần Thơ""}",15
+ORD-3193,CUS-1093,PRD-2041,2023-11-02,15/11/23,2,150000.0,300000.0,VND,pending,"{""street"": ""335 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Cần Thơ""}",0
+ORD-3194,CUS-1109,PRD-2040,01/01/23,10/01/2023,4,279000.0,1116000.0,VND,completed,"{""street"": ""188 Đường ABC"", ""district"": ""Quận 9"", ""city"": ""Hải Phòng""}",10
+ORD-3195,CUS-1125,PRD-2008,04-10-2023,07/10/23,5,1328000.0,6640000.0,VND,completed,"{""street"": ""583 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Đà Nẵng""",15
+ORD-3196,CUS-1141,PRD-2049,2023-12-31,2024-01-09,4,-109000.0,-436000.0,VND,cancelled,"{""street"": ""303 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Hà Nội""}",0
+ORD-3096,CUS-1061,PRD-2046,2023-05-06,2023-05-04,5,809000.0,4045000.0,VND,cancelled,"{""street"": ""913 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Đà Nẵng""}",20
+ORD-3198,CUS-1115,PRD-2048,2023-05-31,14/06/23,4,0,0,VND,cancelled,"{""street"": ""807 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Đà Nẵng""}",15
+ORD-3199,CUS-1048,PRD-2002,19-11-2023,2023-11-27,2,821000.0,1642000.0,VND,pending,"{""street"": ""674 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Hải Phòng""}",5
+ORD-3200,CUS-1058,PRD-2048,2023-06-08,2023-06-16,2,0,0,VND,completed,"{""street"": ""446 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Hải Phòng""}",
+ORD-3201,CUS-1074,PRD-2050,2023-12-15,16/12/23,3,773000.0,2319000.0,VND,pending,"{""street"": ""745 Đường ABC"", ""district"": ""Quận 1"", ""city"": ""Đà Nẵng""}",20
+ORD-3202,CUS-1042,PRD-2041,2023-04-02,07/04/2023,2,150000.0,300000.0,VND,cancelled,"{""street"": ""330 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Cần Thơ""}",0
+ORD-3203,CUS-1041,PRD-2035,2023-12-11,2023-12-12,2,464000.0,928000.0,VND,pending,"{""street"": ""352 Đường ABC"", ""district"": ""Quận 12"", ""city"": ""Cần Thơ""}",15
+ORD-3204,CUS-1044,PRD-2027,24/09/2023,03/10/2023,4,879000.0,3516000.0,VND,completed,"{""street"": ""241 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Hải Phòng""}",0
+ORD-3205,CUS-1059,PRD-2033,04/12/2023,06/12/23,5,1212000.0,242.4,USD,returned,"{""street"": ""78 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Hồ Chí Minh""}",5
+ORD-3206,CUS-1047,PRD-2038,30-03-2023,04/04/23,2,779000.0,62.32,USD,pending,"{""street"": ""355 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Hải Phòng""}",5
+ORD-3207,CUS-1058,PRD-2019,12-12-2023,18/12/23,4,140000.0,560000.0,VND,completed,"{""street"": ""910 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Hải Phòng""",0
+ORD-3208,CUS-1095,PRD-2015,12-11-2023,25-11-2023,4,160000.0,640000.0,VND,returned,"{""street"": ""377 Đường ABC"", ""district"": ""Quận 7"", ""city"": ""Hà Nội""}",15
+ORD-3209,CUS-1103,PRD-2014,05/03/23,17/03/23,5,103000.0,515000.0,VND,completed,"{""street"": ""319 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Hồ Chí Minh""}",15
+ORD-3210,CUS-1030,PRD-2043,22-01-2023,04/02/23,1,291000.0,291000.0,VND,completed,"{""street"": ""982 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Cần Thơ""}",20
+ORD-3211,CUS-1012,PRD-2011,08/06/23,2023-06-19,5,142000.0,710000.0,VND,pending,"{""street"": ""320 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hải Phòng""}",
+ORD-3212,CUS-1136,PRD-2020,02/07/23,11-07-2023,1,477000.0,477000.0,VND,completed,,0
+ORD-3213,CUS-1073,PRD-2024,14/02/2023,25/02/23,4,811000.0,3244000.0,VND,completed,"{""street"": ""269 Đường ABC"", ""district"": ""Quận 1"", ""city"": ""Hải Phòng""}",15
+ORD-3214,CUS-1039,PRD-2010,2023-09-02,11/09/23,5,2497000.0,12485000.0,VND,cancelled,"{""street"": ""329 Đường ABC"", ""district"": ""Quận 1"", ""city"": ""Hồ Chí Minh""}",0
+ORD-3215,CUS-1028,PRD-2024,10/04/23,20-04-2023,1,811000.0,811000.0,VND,cancelled,"{""street"": ""836 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Cần Thơ""}",0
+ORD-3216,CUS-1135,PRD-2006,2023-08-14,27-08-2023,5,1293000.0,6465000.0,VND,completed,"{""street"": ""98 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Hà Nội""}",15
+ORD-3217,CUS-1092,PRD-2002,08/10/23,21/10/2023,1,821000.0,821000.0,VND,cancelled,"{""street"": ""738 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Đà Nẵng""}",15
+ORD-3218,CUS-1113,PRD-2026,30/05/23,07/06/2023,2,283000.0,566000.0,VND,cancelled,"{""street"": ""854 Đường ABC"", ""district"": ""Quận 9"", ""city"": ""Hải Phòng""}",10
+ORD-3219,CUS-1025,PRD-2029,15/05/2023,25/05/23,4,143000.0,572000.0,VND,returned,"{""street"": ""63 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Hồ Chí Minh""}",5
+ORD-3220,CUS-1123,PRD-2027,2023-11-30,06/12/2023,1,879000.0,879000.0,VND,cancelled,"{""street"": ""819 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hà Nội""}",20
+ORD-3221,CUS-1007,PRD-2017,24/05/23,2023-06-07,4,147000.0,588000.0,VND,cancelled,"{""street"": ""247 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Hải Phòng""}",0
+ORD-3222,CUS-1024,PRD-2020,29/05/2023,30/05/2023,2,477000.0,954000.0,VND,cancelled,"{""street"": ""511 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Hải Phòng""}",10
+ORD-3223,CUS-1038,PRD-2047,2023-07-24,02-08-2023,2,293000.0,586000.0,VND,completed,"{""street"": ""946 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Hải Phòng""}",15
+ORD-3224,CUS-1008,PRD-2040,2023-10-31,09-11-2023,3,279000.0,837000.0,VND,completed,"{""street"": ""327 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Hồ Chí Minh""}",0
+ORD-3225,CUS-1099,PRD-2003,2023-10-15,16/10/23,1,802000.0,802000.0,VND,completed,,5
+ORD-3226,CUS-1141,PRD-2040,03/09/23,15/09/2023,5,279000.0,13950000.0,VND,completed,"{""street"": ""363 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Hải Phòng""}",
+ORD-3227,CUS-1068,PRD-2007,11/09/23,21-09-2023,3,523000.0,15690000.0,VND,returned,"{""street"": ""132 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Đà Nẵng""}",0
+ORD-3228,CUS-1053,PRD-2037,13-01-2023,15-01-2023,2,1314000.0,2628000.0,VND,completed,"{""street"": ""420 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Hải Phòng""}",20
+ORD-3229,CUS-1099,PRD-2034,02/12/2023,06/12/2023,3,2378000.0,7134000.0,VND,completed,"{""street"": ""722 Đường ABC"", ""district"": ""Quận 9"", ""city"": ""Hải Phòng""}",0
+ORD-3230,CUS-1011,PRD-9805,2023-10-12,17/10/2023,2,-109000.0,-218000.0,VND,returned,"{""street"": ""91 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Hải Phòng""}",0
+ORD-3231,CUS-1132,PRD-2012,2023-08-13,19/08/23,4,327000.0,1308000.0,VND,returned,"{""street"": ""396 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Hồ Chí Minh""}",
+ORD-3232,CUS-1079,PRD-2022,2023-07-20,22-07-2023,1,92000.0,92000.0,VND,pending,"{""street"": ""177 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Hải Phòng""}",0
+ORD-3233,CUS-9984,PRD-2006,24-12-2023,04/01/2024,2,1293000.0,103.44,USD,cancelled,"{""street"": ""787 Đường ABC"", ""district"": ""Quận 1"", ""city"": ""Hồ Chí Minh""}",15
+ORD-3234,CUS-1044,PRD-2037,15-08-2023,16/08/23,2,1314000.0,2628000.0,VND,completed,"{""street"": ""969 Đường ABC"", ""district"": ""Quận 1"", ""city"": ""Cần Thơ""}",0
+ORD-3235,CUS-1052,PRD-2021,25/08/2023,30/08/23,1,2475000.0,2475000.0,VND,completed,"{""street"": ""651 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Hải Phòng""}",
+ORD-3236,CUS-1066,PRD-2013,01/08/2023,14-08-2023,3,99000.0,297000.0,VND,completed,"{""street"": ""748 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Cần Thơ""}",0
+ORD-3237,CUS-1068,PRD-2049,16-04-2023,18/04/23,3,-109000.0,-13.08,USD,cancelled,"{""street"": ""646 Đường ABC"", ""district"": ""Quận 9"", ""city"": ""Hải Phòng""}",5
+ORD-3238,CUS-1110,PRD-2031,29-10-2023,10/11/2023,5,833000.0,4165000.0,VND,cancelled,"{""street"": ""404 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Hải Phòng""}",0
+ORD-3239,CUS-1025,PRD-2009,2023-12-14,26-12-2023,5,2356000.0,11780000.0,VND,completed,"{""street"": ""945 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Đà Nẵng""}",0
+ORD-3240,CUS-1085,PRD-2026,2023-07-18,21/07/23,3,283000.0,849000.0,VND,returned,"{""street"": ""505 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Cần Thơ""",0
+ORD-3241,CUS-1098,PRD-2038,2023-10-21,02/11/2023,3,779000.0,934.8,USD,completed,"{""street"": ""291 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Đà Nẵng""}",
+ORD-3242,CUS-1114,PRD-2040,01/03/23,06/03/2023,3,279000.0,837000.0,VND,completed,"{""street"": ""660 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hải Phòng""}",0
+ORD-3243,CUS-1036,PRD-2028,20/09/23,22/09/2023,3,140000.0,420000.0,VND,completed,"{""street"": ""352 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Hồ Chí Minh""}",0
+ORD-3244,CUS-1042,PRD-2021,24/12/2023,29/12/23,3,2475000.0,7425000.0,VND,returned,"{""street"": ""996 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Hà Nội""}",0
+ORD-3245,CUS-1078,PRD-2028,13/01/2023,18-01-2023,5,140000.0,700000.0,VND,pending,"{""street"": ""4 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hồ Chí Minh""}",20
+ORD-3246,CUS-1071,PRD-9783,2023-07-13,15-07-2023,5,2356000.0,11780000.0,VND,completed,"{""street"": ""343 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Hồ Chí Minh""}",15
+ORD-3247,CUS-1036,PRD-9274,2023-01-22,2023-01-27,5,327000.0,1635000.0,VND,completed,"{""street"": ""849 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Đà Nẵng""}",0
+ORD-3248,CUS-1071,PRD-2009,30/03/2023,31/03/23,4,2356000.0,9424000.0,VND,returned,"{""street"": ""176 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Đà Nẵng""}",5
+ORD-3249,CUS-1078,PRD-2025,18/09/23,23/09/2023,5,1283000.0,6415000.0,VND,completed,"{""street"": ""272 Đường ABC"", ""district"": ""Quận 1"", ""city"": ""Cần Thơ""}",5
+ORD-3250,CUS-1142,PRD-9207,15/11/23,28/11/23,5,464000.0,2320000.0,VND,returned,,0
+ORD-3251,CUS-9545,PRD-2004,08/05/23,13/05/2023,1,280000.0,280000.0,VND,pending,"{""street"": ""989 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Cần Thơ""}",0
+ORD-3252,CUS-1031,PRD-2038,22-12-2023,2023-12-23,3,779000.0,2337000.0,VND,completed,"{""street"": ""430 Đường ABC"", ""district"": ""Quận 9"", ""city"": ""Đà Nẵng""}",5
+ORD-3253,CUS-1005,PRD-2024,03/03/2023,13/03/23,4,811000.0,3244000.0,VND,pending,"{""street"": ""794 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Đà Nẵng""}",10
+ORD-3254,CUS-1020,PRD-2041,24/08/23,31/08/2023,2,150000.0,13.2,USD,returned,"{""street"": ""7 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Hải Phòng""}",0
+ORD-3255,CUS-1035,PRD-2014,28-11-2023,11/12/2023,2,103000.0,206000.0,VND,pending,,10
+ORD-3256,CUS-1150,PRD-2028,18/04/2023,2023-04-26,4,140000.0,224.0,USD,returned,"{""street"": ""328 Đường ABC"", ""district"": ""Quận 7"", ""city"": ""Hồ Chí Minh""}",0
+ORD-3257,CUS-9873,PRD-2034,21-09-2023,23-09-2023,5,2378000.0,13079000.000000002,VND,completed,"{""street"": ""606 Đường ABC"", ""district"": ""Quận 7"", ""city"": ""Hà Nội""}",
+ORD-3258,CUS-1043,PRD-2049,12/09/2023,21/09/23,5,-109000.0,-545000.0,VND,returned,"{""street"": ""139 Đường ABC"", ""district"": ""Quận 7"", ""city"": ""Hồ Chí Minh""}",5
+ORD-3259,CUS-1144,PRD-9874,11-02-2023,24/02/23,2,821000.0,1642000.0,VND,cancelled,"{""street"": ""962 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Hà Nội""}",0
+ORD-3260,CUS-1134,PRD-2033,22-03-2023,01-04-2023,3,1212000.0,3636000.0,VND,completed,"{""street"": ""182 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Hồ Chí Minh""}",0
+ORD-3261,CUS-1015,PRD-2017,15-05-2023,2023-05-24,3,147000.0,441000.0,VND,completed,"{""street"": ""680 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Cần Thơ""}",10
+ORD-3262,CUS-1029,PRD-2040,2023-12-31,09/01/24,2,279000.0,558000.0,VND,cancelled,"{""street"": ""900 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Đà Nẵng""}",
+ORD-3263,CUS-1055,PRD-2037,2023-11-25,30-11-2023,3,1314000.0,3942000.0,VND,completed,"{""street"": ""735 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Cần Thơ""",0
+ORD-3264,CUS-1138,PRD-2009,28-05-2023,31-05-2023,4,2356000.0,9424000.0,VND,pending,"{""street"": ""554 Đường ABC"", ""district"": ""Quận 9"", ""city"": ""Cần Thơ""}",10
+ORD-3265,CUS-1069,PRD-2004,08-08-2023,2023-08-10,2,280000.0,560000.0,VND,pending,"{""street"": ""554 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Cần Thơ""",5
+ORD-3266,CUS-1116,PRD-2015,13/04/2023,18/04/2023,4,160000.0,640000.0,VND,completed,"{""street"": ""764 Đường ABC"", ""district"": ""Quận 9"", ""city"": ""Cần Thơ""}",5
+ORD-3267,CUS-1129,PRD-2047,24-07-2023,07/08/23,2,293000.0,586000.0,VND,completed,"{""street"": ""239 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hồ Chí Minh""}",0
+ORD-3268,CUS-1076,PRD-2038,25-04-2023,2023-04-29,2,779000.0,1558000.0,VND,cancelled,"{""street"": ""477 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Cần Thơ""}",0
+ORD-3269,CUS-1119,PRD-2003,2023-06-08,2023-06-14,2,802000.0,1604000.0,VND,cancelled,"{""street"": ""414 Đường ABC"", ""district"": ""Quận 9"", ""city"": ""Hải Phòng""}",10
+ORD-3270,CUS-1142,PRD-2024,23/05/23,05/06/23,4,811000.0,3244000.0,VND,completed,"{""street"": ""389 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Hải Phòng""}",10
+ORD-3271,CUS-1092,PRD-2004,06-11-2023,16/11/23,3,280000.0,840000.0,VND,returned,"{""street"": ""482 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Hải Phòng""}",20
+ORD-3272,CUS-1058,PRD-2017,2023-08-23,05/09/23,1,147000.0,147000.0,VND,returned,"{""street"": ""907 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Cần Thơ""}",10
+ORD-3273,CUS-1049,PRD-2014,2023-09-10,13-09-2023,2,103000.0,206000.0,VND,returned,"{""street"": ""33 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Đà Nẵng""}",0
+ORD-3222,CUS-1024,PRD-2020,29/05/2023,30/05/2023,2,477000.0,954000.0,VND,cancelled,"{""street"": ""511 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Hải Phòng""}",10
+ORD-3275,CUS-1134,PRD-2023,2023-04-03,10/04/23,4,140000.0,22.4,USD,returned,"{""street"": ""120 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Hà Nội""}",0
+ORD-3276,CUS-1016,PRD-2035,01-09-2023,07/09/2023,2,464000.0,928000.0,VND,completed,"{""street"": ""976 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Cần Thơ""}",15
+ORD-3277,CUS-1118,PRD-2041,20/02/2023,25/02/23,3,150000.0,450000.0,VND,returned,"{""street"": ""125 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Hồ Chí Minh""}",
+ORD-3278,CUS-1025,PRD-2045,27/07/2023,2023-08-10,2,2346000.0,187.68,USD,pending,"{""street"": ""120 Đường ABC"", ""district"": ""Quận 9"", ""city"": ""Hồ Chí Minh""}",
+ORD-3279,CUS-1041,PRD-2035,2023-08-28,10/09/2023,2,464000.0,928000.0,VND,cancelled,"{""street"": ""736 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Hải Phòng""}",0
+ORD-3280,CUS-1111,PRD-2025,09/10/2023,15/10/23,4,1283000.0,5132000.0,VND,cancelled,"{""street"": ""298 Đường ABC"", ""district"": ""Quận 1"", ""city"": ""Cần Thơ""}",
+ORD-3281,CUS-1006,PRD-2042,2023-05-09,10-05-2023,3,158000.0,474000.0,VND,completed,,15
+ORD-3282,CUS-1122,PRD-2042,18/12/23,2023-12-27,1,158000.0,158000.0,VND,completed,"{""street"": ""738 Đường ABC"", ""district"": ""Quận 7"", ""city"": ""Hồ Chí Minh""}",0
+ORD-3283,CUS-1118,PRD-2036,2023-10-17,22/10/2023,3,-140000.0,-420000.0,VND,returned,,0
+ORD-3284,CUS-1041,PRD-2020,03-07-2023,2023-07-12,4,477000.0,1908000.0,VND,completed,"{""street"": ""303 Đường ABC"", ""district"": ""Quận 12"", ""city"": ""Hải Phòng""}",
+ORD-3285,CUS-1092,PRD-2003,21/10/2023,29/10/23,5,802000.0,4010000.0,VND,completed,"{""street"": ""111 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Cần Thơ""}",0
+ORD-3286,CUS-1147,PRD-2003,2023-07-27,28/07/23,1,802000.0,802000.0,VND,returned,"{""street"": ""44 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Hồ Chí Minh""}",20
+ORD-3287,CUS-1069,PRD-2020,2023-09-20,24-09-2023,5,477000.0,2385000.0,VND,completed,"{""street"": ""195 Đường ABC"", ""district"": ""Quận 1"", ""city"": ""Hải Phòng""}",
+ORD-3288,CUS-1010,PRD-2043,12/11/2023,20/11/2023,5,291000.0,1455000.0,VND,completed,"{""street"": ""457 Đường ABC"", ""district"": ""Quận 1"", ""city"": ""Cần Thơ""",15
+ORD-3289,CUS-1009,PRD-2047,09/05/23,22/05/2023,4,293000.0,1172000.0,VND,cancelled,"{""street"": ""581 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Đà Nẵng""}",0
+ORD-3290,CUS-1122,PRD-2050,2023-05-11,2023-05-25,2,773000.0,1546000.0,VND,completed,"{""street"": ""908 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Đà Nẵng""}",0
+ORD-3291,CUS-1049,PRD-2042,2023-12-04,11-12-2023,2,158000.0,316000.0,VND,returned,"{""street"": ""918 Đường ABC"", ""district"": ""Quận 9"", ""city"": ""Hà Nội""}",0
+ORD-3292,CUS-1126,PRD-2017,2023-10-27,30-10-2023,5,147000.0,7350000.0,VND,completed,"{""street"": ""378 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Hồ Chí Minh""}",20
+ORD-3293,CUS-1101,PRD-2004,2023-05-24,26/05/2023,5,280000.0,1400000.0,VND,completed,"{""street"": ""288 Đường ABC"", ""district"": ""Quận 12"", ""city"": ""Đà Nẵng""}",10
+ORD-3294,CUS-1058,PRD-9140,20/12/23,03/01/2024,2,1314000.0,2628000.0,VND,returned,"{""street"": ""789 Đường ABC"", ""district"": ""Quận 12"", ""city"": ""Hà Nội""}",5
+ORD-3295,CUS-1123,PRD-2039,2023-05-16,28/05/2023,4,0,0,VND,returned,"{""street"": ""570 Đường ABC"", ""district"": ""Quận 1"", ""city"": ""Đà Nẵng""}",0
+ORD-3296,CUS-1084,PRD-2040,01/10/23,10-10-2023,2,279000.0,558000.0,VND,cancelled,"{""street"": ""465 Đường ABC"", ""district"": ""Quận 1"", ""city"": ""Hà Nội""}",0
+ORD-3297,CUS-1141,PRD-2023,09/06/2023,16-06-2023,3,140000.0,420000.0,VND,returned,"{""street"": ""747 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Hà Nội""}",0
+ORD-3298,CUS-1113,PRD-2005,09/09/2023,16/09/2023,1,465000.0,465000.0,VND,cancelled,"{""street"": ""933 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Cần Thơ""}",0
+ORD-3299,CUS-1024,PRD-2020,05/06/23,2023-06-17,5,477000.0,238500.0,VND,completed,"{""street"": ""823 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Đà Nẵng""}",10
+ORD-3300,CUS-1061,PRD-2010,28/09/2023,04-10-2023,3,2497000.0,7491000.0,VND,completed,"{""street"": ""192 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hải Phòng""}",
+ORD-3301,CUS-1070,PRD-2001,2023-03-12,2023-03-14,4,160000.0,640000.0,VND,completed,"{""street"": ""856 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Cần Thơ""}",0
+ORD-3302,CUS-9991,PRD-2008,22/02/23,23/02/2023,5,1328000.0,6640000.0,VND,returned,"{""street"": ""380 Đường ABC"", ""district"": ""Quận 12"", ""city"": ""Hồ Chí Minh""}",10
+ORD-3303,CUS-1098,PRD-2038,26/05/23,01/06/23,3,779000.0,2337000.0,VND,completed,"{""street"": ""561 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Hồ Chí Minh""}",10
+ORD-3304,CUS-1117,PRD-2014,15/04/23,27/04/2023,1,103000.0,103000.0,VND,completed,"{""street"": ""220 Đường ABC"", ""district"": ""Quận 7"", ""city"": ""Hà Nội""}",0
+ORD-3052,CUS-1116,PRD-2050,21-05-2023,30-05-2023,1,773000.0,34.01,USD,pending,"{""street"": ""953 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Hà Nội""}",20
+ORD-3306,CUS-1113,PRD-2050,15/06/2023,24/06/23,5,773000.0,3865000.0,VND,completed,"{""street"": ""350 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hồ Chí Minh""}",15
+ORD-3307,CUS-1098,PRD-2011,2023-09-05,09-09-2023,1,142000.0,142000.0,VND,pending,"{""street"": ""287 Đường ABC"", ""district"": ""Quận 1"", ""city"": ""Cần Thơ""}",20
+ORD-3308,CUS-9309,PRD-2037,01/09/2023,2023-09-10,3,1314000.0,3942000.0,VND,completed,"{""street"": ""547 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Cần Thơ""}",
+ORD-3309,CUS-1015,PRD-2039,04/06/2023,13/06/23,5,0,0,VND,cancelled,"{""street"": ""21 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Hồ Chí Minh""}",0
+ORD-3310,CUS-1001,PRD-2048,07/12/23,19/12/23,2,0,0,VND,completed,"{""street"": ""197 Đường ABC"", ""district"": ""Quận 9"", ""city"": ""Hải Phòng""}",0
+ORD-3311,CUS-1029,PRD-2010,30-09-2023,05/10/2023,2,2497000.0,4994000.0,VND,cancelled,"{""street"": ""17 Đường ABC"", ""district"": ""Quận 9"", ""city"": ""Hà Nội""}",0
+ORD-3312,CUS-1099,PRD-2015,18/04/23,01/05/23,2,160000.0,320000.0,VND,returned,"{""street"": ""967 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Cần Thơ""}",10
+ORD-3313,CUS-1111,PRD-2035,29/04/23,02/05/23,1,464000.0,464000.0,VND,cancelled,"{""street"": ""550 Đường ABC"", ""district"": ""Quận 12"", ""city"": ""Cần Thơ""}",5
+ORD-3314,CUS-1123,PRD-2024,15/09/23,2023-09-23,1,811000.0,811000.0,VND,completed,"{""street"": ""746 Đường ABC"", ""district"": ""Quận 9"", ""city"": ""Đà Nẵng""}",15
+ORD-3315,CUS-1046,PRD-2047,24/01/23,01/02/23,5,293000.0,1465000.0,VND,pending,,5
+ORD-3316,CUS-1014,PRD-2028,08/11/2023,2023-11-11,1,140000.0,140000.0,VND,returned,"{""street"": ""97 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Hải Phòng""}",
+ORD-3317,CUS-1106,PRD-2027,17-09-2023,21-09-2023,1,879000.0,879000.0,VND,cancelled,"{""street"": ""824 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Hà Nội""}",0
+ORD-3318,CUS-1125,PRD-2032,01/05/2023,04/05/23,4,487000.0,77.92,USD,completed,"{""street"": ""855 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Cần Thơ""}",15
+ORD-3319,CUS-1012,PRD-2012,10-05-2023,2023-05-24,5,327000.0,16350000.0,VND,completed,"{""street"": ""177 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hồ Chí Minh""}",5
+ORD-3320,CUS-1101,PRD-2037,05/01/23,15-01-2023,3,1314000.0,3942000.0,VND,completed,"{""street"": ""993 Đường ABC"", ""district"": ""Quận 9"", ""city"": ""Hải Phòng""}",20
+ORD-3321,CUS-1117,PRD-2015,25/03/2023,29-03-2023,3,160000.0,480000.0,VND,cancelled,"{""street"": ""185 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Hải Phòng""}",0
+ORD-3322,CUS-1050,PRD-2045,29/09/2023,03/10/23,5,2346000.0,1173000.0,VND,cancelled,"{""street"": ""918 Đường ABC"", ""district"": ""Quận 12"", ""city"": ""Hồ Chí Minh""}",10
+ORD-3323,CUS-1001,PRD-2006,2023-06-17,2023-06-27,4,1293000.0,5172000.0,VND,completed,,10
+ORD-3324,CUS-1078,PRD-2007,2023-11-27,2023-11-22,1,523000.0,20.92,USD,completed,"{""street"": ""787 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Hà Nội""}",
+ORD-3200,CUS-1058,PRD-2048,2023-06-08,2023-06-16,2,0,0,VND,completed,"{""street"": ""446 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Hải Phòng""}",
+ORD-3326,CUS-1047,PRD-2032,01/03/23,2023-03-12,4,487000.0,1948000.0,VND,pending,"{""street"": ""900 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hà Nội""}",5
+ORD-3327,CUS-1010,PRD-2012,20/07/23,01/08/23,3,327000.0,981000.0,VND,completed,"{""street"": ""668 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hà Nội""}",0
+ORD-3328,CUS-1066,PRD-2008,02-01-2023,16/01/23,1,1328000.0,1328000.0,VND,completed,"{""street"": ""622 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Hà Nội""}",0
+ORD-3329,CUS-1095,PRD-2010,26/02/23,2023-03-06,5,2497000.0,11236500.0,VND,pending,"{""street"": ""999 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Đà Nẵng""}",0
+ORD-3330,CUS-1020,PRD-2045,24/10/23,04/11/2023,3,2346000.0,7038000.0,VND,completed,"{""street"": ""638 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Đà Nẵng""}",10
+ORD-3331,CUS-1137,PRD-2006,17/02/2023,18-02-2023,3,1293000.0,3879000.0,VND,completed,"{""street"": ""297 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Đà Nẵng""}",0
+ORD-3332,CUS-1150,PRD-2040,2023-04-20,22/04/23,2,279000.0,5580000.0,VND,cancelled,"{""street"": ""529 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Đà Nẵng""}",0
+ORD-3333,CUS-1123,PRD-2037,16-12-2023,2023-12-30,3,1314000.0,3942000.0,VND,completed,"{""street"": ""614 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hồ Chí Minh""",15
+ORD-3334,CUS-1105,PRD-2017,06/03/2023,09-03-2023,4,147000.0,588000.0,VND,returned,"{""street"": ""601 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Hải Phòng""}",20
+ORD-3335,CUS-1116,PRD-2020,2023-12-24,27/12/2023,1,477000.0,477000.0,VND,pending,"{""street"": ""630 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Hải Phòng""}",0
+ORD-3336,CUS-1125,PRD-2033,02-08-2023,2023-08-16,5,1212000.0,6060000.0,VND,completed,"{""street"": ""530 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Hà Nội""}",20
+ORD-3337,CUS-1148,PRD-2008,20/12/2023,2024-01-01,5,1328000.0,265.6,USD,cancelled,"{""street"": ""652 Đường ABC"", ""district"": ""Quận 12"", ""city"": ""Hải Phòng""}",0
+ORD-3338,CUS-1012,PRD-2008,12/10/23,19-10-2023,5,1328000.0,6640000.0,VND,cancelled,"{""street"": ""960 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Hồ Chí Minh""}",0
+ORD-3339,CUS-1033,PRD-2046,2023-02-14,24-02-2023,3,809000.0,2427000.0,VND,returned,"{""street"": ""640 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Hà Nội""}",0
+ORD-3340,CUS-1074,PRD-2043,2023-07-30,13-08-2023,1,291000.0,291000.0,VND,pending,"{""street"": ""661 Đường ABC"", ""district"": ""Quận 9"", ""city"": ""Cần Thơ""}",20
+ORD-3341,CUS-1037,PRD-2042,16/12/23,29-12-2023,3,158000.0,474000.0,VND,pending,"{""street"": ""74 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Hồ Chí Minh""}",5
+ORD-3342,CUS-1035,PRD-2019,25/06/2023,2023-07-08,5,140000.0,700000.0,VND,completed,"{""street"": ""747 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Đà Nẵng""}",10
+ORD-3343,CUS-1091,PRD-2021,2023-01-05,10-01-2023,5,2475000.0,12375000.0,VND,completed,"{""street"": ""658 Đường ABC"", ""district"": ""Quận 12"", ""city"": ""Đà Nẵng""}",15
+ORD-3344,CUS-1056,PRD-2019,11/07/23,23/07/2023,5,140000.0,700000.0,VND,completed,"{""street"": ""877 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Hà Nội""}",15
+ORD-3345,CUS-1103,PRD-2021,11/10/2023,15-10-2023,4,2475000.0,9900000.0,VND,completed,"{""street"": ""710 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hà Nội""}",5
+ORD-3346,CUS-1040,PRD-2011,25-06-2023,29-06-2023,2,142000.0,284000.0,VND,pending,"{""street"": ""521 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Cần Thơ""}",0
+ORD-3347,CUS-1084,PRD-2026,28-11-2023,08/12/23,4,283000.0,1132000.0,VND,completed,"{""street"": ""119 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Hà Nội""}",0
+ORD-3348,CUS-1001,PRD-2006,2023-02-14,15-02-2023,2,1293000.0,2586000.0,VND,cancelled,"{""street"": ""992 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Đà Nẵng""}",15
+ORD-3349,CUS-1076,PRD-2042,24-11-2023,27-11-2023,1,158000.0,158000.0,VND,completed,"{""street"": ""428 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Đà Nẵng""",10
+ORD-3350,CUS-1055,PRD-2011,22/05/2023,29/05/23,1,142000.0,142000.0,VND,cancelled,"{""street"": ""634 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Cần Thơ""}",0
+ORD-3351,CUS-1050,PRD-2040,28/08/2023,06/09/23,1,279000.0,279000.0,VND,completed,"{""street"": ""834 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Đà Nẵng""}",20
+ORD-3352,CUS-1113,PRD-2040,22/04/2023,28/04/23,5,279000.0,1395000.0,VND,completed,"{""street"": ""28 Đường ABC"", ""district"": ""Quận 12"", ""city"": ""Hà Nội""}",
+ORD-3353,CUS-1135,PRD-2024,13/06/23,26/06/23,2,811000.0,1622000.0,VND,pending,,20
+ORD-3354,CUS-1118,PRD-2007,01/04/23,04-04-2023,5,523000.0,2615000.0,VND,pending,"{""street"": ""682 Đường ABC"", ""district"": ""Quận 7"", ""city"": ""Hà Nội""}",0
+ORD-3355,CUS-9323,PRD-2001,2023-01-21,04/02/2023,2,160000.0,320000.0,VND,returned,"{""street"": ""125 Đường ABC"", ""district"": ""Quận 9"", ""city"": ""Hải Phòng""}",15
+ORD-3356,CUS-1062,PRD-2035,26/11/2023,2023-12-10,5,464000.0,2320000.0,VND,completed,"{""street"": ""227 Đường ABC"", ""district"": ""Quận 7"", ""city"": ""Cần Thơ""}",0
+ORD-3357,CUS-1029,PRD-2014,28/04/23,2023-05-06,5,103000.0,515000.0,VND,completed,"{""street"": ""424 Đường ABC"", ""district"": ""Quận 7"", ""city"": ""Hồ Chí Minh""}",0
+ORD-3358,CUS-1144,PRD-2006,29/11/2023,13/12/23,4,1293000.0,5172000.0,VND,completed,"{""street"": ""72 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Cần Thơ""}",10
+ORD-3359,CUS-1032,PRD-2044,21/01/23,22/01/23,5,142000.0,781000.0000000001,VND,completed,"{""street"": ""74 Đường ABC"", ""district"": ""Quận 1"", ""city"": ""Hồ Chí Minh""}",20
+ORD-3360,CUS-1085,PRD-2029,08/02/2023,21-02-2023,1,143000.0,5.72,USD,returned,"{""street"": ""914 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Đà Nẵng""}",10
+ORD-3361,CUS-1086,PRD-2004,07-08-2023,2023-08-13,1,280000.0,280000.0,VND,completed,"{""street"": ""836 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Đà Nẵng""}",20
+ORD-3362,CUS-1122,PRD-2042,03-06-2023,2023-06-16,4,158000.0,25.28,USD,completed,"{""street"": ""751 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Hà Nội""}",15
+ORD-3363,CUS-1094,PRD-2019,26/09/2023,27/09/2023,4,140000.0,560000.0,VND,completed,"{""street"": ""45 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Hải Phòng""}",20
+ORD-3364,CUS-1133,PRD-2002,14/07/23,27/07/2023,1,821000.0,821000.0,VND,completed,"{""street"": ""880 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Hồ Chí Minh""}",0
+ORD-3365,CUS-1038,PRD-2008,26-08-2023,2023-08-28,5,1328000.0,6640000.0,VND,cancelled,"{""street"": ""858 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Hồ Chí Minh""}",10
+ORD-3366,CUS-1132,PRD-2050,2023-08-14,25/08/2023,3,773000.0,2319000.0,VND,cancelled,"{""street"": ""863 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Hà Nội""}",10
+ORD-3367,CUS-1118,PRD-2016,2023-05-14,2023-05-15,4,1381000.0,5524000.0,VND,completed,"{""street"": ""157 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Hải Phòng""}",
+ORD-3368,CUS-1108,PRD-2007,20/07/23,02/08/23,4,523000.0,2092000.0,VND,completed,"{""street"": ""634 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Đà Nẵng""}",10
+ORD-3369,CUS-1118,PRD-2009,17/01/2023,18-01-2023,5,2356000.0,11780000.0,VND,completed,"{""street"": ""229 Đường ABC"", ""district"": ""Quận 1"", ""city"": ""Hồ Chí Minh""}",5
+ORD-3370,CUS-1009,PRD-2043,2023-11-10,2023-11-16,3,291000.0,873000.0,VND,completed,"{""street"": ""753 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Cần Thơ""}",0
+ORD-3371,CUS-1150,PRD-2023,08/03/2023,09/03/2023,4,140000.0,560000.0,VND,returned,"{""street"": ""685 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Hà Nội""}",0
+ORD-3372,CUS-1130,PRD-2049,2023-01-16,2023-01-27,5,-109000.0,-545000.0,VND,cancelled,"{""street"": ""528 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Đà Nẵng""}",15
+ORD-3373,CUS-1108,PRD-2041,15/03/2023,27-03-2023,3,150000.0,450000.0,VND,completed,"{""street"": ""692 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Đà Nẵng""}",10
+ORD-3374,CUS-1102,PRD-2033,24-01-2023,02/02/23,1,1212000.0,1333200.0,VND,completed,,5
+ORD-3375,CUS-1110,PRD-2032,2023-01-22,05/02/2023,5,487000.0,2678500.0,VND,returned,"{""street"": ""670 Đường ABC"", ""district"": ""Quận 7"", ""city"": ""Hải Phòng""}",20
+ORD-3376,CUS-1016,PRD-2031,27-06-2023,2023-06-28,4,833000.0,3332000.0,VND,completed,"{""street"": ""255 Đường ABC"", ""district"": ""Quận 7"", ""city"": ""Hồ Chí Minh""}",20
+ORD-3377,CUS-1045,PRD-2021,15/07/2023,2023-07-23,1,2475000.0,99.0,USD,completed,,
+ORD-3378,CUS-1049,PRD-2027,12-10-2023,2023-10-16,2,879000.0,1758000.0,VND,pending,"{""street"": ""975 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Cần Thơ""}",0
+ORD-3272,CUS-1058,PRD-2017,2023-08-23,05/09/23,1,147000.0,147000.0,VND,returned,"{""street"": ""907 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Cần Thơ""}",10
+ORD-3380,CUS-1117,PRD-2028,22/10/23,01-11-2023,3,140000.0,420000.0,VND,cancelled,"{""street"": ""664 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hà Nội""}",5
+ORD-3381,CUS-1112,PRD-2047,21/12/2023,30-12-2023,4,293000.0,46.88,USD,pending,"{""street"": ""546 Đường ABC"", ""district"": ""Quận 12"", ""city"": ""Hồ Chí Minh""}",15
+ORD-3382,CUS-1008,PRD-2028,28/07/23,2023-07-24,3,140000.0,420000.0,VND,returned,"{""street"": ""546 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Cần Thơ""}",15
+ORD-3383,CUS-1042,PRD-2030,2023-05-16,18/05/23,4,138000.0,552000.0,VND,cancelled,"{""street"": ""201 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Đà Nẵng""}",
+ORD-3384,CUS-9887,PRD-2017,19/07/23,25/07/23,3,147000.0,441000.0,VND,returned,"{""street"": ""561 Đường ABC"", ""district"": ""Quận 9"", ""city"": ""Đà Nẵng""}",0
+ORD-3385,CUS-1143,PRD-2022,2023-05-27,2023-06-06,2,92000.0,7.36,USD,returned,"{""street"": ""973 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Hồ Chí Minh""}",20
+ORD-3386,CUS-1071,PRD-2017,24/07/23,04/08/23,1,147000.0,147000.0,VND,completed,"{""street"": ""993 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Đà Nẵng""}",0
+ORD-3387,CUS-1089,PRD-2004,2023-11-16,23/11/23,3,280000.0,840000.0,VND,pending,"{""street"": ""144 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Hồ Chí Minh""}",5
+ORD-3388,CUS-1067,PRD-2030,2023-02-28,10-03-2023,3,138000.0,414000.0,VND,completed,"{""street"": ""770 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Cần Thơ""}",
+ORD-3389,CUS-1046,PRD-2039,2023-11-06,2023-11-07,4,0,0,VND,pending,"{""street"": ""394 Đường ABC"", ""district"": ""Quận 9"", ""city"": ""Hồ Chí Minh""}",0
+ORD-3390,CUS-1070,PRD-2021,28/04/2023,12-05-2023,3,2475000.0,7425000.0,VND,completed,"{""street"": ""331 Đường ABC"", ""district"": ""Quận 9"", ""city"": ""Hà Nội""}",10
+ORD-3391,CUS-1049,PRD-2027,08/01/23,2023-01-10,4,879000.0,3516000.0,VND,pending,"{""street"": ""432 Đường ABC"", ""district"": ""Quận 7"", ""city"": ""Hà Nội""}",
+ORD-3392,CUS-1077,PRD-2004,12/10/2023,20/10/2023,2,280000.0,56000.0,VND,completed,"{""street"": ""625 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Hà Nội""}",0
+ORD-3393,CUS-1077,PRD-9446,06/08/23,13-08-2023,4,487000.0,1948000.0,VND,cancelled,,10
+ORD-3394,CUS-1035,PRD-2005,02-02-2023,14/02/2023,3,465000.0,55.8,USD,completed,"{""street"": ""433 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Cần Thơ""}",5
+ORD-3395,CUS-1005,PRD-2034,19/07/2023,30/07/2023,2,2378000.0,4756000.0,VND,returned,"{""street"": ""918 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hải Phòng""",20
+ORD-3396,CUS-1111,PRD-2044,06/04/23,17/04/23,2,142000.0,284000.0,VND,cancelled,"{""street"": ""712 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Hải Phòng""}",15
+ORD-3397,CUS-1146,PRD-2028,13/12/2023,14/12/2023,5,140000.0,700000.0,VND,completed,"{""street"": ""178 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Cần Thơ""}",20
+ORD-3398,CUS-1009,PRD-2020,26-08-2023,03-09-2023,3,477000.0,1431000.0,VND,returned,"{""street"": ""961 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Hồ Chí Minh""}",5
+ORD-3399,CUS-1116,PRD-9283,11/10/2023,2023-10-21,3,291000.0,873000.0,VND,cancelled,"{""street"": ""215 Đường ABC"", ""district"": ""Quận 12"", ""city"": ""Đà Nẵng""}",20
+ORD-3400,CUS-1070,PRD-2039,2023-06-11,13/06/2023,1,0,0,VND,completed,"{""street"": ""186 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Đà Nẵng""}",
+ORD-3401,CUS-1032,PRD-2024,04/05/2023,06-05-2023,4,811000.0,3244000.0,VND,cancelled,"{""street"": ""393 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Hồ Chí Minh""}",20
+ORD-3402,CUS-1015,PRD-2014,06/11/23,2023-11-13,2,103000.0,206000.0,VND,completed,"{""street"": ""670 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Cần Thơ""}",10
+ORD-3403,CUS-1063,PRD-2048,11/01/23,25/01/23,1,0,0,VND,cancelled,"{""street"": ""417 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Hà Nội""}",
+ORD-3404,CUS-1094,PRD-2022,01/06/23,14/06/2023,3,92000.0,276000.0,VND,completed,"{""street"": ""439 Đường ABC"", ""district"": ""Quận 9"", ""city"": ""Hồ Chí Minh""}",0
+ORD-3405,CUS-1009,PRD-2040,2023-06-06,09/06/2023,2,279000.0,558000.0,VND,returned,"{""street"": ""816 Đường ABC"", ""district"": ""Quận 9"", ""city"": ""Hồ Chí Minh""}",0
+ORD-3406,CUS-1120,PRD-2004,20-01-2023,2023-01-23,1,280000.0,280000.0,VND,pending,"{""street"": ""90 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Hải Phòng""}",
+ORD-3407,CUS-1029,PRD-2044,12/04/23,13/04/23,3,142000.0,426000.0,VND,completed,"{""street"": ""582 Đường ABC"", ""district"": ""Quận 12"", ""city"": ""Cần Thơ""}",0
+ORD-3408,CUS-1130,PRD-2022,2023-04-28,10/05/23,4,92000.0,368000.0,VND,completed,"{""street"": ""363 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Đà Nẵng""}",
+ORD-3409,CUS-1015,PRD-2049,13-05-2023,21-05-2023,3,-109000.0,-327000.0,VND,completed,"{""street"": ""94 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Cần Thơ""}",0
+ORD-3410,CUS-1111,PRD-2003,06/02/23,10/02/2023,3,802000.0,2406000.0,VND,pending,"{""street"": ""848 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Đà Nẵng""}",0
+ORD-3411,CUS-1073,PRD-2005,2023-06-07,15/06/2023,5,465000.0,2325000.0,VND,pending,,10
+ORD-3287,CUS-1069,PRD-2020,2023-09-20,24-09-2023,5,477000.0,2385000.0,VND,completed,"{""street"": ""195 Đường ABC"", ""district"": ""Quận 1"", ""city"": ""Hải Phòng""}",
+ORD-3413,CUS-1008,PRD-2041,14/05/2023,2023-05-15,1,150000.0,150000.0,VND,returned,"{""street"": ""253 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Đà Nẵng""",5
+ORD-3414,CUS-1105,PRD-2050,21-11-2023,28/11/2023,2,773000.0,1546000.0,VND,completed,"{""street"": ""180 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Hà Nội""}",15
+ORD-3415,CUS-1042,PRD-2042,01/02/23,12-02-2023,3,158000.0,474000.0,VND,cancelled,,0
+ORD-3416,CUS-1147,PRD-2003,2023-11-22,2023-11-30,3,802000.0,2406000.0,VND,completed,"{""street"": ""586 Đường ABC"", ""district"": ""Quận 1"", ""city"": ""Cần Thơ""}",
+ORD-3286,CUS-1147,PRD-2003,2023-07-27,28/07/23,1,802000.0,802000.0,VND,returned,"{""street"": ""44 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Hồ Chí Minh""}",20
+ORD-3418,CUS-1121,PRD-2031,2023-06-01,2023-06-05,1,833000.0,833000.0,VND,returned,,5
+ORD-3419,CUS-1034,PRD-2044,12-10-2023,25-10-2023,4,142000.0,568000.0,VND,returned,"{""street"": ""290 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Đà Nẵng""}",0
+ORD-3420,CUS-1150,PRD-2046,12/08/23,2023-08-19,3,809000.0,2427000.0,VND,completed,"{""street"": ""187 Đường ABC"", ""district"": ""Quận 9"", ""city"": ""Hà Nội""}",20
+ORD-3421,CUS-1059,PRD-2038,2023-09-10,23-09-2023,5,779000.0,3895000.0,VND,completed,"{""street"": ""207 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Cần Thơ""}",0
+ORD-3422,CUS-1019,PRD-2041,15/10/2023,21/10/2023,1,150000.0,150000.0,VND,completed,"{""street"": ""236 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hải Phòng""",20
+ORD-3423,CUS-1028,PRD-2029,22-06-2023,01/07/23,1,143000.0,143000.0,VND,completed,"{""street"": ""596 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Hà Nội""}",
+ORD-3424,CUS-1044,PRD-2006,02-12-2023,13/12/2023,3,1293000.0,3879000.0,VND,cancelled,"{""street"": ""909 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hải Phòng""}",0
+ORD-3425,CUS-1078,PRD-2004,20/12/23,2024-01-03,3,280000.0,840000.0,VND,cancelled,,0
+ORD-3426,CUS-1113,PRD-2037,05/10/2023,06/10/23,5,1314000.0,6570000.0,VND,pending,"{""street"": ""421 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Cần Thơ""}",0
+ORD-3427,CUS-1147,PRD-2031,09/10/2023,18-10-2023,5,833000.0,4165000.0,VND,pending,,0
+ORD-3428,CUS-1141,PRD-2014,2023-04-13,15-04-2023,3,103000.0,339900.0,VND,completed,"{""street"": ""14 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Hà Nội""}",10
+ORD-3429,CUS-1079,PRD-2042,13-09-2023,25/09/23,5,158000.0,790000.0,VND,returned,"{""street"": ""104 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Cần Thơ""}",0
+ORD-3430,CUS-1028,PRD-2026,19-11-2023,21-11-2023,2,283000.0,566000.0,VND,completed,"{""street"": ""712 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Đà Nẵng""}",0
+ORD-3431,CUS-1027,PRD-2038,19/07/2023,2023-07-29,4,779000.0,3116000.0,VND,completed,"{""street"": ""334 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Đà Nẵng""}",10
+ORD-3432,CUS-1106,PRD-2008,10/11/2023,17/11/2023,3,1328000.0,4382400.0,VND,pending,"{""street"": ""955 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Hồ Chí Minh""}",10
+ORD-3433,CUS-1140,PRD-2046,19/05/23,2023-05-27,2,809000.0,1618000.0,VND,completed,"{""street"": ""146 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hải Phòng""}",15
+ORD-3434,CUS-1093,PRD-2049,10-12-2023,2023-12-21,4,-109000.0,-479600.00000000006,VND,returned,"{""street"": ""585 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Đà Nẵng""}",0
+ORD-3435,CUS-1076,PRD-2014,2023-05-28,09/06/23,5,103000.0,515000.0,VND,completed,"{""street"": ""173 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Hải Phòng""}",20
+ORD-3436,CUS-1113,PRD-2013,12/05/2023,2023-05-20,3,99000.0,297000.0,VND,pending,"{""street"": ""591 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Hải Phòng""}",0
+ORD-3437,CUS-1107,PRD-2010,19-10-2023,26/10/2023,3,2497000.0,7491000.0,VND,completed,"{""street"": ""631 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hải Phòng""}",20
+ORD-3438,CUS-1044,PRD-2024,2023-04-02,08/04/23,4,811000.0,3244000.0,VND,pending,"{""street"": ""495 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Cần Thơ""}",0
+ORD-3439,CUS-1111,PRD-2015,17-07-2023,18/07/2023,4,160000.0,64000.0,VND,completed,"{""street"": ""738 Đường ABC"", ""district"": ""Quận 9"", ""city"": ""Đà Nẵng""}",10
+ORD-3440,CUS-1112,PRD-2033,21/09/2023,04/10/23,4,1212000.0,4848000.0,VND,returned,"{""street"": ""390 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Hải Phòng""}",5
+ORD-3441,CUS-1131,PRD-2002,28/04/23,10/05/2023,4,821000.0,131.36,USD,pending,"{""street"": ""954 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Hải Phòng""}",10
+ORD-3442,CUS-1078,PRD-2031,29/01/23,03/02/23,3,833000.0,2499000.0,VND,completed,"{""street"": ""308 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Hồ Chí Minh""}",0
+ORD-3443,CUS-1145,PRD-2034,23/01/2023,2023-02-04,3,2378000.0,7134000.0,VND,cancelled,"{""street"": ""480 Đường ABC"", ""district"": ""Quận 9"", ""city"": ""Hải Phòng""}",5
+ORD-3358,CUS-1144,PRD-2006,29/11/2023,13/12/23,4,1293000.0,5172000.0,VND,completed,"{""street"": ""72 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Cần Thơ""}",10
+ORD-3445,CUS-1044,PRD-2013,24/11/2023,27/11/2023,3,99000.0,2970000.0,VND,completed,"{""street"": ""230 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hải Phòng""}",5
+ORD-3446,CUS-1009,PRD-2009,09/12/2023,10/12/23,3,2356000.0,7068000.0,VND,pending,"{""street"": ""151 Đường ABC"", ""district"": ""Quận 12"", ""city"": ""Hải Phòng""}",10
+ORD-3447,CUS-1078,PRD-2028,2023-08-27,03-09-2023,2,140000.0,280000.0,VND,pending,"{""street"": ""371 Đường ABC"", ""district"": ""Quận 12"", ""city"": ""Đà Nẵng""",20
+ORD-3448,CUS-1090,PRD-2009,2023-02-11,2023-02-16,4,2356000.0,10366400.0,VND,completed,"{""street"": ""290 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Đà Nẵng""}",
+ORD-3235,CUS-1052,PRD-2021,25/08/2023,30/08/23,1,2475000.0,2475000.0,VND,completed,"{""street"": ""651 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Hải Phòng""}",
+ORD-3450,CUS-1101,PRD-2005,2023-09-16,26/09/2023,4,465000.0,1860000.0,VND,pending,"{""street"": ""933 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Hải Phòng""}",5
+ORD-3451,CUS-1053,PRD-2039,09/03/23,10-03-2023,1,0,0,VND,completed,"{""street"": ""558 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hồ Chí Minh""}",
+ORD-3452,CUS-1119,PRD-2019,24/05/23,01/06/2023,1,140000.0,140000.0,VND,cancelled,"{""street"": ""472 Đường ABC"", ""district"": ""Quận 11"", ""city"": ""Hà Nội""}",0
+ORD-3453,CUS-1060,PRD-2010,06/05/23,16/05/2023,5,2497000.0,12485000.0,VND,completed,"{""street"": ""875 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Đà Nẵng""}",
+ORD-3454,CUS-1019,PRD-2044,08-05-2023,2023-05-22,3,142000.0,426000.0,VND,completed,"{""street"": ""519 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Cần Thơ""}",0
+ORD-3455,CUS-1052,PRD-2044,2023-09-15,27-09-2023,3,142000.0,426000.0,VND,completed,"{""street"": ""762 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Hải Phòng""}",0
+ORD-3456,CUS-1047,PRD-2027,04-03-2023,2023-03-16,2,879000.0,1758000.0,VND,completed,"{""street"": ""393 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Đà Nẵng""}",15
+ORD-3457,CUS-1128,PRD-2043,2023-05-14,23-05-2023,3,291000.0,785700.0,VND,completed,"{""street"": ""296 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Cần Thơ""}",10
+ORD-3458,CUS-1059,PRD-2015,2023-12-25,01/01/24,1,160000.0,160000.0,VND,completed,"{""street"": ""279 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Hà Nội""}",10
+ORD-3459,CUS-1086,PRD-2017,07-06-2023,17/06/2023,3,147000.0,441000.0,VND,pending,"{""street"": ""816 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Cần Thơ""}",5
+ORD-3460,CUS-1112,PRD-9326,09/03/23,2023-03-23,2,-140000.0,-280000.0,VND,pending,"{""street"": ""618 Đường ABC"", ""district"": ""Quận 9"", ""city"": ""Hồ Chí Minh""}",20
+ORD-3461,CUS-1040,PRD-2026,14/04/2023,15/04/2023,4,283000.0,45.28,USD,pending,"{""street"": ""954 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Hồ Chí Minh""}",20
+ORD-3462,CUS-1082,PRD-2029,22-08-2023,05-09-2023,3,143000.0,429000.0,VND,completed,"{""street"": ""997 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Hải Phòng""}",0
+ORD-3463,CUS-1147,PRD-2047,15/05/23,17-05-2023,3,293000.0,966900.0000000001,VND,cancelled,"{""street"": ""887 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Hà Nội""}",0
+ORD-3464,CUS-1078,PRD-2003,2023-09-15,18/09/2023,4,802000.0,3208000.0,VND,cancelled,"{""street"": ""704 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Hải Phòng""}",0
+ORD-3465,CUS-1020,PRD-2018,13/07/2023,21/07/2023,4,298000.0,11920000.0,VND,cancelled,"{""street"": ""702 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Đà Nẵng""}",0
+ORD-3466,CUS-1014,PRD-2032,07-10-2023,2023-10-15,2,487000.0,974000.0,VND,returned,"{""street"": ""900 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Hà Nội""}",0
+ORD-3467,CUS-1109,PRD-2008,2023-09-28,07-10-2023,3,1328000.0,3984000.0,VND,completed,"{""street"": ""451 Đường ABC"", ""district"": ""Quận 7"", ""city"": ""Cần Thơ""}",15
+ORD-3468,CUS-1020,PRD-2042,2023-08-09,13/08/2023,3,158000.0,474000.0,VND,returned,,
+ORD-3469,CUS-1143,PRD-2016,15/10/2023,2023-10-19,4,1381000.0,5524000.0,VND,completed,"{""street"": ""793 Đường ABC"", ""district"": ""Quận 12"", ""city"": ""Đà Nẵng""}",0
+ORD-3470,CUS-1047,PRD-2001,2023-06-06,14/06/23,3,160000.0,480000.0,VND,completed,"{""street"": ""230 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Hồ Chí Minh""}",20
+ORD-3471,CUS-1044,PRD-2031,12/04/2023,19/04/23,3,833000.0,2499000.0,VND,cancelled,"{""street"": ""124 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hà Nội""}",0
+ORD-3472,CUS-1123,PRD-2014,02/09/23,2023-09-14,3,103000.0,309000.0,VND,completed,"{""street"": ""315 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Hà Nội""",10
+ORD-3473,CUS-1011,PRD-2023,17/04/2023,21/04/23,1,140000.0,140000.0,VND,returned,"{""street"": ""684 Đường ABC"", ""district"": ""Quận 7"", ""city"": ""Cần Thơ""}",0
+ORD-3474,CUS-1069,PRD-2038,15/01/2023,18/01/23,4,779000.0,3116000.0,VND,pending,"{""street"": ""688 Đường ABC"", ""district"": ""Quận 9"", ""city"": ""Hải Phòng""}",5
+ORD-3475,CUS-1114,PRD-2033,03/11/2023,16-11-2023,4,1212000.0,4848000.0,VND,cancelled,"{""street"": ""613 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Đà Nẵng""}",
+ORD-3476,CUS-1079,PRD-2049,24/09/2023,03/10/23,3,-109000.0,-3270000.0,VND,completed,"{""street"": ""820 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Cần Thơ""}",20
+ORD-3477,CUS-1142,PRD-2010,09/07/23,10/07/23,3,2497000.0,7491000.0,VND,completed,"{""street"": ""25 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Cần Thơ""}",10
+ORD-3478,CUS-1045,PRD-2014,15/01/23,21-01-2023,1,103000.0,103000.0,VND,returned,,15
+ORD-3479,CUS-1050,PRD-2003,2023-01-23,05/02/2023,2,802000.0,1604000.0,VND,pending,"{""street"": ""260 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Cần Thơ""}",
+ORD-3480,CUS-1045,PRD-2017,27-08-2023,29-08-2023,3,147000.0,441000.0,VND,completed,"{""street"": ""329 Đường ABC"", ""district"": ""Quận 9"", ""city"": ""Đà Nẵng""}",0
+ORD-3481,CUS-1064,PRD-2022,2023-03-22,05/04/2023,5,92000.0,460000.0,VND,pending,"{""street"": ""660 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Hồ Chí Minh""}",0
+ORD-3482,CUS-1141,PRD-2037,2023-09-30,14-10-2023,5,1314000.0,6570000.0,VND,completed,"{""street"": ""191 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Cần Thơ""}",20
+ORD-3483,CUS-1067,PRD-2015,30/04/2023,10-05-2023,1,160000.0,160000.0,VND,completed,"{""street"": ""193 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Hà Nội""}",10
+ORD-3484,CUS-1050,PRD-2038,23/03/2023,26-03-2023,1,779000.0,779000.0,VND,completed,"{""street"": ""324 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Cần Thơ""}",20
+ORD-3485,CUS-1135,PRD-2025,10-01-2023,2023-01-21,1,1283000.0,1283000.0,VND,completed,"{""street"": ""410 Đường ABC"", ""district"": ""Quận 10"", ""city"": ""Đà Nẵng""}",0
+ORD-3486,CUS-1071,PRD-2035,2023-06-09,20/06/23,2,464000.0,928000.0,VND,returned,"{""street"": ""162 Đường ABC"", ""district"": ""Quận 7"", ""city"": ""Hồ Chí Minh""}",10
+ORD-3487,CUS-1024,PRD-2049,15/07/2023,22-07-2023,3,-109000.0,-327000.0,VND,returned,"{""street"": ""917 Đường ABC"", ""district"": ""Quận 5"", ""city"": ""Hải Phòng""}",0
+ORD-3488,CUS-9595,PRD-2033,25/11/2023,30-11-2023,2,1212000.0,2424000.0,VND,pending,"{""street"": ""475 Đường ABC"", ""district"": ""Quận 1"", ""city"": ""Hồ Chí Minh""}",0
+ORD-3489,CUS-1118,PRD-2045,2023-09-03,17/09/2023,4,2346000.0,9384000.0,VND,completed,"{""street"": ""625 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Hồ Chí Minh""}",5
+ORD-3490,CUS-1148,PRD-2045,08/04/23,19-04-2023,2,2346000.0,187.68,USD,returned,"{""street"": ""214 Đường ABC"", ""district"": ""Quận 1"", ""city"": ""Hải Phòng""}",0
+ORD-3491,CUS-1044,PRD-2033,20/10/23,2023-10-17,1,1212000.0,48.48,USD,completed,,0
+ORD-3492,CUS-1079,PRD-2006,03/04/23,16-04-2023,4,1293000.0,5172000.0,VND,returned,"{""street"": ""379 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Hải Phòng""}",
+ORD-3493,CUS-1042,PRD-2004,05/05/23,08-05-2023,1,280000.0,11.2,USD,completed,"{""street"": ""445 Đường ABC"", ""district"": ""Quận 3"", ""city"": ""Hồ Chí Minh""}",10
+ORD-3494,CUS-1050,PRD-2029,05-06-2023,2023-06-16,4,143000.0,572000.0,VND,returned,"{""street"": ""934 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hải Phòng""",10
+ORD-3495,CUS-1124,PRD-2044,09-02-2023,20-02-2023,4,142000.0,568000.0,VND,completed,"{""street"": ""158 Đường ABC"", ""district"": ""Quận 6"", ""city"": ""Đà Nẵng""}",0
+ORD-3496,CUS-1101,PRD-2013,16/07/2023,2023-07-23,4,99000.0,396000.0,VND,returned,"{""street"": ""26 Đường ABC"", ""district"": ""Quận 8"", ""city"": ""Cần Thơ""}",15
+ORD-3497,CUS-1148,PRD-2038,2023-08-13,20/08/2023,5,779000.0,3895000.0,VND,pending,"{""street"": ""956 Đường ABC"", ""district"": ""Quận 12"", ""city"": ""Đà Nẵng""}",0
+ORD-3498,CUS-1034,PRD-2040,12/02/23,21/02/23,4,279000.0,44.64,USD,returned,"{""street"": ""487 Đường ABC"", ""district"": ""Quận 2"", ""city"": ""Hồ Chí Minh""}",
+ORD-3499,CUS-1093,PRD-2033,13/03/2023,21-03-2023,4,1212000.0,193.92,USD,completed,"{""street"": ""734 Đường ABC"", ""district"": ""Quận 7"", ""city"": ""Hồ Chí Minh""}",10
+ORD-3500,CUS-1038,PRD-2004,2023-02-01,12/02/23,2,280000.0,560000.0,VND,cancelled,"{""street"": ""689 Đường ABC"", ""district"": ""Quận 4"", ""city"": ""Đà Nẵng""",0

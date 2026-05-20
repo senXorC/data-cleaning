@@ -1,0 +1,99 @@
+table,row_id,flag_type,field,value,note
+products,PRD-2036,PRICE_NEGATIVE,price_vnd,-140000.0,Giá âm — cần xác nhận giá đúng
+products,PRD-2049,PRICE_NEGATIVE,price_vnd,-109000.0,Giá âm — cần xác nhận giá đúng
+products,PRD-2039,PRICE_ZERO,price_vnd,0,Giá = 0 — sản phẩm miễn phí hay lỗi?
+products,PRD-2048,PRICE_ZERO,price_vnd,0,Giá = 0 — sản phẩm miễn phí hay lỗi?
+products,PRD-2001,STOCK_NEGATIVE,stock_qty,-5,Stock âm → set 0
+orders,ORD-3004,ORPHAN_ORDER,customer_id,CUS-9116,customer_id không tồn tại trong customers
+orders,ORD-3042,ORPHAN_ORDER,customer_id,CUS-9764,customer_id không tồn tại trong customers
+orders,ORD-3045,ORPHAN_ORDER,customer_id,CUS-9896,customer_id không tồn tại trong customers
+orders,ORD-3078,ORPHAN_ORDER,customer_id,CUS-9384,customer_id không tồn tại trong customers
+orders,ORD-3108,ORPHAN_ORDER,customer_id,CUS-9578,customer_id không tồn tại trong customers
+orders,ORD-3120,ORPHAN_ORDER,customer_id,CUS-9571,customer_id không tồn tại trong customers
+orders,ORD-3169,ORPHAN_ORDER,customer_id,CUS-9438,customer_id không tồn tại trong customers
+orders,ORD-3233,ORPHAN_ORDER,customer_id,CUS-9984,customer_id không tồn tại trong customers
+orders,ORD-3251,ORPHAN_ORDER,customer_id,CUS-9545,customer_id không tồn tại trong customers
+orders,ORD-3257,ORPHAN_ORDER,customer_id,CUS-9873,customer_id không tồn tại trong customers
+orders,ORD-3302,ORPHAN_ORDER,customer_id,CUS-9991,customer_id không tồn tại trong customers
+orders,ORD-3308,ORPHAN_ORDER,customer_id,CUS-9309,customer_id không tồn tại trong customers
+orders,ORD-3355,ORPHAN_ORDER,customer_id,CUS-9323,customer_id không tồn tại trong customers
+orders,ORD-3384,ORPHAN_ORDER,customer_id,CUS-9887,customer_id không tồn tại trong customers
+orders,ORD-3488,ORPHAN_ORDER,customer_id,CUS-9595,customer_id không tồn tại trong customers
+orders,ORD-3006,ORPHAN_ORDER,product_id,PRD-9834,product_id không tồn tại trong products
+orders,ORD-3013,ORPHAN_ORDER,product_id,PRD-9496,product_id không tồn tại trong products
+orders,ORD-3040,ORPHAN_ORDER,product_id,PRD-9187,product_id không tồn tại trong products
+orders,ORD-3078,ORPHAN_ORDER,product_id,PRD-9877,product_id không tồn tại trong products
+orders,ORD-3082,ORPHAN_ORDER,product_id,PRD-9420,product_id không tồn tại trong products
+orders,ORD-3171,ORPHAN_ORDER,product_id,PRD-9896,product_id không tồn tại trong products
+orders,ORD-3177,ORPHAN_ORDER,product_id,PRD-9032,product_id không tồn tại trong products
+orders,ORD-3230,ORPHAN_ORDER,product_id,PRD-9805,product_id không tồn tại trong products
+orders,ORD-3246,ORPHAN_ORDER,product_id,PRD-9783,product_id không tồn tại trong products
+orders,ORD-3247,ORPHAN_ORDER,product_id,PRD-9274,product_id không tồn tại trong products
+orders,ORD-3250,ORPHAN_ORDER,product_id,PRD-9207,product_id không tồn tại trong products
+orders,ORD-3259,ORPHAN_ORDER,product_id,PRD-9874,product_id không tồn tại trong products
+orders,ORD-3294,ORPHAN_ORDER,product_id,PRD-9140,product_id không tồn tại trong products
+orders,ORD-3393,ORPHAN_ORDER,product_id,PRD-9446,product_id không tồn tại trong products
+orders,ORD-3399,ORPHAN_ORDER,product_id,PRD-9283,product_id không tồn tại trong products
+orders,ORD-3460,ORPHAN_ORDER,product_id,PRD-9326,product_id không tồn tại trong products
+orders,ORD-3096,SHIP_BEFORE_ORDER,ship_date × order_date,"ship=2023-05-04 00:00:00, order=2023-05-06 00:00:00",ship_date trước order_date — bất khả thi
+orders,ORD-3148,SHIP_BEFORE_ORDER,ship_date × order_date,"ship=2023-12-04 00:00:00, order=2023-12-09 00:00:00",ship_date trước order_date — bất khả thi
+orders,ORD-3324,SHIP_BEFORE_ORDER,ship_date × order_date,"ship=2023-11-22 00:00:00, order=2023-11-27 00:00:00",ship_date trước order_date — bất khả thi
+orders,ORD-3382,SHIP_BEFORE_ORDER,ship_date × order_date,"ship=2023-07-24 00:00:00, order=2023-07-28 00:00:00",ship_date trước order_date — bất khả thi
+orders,ORD-3491,SHIP_BEFORE_ORDER,ship_date × order_date,"ship=2023-10-17 00:00:00, order=2023-10-20 00:00:00",ship_date trước order_date — bất khả thi
+orders,ORD-3001,PRICE_INVALID,unit_price_vnd,-140000.0,Giá ≤ 0 hoặc không đọc được
+orders,ORD-3031,PRICE_INVALID,unit_price_vnd,0.0,Giá ≤ 0 hoặc không đọc được
+orders,ORD-3039,PRICE_INVALID,unit_price_vnd,0.0,Giá ≤ 0 hoặc không đọc được
+orders,ORD-3045,PRICE_INVALID,unit_price_vnd,-109000.0,Giá ≤ 0 hoặc không đọc được
+orders,ORD-3048,PRICE_INVALID,unit_price_vnd,0.0,Giá ≤ 0 hoặc không đọc được
+orders,ORD-3053,PRICE_INVALID,unit_price_vnd,-109000.0,Giá ≤ 0 hoặc không đọc được
+orders,ORD-3100,PRICE_INVALID,unit_price_vnd,0.0,Giá ≤ 0 hoặc không đọc được
+orders,ORD-3134,PRICE_INVALID,unit_price_vnd,-140000.0,Giá ≤ 0 hoặc không đọc được
+orders,ORD-3139,PRICE_INVALID,unit_price_vnd,-140000.0,Giá ≤ 0 hoặc không đọc được
+orders,ORD-3149,PRICE_INVALID,unit_price_vnd,-140000.0,Giá ≤ 0 hoặc không đọc được
+orders,ORD-3152,PRICE_INVALID,unit_price_vnd,0.0,Giá ≤ 0 hoặc không đọc được
+orders,ORD-3155,PRICE_INVALID,unit_price_vnd,0.0,Giá ≤ 0 hoặc không đọc được
+orders,ORD-3161,PRICE_INVALID,unit_price_vnd,0.0,Giá ≤ 0 hoặc không đọc được
+orders,ORD-3168,PRICE_INVALID,unit_price_vnd,-109000.0,Giá ≤ 0 hoặc không đọc được
+orders,ORD-3173,PRICE_INVALID,unit_price_vnd,0.0,Giá ≤ 0 hoặc không đọc được
+orders,ORD-3196,PRICE_INVALID,unit_price_vnd,-109000.0,Giá ≤ 0 hoặc không đọc được
+orders,ORD-3198,PRICE_INVALID,unit_price_vnd,0.0,Giá ≤ 0 hoặc không đọc được
+orders,ORD-3200,PRICE_INVALID,unit_price_vnd,0.0,Giá ≤ 0 hoặc không đọc được
+orders,ORD-3230,PRICE_INVALID,unit_price_vnd,-109000.0,Giá ≤ 0 hoặc không đọc được
+orders,ORD-3237,PRICE_INVALID,unit_price_vnd,-109000.0,Giá ≤ 0 hoặc không đọc được
+orders,ORD-3258,PRICE_INVALID,unit_price_vnd,-109000.0,Giá ≤ 0 hoặc không đọc được
+orders,ORD-3283,PRICE_INVALID,unit_price_vnd,-140000.0,Giá ≤ 0 hoặc không đọc được
+orders,ORD-3295,PRICE_INVALID,unit_price_vnd,0.0,Giá ≤ 0 hoặc không đọc được
+orders,ORD-3309,PRICE_INVALID,unit_price_vnd,0.0,Giá ≤ 0 hoặc không đọc được
+orders,ORD-3310,PRICE_INVALID,unit_price_vnd,0.0,Giá ≤ 0 hoặc không đọc được
+orders,ORD-3372,PRICE_INVALID,unit_price_vnd,-109000.0,Giá ≤ 0 hoặc không đọc được
+orders,ORD-3389,PRICE_INVALID,unit_price_vnd,0.0,Giá ≤ 0 hoặc không đọc được
+orders,ORD-3400,PRICE_INVALID,unit_price_vnd,0.0,Giá ≤ 0 hoặc không đọc được
+orders,ORD-3403,PRICE_INVALID,unit_price_vnd,0.0,Giá ≤ 0 hoặc không đọc được
+orders,ORD-3409,PRICE_INVALID,unit_price_vnd,-109000.0,Giá ≤ 0 hoặc không đọc được
+orders,ORD-3434,PRICE_INVALID,unit_price_vnd,-109000.0,Giá ≤ 0 hoặc không đọc được
+orders,ORD-3451,PRICE_INVALID,unit_price_vnd,0.0,Giá ≤ 0 hoặc không đọc được
+orders,ORD-3460,PRICE_INVALID,unit_price_vnd,-140000.0,Giá ≤ 0 hoặc không đọc được
+orders,ORD-3476,PRICE_INVALID,unit_price_vnd,-109000.0,Giá ≤ 0 hoặc không đọc được
+orders,ORD-3487,PRICE_INVALID,unit_price_vnd,-109000.0,Giá ≤ 0 hoặc không đọc được
+orders,ORD-3037,ADDRESS_MISSING,shipping_address,,Địa chỉ không hợp lệ hoặc trống
+orders,ORD-3054,ADDRESS_MISSING,shipping_address,,Địa chỉ không hợp lệ hoặc trống
+orders,ORD-3212,ADDRESS_MISSING,shipping_address,,Địa chỉ không hợp lệ hoặc trống
+orders,ORD-3225,ADDRESS_MISSING,shipping_address,,Địa chỉ không hợp lệ hoặc trống
+orders,ORD-3250,ADDRESS_MISSING,shipping_address,,Địa chỉ không hợp lệ hoặc trống
+orders,ORD-3255,ADDRESS_MISSING,shipping_address,,Địa chỉ không hợp lệ hoặc trống
+orders,ORD-3281,ADDRESS_MISSING,shipping_address,,Địa chỉ không hợp lệ hoặc trống
+orders,ORD-3283,ADDRESS_MISSING,shipping_address,,Địa chỉ không hợp lệ hoặc trống
+orders,ORD-3315,ADDRESS_MISSING,shipping_address,,Địa chỉ không hợp lệ hoặc trống
+orders,ORD-3323,ADDRESS_MISSING,shipping_address,,Địa chỉ không hợp lệ hoặc trống
+orders,ORD-3353,ADDRESS_MISSING,shipping_address,,Địa chỉ không hợp lệ hoặc trống
+orders,ORD-3374,ADDRESS_MISSING,shipping_address,,Địa chỉ không hợp lệ hoặc trống
+orders,ORD-3377,ADDRESS_MISSING,shipping_address,,Địa chỉ không hợp lệ hoặc trống
+orders,ORD-3393,ADDRESS_MISSING,shipping_address,,Địa chỉ không hợp lệ hoặc trống
+orders,ORD-3411,ADDRESS_MISSING,shipping_address,,Địa chỉ không hợp lệ hoặc trống
+orders,ORD-3415,ADDRESS_MISSING,shipping_address,,Địa chỉ không hợp lệ hoặc trống
+orders,ORD-3418,ADDRESS_MISSING,shipping_address,,Địa chỉ không hợp lệ hoặc trống
+orders,ORD-3425,ADDRESS_MISSING,shipping_address,,Địa chỉ không hợp lệ hoặc trống
+orders,ORD-3427,ADDRESS_MISSING,shipping_address,,Địa chỉ không hợp lệ hoặc trống
+orders,ORD-3468,ADDRESS_MISSING,shipping_address,,Địa chỉ không hợp lệ hoặc trống
+orders,ORD-3478,ADDRESS_MISSING,shipping_address,,Địa chỉ không hợp lệ hoặc trống
+orders,ORD-3491,ADDRESS_MISSING,shipping_address,,Địa chỉ không hợp lệ hoặc trống

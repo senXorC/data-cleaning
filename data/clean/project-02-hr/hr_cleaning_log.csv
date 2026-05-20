@@ -1,0 +1,559 @@
+row_original,field,old_value,new_value,action
+21,emp_id,EMP-2013,,DROPPED_DUPLICATE
+75,emp_id,EMP-2062,,DROPPED_DUPLICATE
+82,emp_id,EMP-2066,,DROPPED_DUPLICATE
+86,emp_id,EMP-2059,,DROPPED_DUPLICATE
+90,emp_id,EMP-2030,,DROPPED_DUPLICATE
+112,emp_id,EMP-2091,,DROPPED_DUPLICATE
+133,emp_id,EMP-2049,,DROPPED_DUPLICATE
+178,emp_id,EMP-2008,,DROPPED_DUPLICATE
+185,emp_id,EMP-2129,,DROPPED_DUPLICATE
+25,full_name,,Không xác định,NAME_NORMALIZED
+29,full_name,,Không xác định,NAME_NORMALIZED
+41,full_name,VŨ THỊ BÌNH,Vũ Thị Bình,NAME_NORMALIZED
+69,full_name,,Không xác định,NAME_NORMALIZED
+78,full_name,PHẠM MINH CƯỜNG,Phạm Minh Cường,NAME_NORMALIZED
+80,full_name,BÙI THỊ BÌNH,Bùi Thị Bình,NAME_NORMALIZED
+102,full_name,LÊ THỊ HOA,Lê Thị Hoa,NAME_NORMALIZED
+118,full_name,BÙI VĂN GIANG,Bùi Văn Giang,NAME_NORMALIZED
+123,full_name,BÙI THỊ BÌNH,Bùi Thị Bình,NAME_NORMALIZED
+134,full_name,,Không xác định,NAME_NORMALIZED
+154,full_name,,Không xác định,NAME_NORMALIZED
+157,full_name,ĐỖ THỊ HẰNG,Đỗ Thị Hằng,NAME_NORMALIZED
+176,full_name,,Không xác định,NAME_NORMALIZED
+177,full_name,,Không xác định,NAME_NORMALIZED
+200,full_name,ĐẶNG THỊ DUNG,Đặng Thị Dung,NAME_NORMALIZED
+201,full_name,ĐỖ THỊ DUNG,Đỗ Thị Dung,NAME_NORMALIZED
+2,gender,NỮ,Nữ,GENDER_NORMALIZED
+3,gender,Male,Nam,GENDER_NORMALIZED
+5,gender,F,Nữ,GENDER_NORMALIZED
+6,gender,Male,Nam,GENDER_NORMALIZED
+7,gender,,Không xác định,GENDER_NORMALIZED
+8,gender,M,Nam,GENDER_NORMALIZED
+9,gender,Male,Nam,GENDER_NORMALIZED
+10,gender,,Không xác định,GENDER_NORMALIZED
+11,gender,Female,Nữ,GENDER_NORMALIZED
+14,gender,NỮ,Nữ,GENDER_NORMALIZED
+15,gender,M,Nam,GENDER_NORMALIZED
+16,gender,Female,Nữ,GENDER_NORMALIZED
+17,gender,Female,Nữ,GENDER_NORMALIZED
+18,gender,Female,Nữ,GENDER_NORMALIZED
+19,gender,M,Nam,GENDER_NORMALIZED
+20,gender,nam,Nam,GENDER_NORMALIZED
+22,gender,nam,Nam,GENDER_NORMALIZED
+23,gender,Female,Nữ,GENDER_NORMALIZED
+24,gender,F,Nữ,GENDER_NORMALIZED
+25,gender,Female,Nữ,GENDER_NORMALIZED
+28,gender,,Không xác định,GENDER_NORMALIZED
+31,gender,Male,Nam,GENDER_NORMALIZED
+32,gender,nam,Nam,GENDER_NORMALIZED
+33,gender,Male,Nam,GENDER_NORMALIZED
+34,gender,F,Nữ,GENDER_NORMALIZED
+35,gender,nam,Nam,GENDER_NORMALIZED
+38,gender,Male,Nam,GENDER_NORMALIZED
+39,gender,F,Nữ,GENDER_NORMALIZED
+40,gender,nam,Nam,GENDER_NORMALIZED
+41,gender,F,Nữ,GENDER_NORMALIZED
+42,gender,M,Nam,GENDER_NORMALIZED
+43,gender,M,Nam,GENDER_NORMALIZED
+44,gender,Male,Nam,GENDER_NORMALIZED
+45,gender,Female,Nữ,GENDER_NORMALIZED
+46,gender,Male,Nam,GENDER_NORMALIZED
+47,gender,F,Nữ,GENDER_NORMALIZED
+49,gender,Female,Nữ,GENDER_NORMALIZED
+50,gender,F,Nữ,GENDER_NORMALIZED
+51,gender,Female,Nữ,GENDER_NORMALIZED
+52,gender,F,Nữ,GENDER_NORMALIZED
+53,gender,F,Nữ,GENDER_NORMALIZED
+54,gender,NỮ,Nữ,GENDER_NORMALIZED
+56,gender,Female,Nữ,GENDER_NORMALIZED
+61,gender,nam,Nam,GENDER_NORMALIZED
+62,gender,F,Nữ,GENDER_NORMALIZED
+64,gender,NỮ,Nữ,GENDER_NORMALIZED
+66,gender,M,Nam,GENDER_NORMALIZED
+67,gender,F,Nữ,GENDER_NORMALIZED
+68,gender,,Không xác định,GENDER_NORMALIZED
+70,gender,M,Nam,GENDER_NORMALIZED
+74,gender,Female,Nữ,GENDER_NORMALIZED
+76,gender,,Không xác định,GENDER_NORMALIZED
+77,gender,,Không xác định,GENDER_NORMALIZED
+78,gender,F,Nữ,GENDER_NORMALIZED
+79,gender,NỮ,Nữ,GENDER_NORMALIZED
+80,gender,M,Nam,GENDER_NORMALIZED
+81,gender,,Không xác định,GENDER_NORMALIZED
+83,gender,Male,Nam,GENDER_NORMALIZED
+84,gender,,Không xác định,GENDER_NORMALIZED
+85,gender,M,Nam,GENDER_NORMALIZED
+91,gender,NỮ,Nữ,GENDER_NORMALIZED
+92,gender,nam,Nam,GENDER_NORMALIZED
+94,gender,Female,Nữ,GENDER_NORMALIZED
+95,gender,Male,Nam,GENDER_NORMALIZED
+96,gender,nam,Nam,GENDER_NORMALIZED
+97,gender,NỮ,Nữ,GENDER_NORMALIZED
+98,gender,,Không xác định,GENDER_NORMALIZED
+100,gender,NỮ,Nữ,GENDER_NORMALIZED
+101,gender,nam,Nam,GENDER_NORMALIZED
+102,gender,M,Nam,GENDER_NORMALIZED
+103,gender,M,Nam,GENDER_NORMALIZED
+105,gender,Female,Nữ,GENDER_NORMALIZED
+106,gender,,Không xác định,GENDER_NORMALIZED
+107,gender,Male,Nam,GENDER_NORMALIZED
+108,gender,Male,Nam,GENDER_NORMALIZED
+109,gender,F,Nữ,GENDER_NORMALIZED
+113,gender,Male,Nam,GENDER_NORMALIZED
+114,gender,,Không xác định,GENDER_NORMALIZED
+116,gender,nam,Nam,GENDER_NORMALIZED
+118,gender,Female,Nữ,GENDER_NORMALIZED
+121,gender,NỮ,Nữ,GENDER_NORMALIZED
+122,gender,,Không xác định,GENDER_NORMALIZED
+124,gender,NỮ,Nữ,GENDER_NORMALIZED
+125,gender,,Không xác định,GENDER_NORMALIZED
+127,gender,NỮ,Nữ,GENDER_NORMALIZED
+128,gender,M,Nam,GENDER_NORMALIZED
+129,gender,NỮ,Nữ,GENDER_NORMALIZED
+130,gender,,Không xác định,GENDER_NORMALIZED
+131,gender,F,Nữ,GENDER_NORMALIZED
+132,gender,F,Nữ,GENDER_NORMALIZED
+134,gender,Male,Nam,GENDER_NORMALIZED
+135,gender,,Không xác định,GENDER_NORMALIZED
+136,gender,Male,Nam,GENDER_NORMALIZED
+141,gender,NỮ,Nữ,GENDER_NORMALIZED
+142,gender,,Không xác định,GENDER_NORMALIZED
+143,gender,F,Nữ,GENDER_NORMALIZED
+145,gender,M,Nam,GENDER_NORMALIZED
+146,gender,F,Nữ,GENDER_NORMALIZED
+147,gender,Female,Nữ,GENDER_NORMALIZED
+150,gender,NỮ,Nữ,GENDER_NORMALIZED
+153,gender,,Không xác định,GENDER_NORMALIZED
+154,gender,,Không xác định,GENDER_NORMALIZED
+155,gender,nam,Nam,GENDER_NORMALIZED
+157,gender,Female,Nữ,GENDER_NORMALIZED
+161,gender,,Không xác định,GENDER_NORMALIZED
+162,gender,,Không xác định,GENDER_NORMALIZED
+163,gender,NỮ,Nữ,GENDER_NORMALIZED
+165,gender,Male,Nam,GENDER_NORMALIZED
+166,gender,,Không xác định,GENDER_NORMALIZED
+167,gender,Male,Nam,GENDER_NORMALIZED
+168,gender,,Không xác định,GENDER_NORMALIZED
+169,gender,M,Nam,GENDER_NORMALIZED
+170,gender,Male,Nam,GENDER_NORMALIZED
+171,gender,NỮ,Nữ,GENDER_NORMALIZED
+172,gender,,Không xác định,GENDER_NORMALIZED
+173,gender,nam,Nam,GENDER_NORMALIZED
+174,gender,nam,Nam,GENDER_NORMALIZED
+177,gender,NỮ,Nữ,GENDER_NORMALIZED
+179,gender,NỮ,Nữ,GENDER_NORMALIZED
+180,gender,F,Nữ,GENDER_NORMALIZED
+182,gender,NỮ,Nữ,GENDER_NORMALIZED
+183,gender,M,Nam,GENDER_NORMALIZED
+184,gender,Male,Nam,GENDER_NORMALIZED
+186,gender,NỮ,Nữ,GENDER_NORMALIZED
+187,gender,,Không xác định,GENDER_NORMALIZED
+188,gender,NỮ,Nữ,GENDER_NORMALIZED
+191,gender,NỮ,Nữ,GENDER_NORMALIZED
+192,gender,NỮ,Nữ,GENDER_NORMALIZED
+193,gender,Female,Nữ,GENDER_NORMALIZED
+194,gender,,Không xác định,GENDER_NORMALIZED
+200,gender,,Không xác định,GENDER_NORMALIZED
+201,gender,Male,Nam,GENDER_NORMALIZED
+13,age,150,31,AGE_RECALCULATED
+24,age,-5,24,AGE_RECALCULATED
+72,age,15,47,AGE_RECALCULATED
+78,age,15,29,AGE_RECALCULATED
+95,age,-5,38,AGE_RECALCULATED
+97,age,-5,24,AGE_RECALCULATED
+189,age,15,34,AGE_RECALCULATED
+9,salary_k_vnd,-864956.0,,SALARY_NEGATIVE_NULLED
+32,salary_k_vnd,-2345723.0,,SALARY_NEGATIVE_NULLED
+54,salary_k_vnd,-751916.0,,SALARY_NEGATIVE_NULLED
+71,salary_k_vnd,-1089672.0,,SALARY_NEGATIVE_NULLED
+72,salary_k_vnd,-1496743.0,,SALARY_NEGATIVE_NULLED
+147,salary_k_vnd,-461615.0,,SALARY_NEGATIVE_NULLED
+3,education,ĐHỤC,Đại học,EDU_NORMALIZED
+4,education,,Không xác định,EDU_NORMALIZED
+7,education,ĐHỤC,Đại học,EDU_NORMALIZED
+9,education,,Không xác định,EDU_NORMALIZED
+10,education,ĐHỤC,Đại học,EDU_NORMALIZED
+12,education,đại học,Đại học,EDU_NORMALIZED
+13,education,,Không xác định,EDU_NORMALIZED
+15,education,đại học,Đại học,EDU_NORMALIZED
+16,education,,Không xác định,EDU_NORMALIZED
+19,education,đại học,Đại học,EDU_NORMALIZED
+20,education,ĐHỤC,Đại học,EDU_NORMALIZED
+23,education,,Không xác định,EDU_NORMALIZED
+26,education,,Không xác định,EDU_NORMALIZED
+28,education,đại học,Đại học,EDU_NORMALIZED
+29,education,đại học,Đại học,EDU_NORMALIZED
+35,education,ĐHỤC,Đại học,EDU_NORMALIZED
+44,education,,Không xác định,EDU_NORMALIZED
+45,education,ĐHỤC,Đại học,EDU_NORMALIZED
+48,education,đại học,Đại học,EDU_NORMALIZED
+52,education,đại học,Đại học,EDU_NORMALIZED
+56,education,,Không xác định,EDU_NORMALIZED
+57,education,đại học,Đại học,EDU_NORMALIZED
+58,education,đại học,Đại học,EDU_NORMALIZED
+59,education,,Không xác định,EDU_NORMALIZED
+60,education,đại học,Đại học,EDU_NORMALIZED
+61,education,ĐHỤC,Đại học,EDU_NORMALIZED
+63,education,đại học,Đại học,EDU_NORMALIZED
+65,education,,Không xác định,EDU_NORMALIZED
+66,education,đại học,Đại học,EDU_NORMALIZED
+70,education,ĐHỤC,Đại học,EDU_NORMALIZED
+71,education,đại học,Đại học,EDU_NORMALIZED
+73,education,đại học,Đại học,EDU_NORMALIZED
+79,education,,Không xác định,EDU_NORMALIZED
+83,education,,Không xác định,EDU_NORMALIZED
+85,education,ĐHỤC,Đại học,EDU_NORMALIZED
+88,education,đại học,Đại học,EDU_NORMALIZED
+92,education,ĐHỤC,Đại học,EDU_NORMALIZED
+97,education,ĐHỤC,Đại học,EDU_NORMALIZED
+104,education,đại học,Đại học,EDU_NORMALIZED
+108,education,đại học,Đại học,EDU_NORMALIZED
+111,education,đại học,Đại học,EDU_NORMALIZED
+117,education,ĐHỤC,Đại học,EDU_NORMALIZED
+118,education,ĐHỤC,Đại học,EDU_NORMALIZED
+120,education,đại học,Đại học,EDU_NORMALIZED
+123,education,,Không xác định,EDU_NORMALIZED
+136,education,đại học,Đại học,EDU_NORMALIZED
+139,education,đại học,Đại học,EDU_NORMALIZED
+144,education,,Không xác định,EDU_NORMALIZED
+147,education,đại học,Đại học,EDU_NORMALIZED
+149,education,ĐHỤC,Đại học,EDU_NORMALIZED
+153,education,,Không xác định,EDU_NORMALIZED
+155,education,,Không xác định,EDU_NORMALIZED
+158,education,ĐHỤC,Đại học,EDU_NORMALIZED
+159,education,,Không xác định,EDU_NORMALIZED
+160,education,đại học,Đại học,EDU_NORMALIZED
+162,education,,Không xác định,EDU_NORMALIZED
+163,education,ĐHỤC,Đại học,EDU_NORMALIZED
+165,education,ĐHỤC,Đại học,EDU_NORMALIZED
+166,education,,Không xác định,EDU_NORMALIZED
+167,education,đại học,Đại học,EDU_NORMALIZED
+170,education,,Không xác định,EDU_NORMALIZED
+171,education,ĐHỤC,Đại học,EDU_NORMALIZED
+172,education,,Không xác định,EDU_NORMALIZED
+173,education,,Không xác định,EDU_NORMALIZED
+176,education,,Không xác định,EDU_NORMALIZED
+180,education,ĐHỤC,Đại học,EDU_NORMALIZED
+186,education,,Không xác định,EDU_NORMALIZED
+192,education,,Không xác định,EDU_NORMALIZED
+194,education,đại học,Đại học,EDU_NORMALIZED
+196,education,,Không xác định,EDU_NORMALIZED
+197,education,,Không xác định,EDU_NORMALIZED
+199,education,,Không xác định,EDU_NORMALIZED
+200,education,ĐHỤC,Đại học,EDU_NORMALIZED
+97,perf_score,10.0,2.95,PERF_FILLED_MEDIAN
+110,perf_score,10.0,2.95,PERF_FILLED_MEDIAN
+143,perf_score,10.0,2.95,PERF_FILLED_MEDIAN
+181,perf_score,0.0,2.95,PERF_FILLED_MEDIAN
+192,perf_score,10.0,2.95,PERF_FILLED_MEDIAN
+23,leave_days,-5.0,0,LEAVE_DAYS_CAPPED
+58,leave_days,,0,FILLED_NULL
+2,hire_date,11/11/2019,2019-11-11,DATE_NORMALIZED
+3,hire_date,13-06-2018,2018-06-13,DATE_NORMALIZED
+4,hire_date,18-08-2023,2023-08-18,DATE_NORMALIZED
+5,hire_date,25-09-2020,2020-09-25,DATE_NORMALIZED
+6,hire_date,30/11/2019,2019-11-30,DATE_NORMALIZED
+7,hire_date,05-09-2019,2019-09-05,DATE_NORMALIZED
+9,hire_date,21-04-2020,2020-04-21,DATE_NORMALIZED
+10,hire_date,11/11/2021,2021-11-11,DATE_NORMALIZED
+11,hire_date,19/11/2022,2022-11-19,DATE_NORMALIZED
+14,hire_date,21-06-2020,2020-06-21,DATE_NORMALIZED
+16,hire_date,30-01-2021,2021-01-30,DATE_NORMALIZED
+17,hire_date,17-02-2019,2019-02-17,DATE_NORMALIZED
+20,hire_date,18-11-2018,2018-11-18,DATE_NORMALIZED
+23,hire_date,17/11/2022,2022-11-17,DATE_NORMALIZED
+25,hire_date,09/02/2023,2023-02-09,DATE_NORMALIZED
+27,hire_date,20/01/2019,2019-01-20,DATE_NORMALIZED
+28,hire_date,06/05/2019,2019-05-06,DATE_NORMALIZED
+29,hire_date,11/08/2020,2020-08-11,DATE_NORMALIZED
+31,hire_date,14-08-2021,2021-08-14,DATE_NORMALIZED
+32,hire_date,04/05/2020,2020-05-04,DATE_NORMALIZED
+34,hire_date,22-08-2021,2021-08-22,DATE_NORMALIZED
+35,hire_date,30-03-2018,2018-03-30,DATE_NORMALIZED
+36,hire_date,10-12-2019,2019-12-10,DATE_NORMALIZED
+40,hire_date,21-09-2021,2021-09-21,DATE_NORMALIZED
+41,hire_date,11/05/2022,2022-05-11,DATE_NORMALIZED
+42,hire_date,12/06/2018,2018-06-12,DATE_NORMALIZED
+43,hire_date,31/10/2021,2021-10-31,DATE_NORMALIZED
+45,hire_date,14/03/2019,2019-03-14,DATE_NORMALIZED
+47,hire_date,03-10-2020,2020-10-03,DATE_NORMALIZED
+48,hire_date,09-07-2019,2019-07-09,DATE_NORMALIZED
+49,hire_date,17-10-2019,2019-10-17,DATE_NORMALIZED
+50,hire_date,02/11/2020,2020-11-02,DATE_NORMALIZED
+56,hire_date,16/06/2021,2021-06-16,DATE_NORMALIZED
+57,hire_date,15/11/2023,2023-11-15,DATE_NORMALIZED
+58,hire_date,03-04-2018,2018-04-03,DATE_NORMALIZED
+59,hire_date,29-09-2020,2020-09-29,DATE_NORMALIZED
+63,hire_date,02-04-2022,2022-04-02,DATE_NORMALIZED
+65,hire_date,17-04-2022,2022-04-17,DATE_NORMALIZED
+67,hire_date,27-05-2023,2023-05-27,DATE_NORMALIZED
+68,hire_date,06-04-2023,2023-04-06,DATE_NORMALIZED
+69,hire_date,12/02/2021,2021-02-12,DATE_NORMALIZED
+71,hire_date,13/01/2023,2023-01-13,DATE_NORMALIZED
+72,hire_date,04-02-2018,2018-02-04,DATE_NORMALIZED
+78,hire_date,26/06/2023,2023-06-26,DATE_NORMALIZED
+79,hire_date,21/08/2021,2021-08-21,DATE_NORMALIZED
+83,hire_date,28/08/2021,2021-08-28,DATE_NORMALIZED
+84,hire_date,08/01/2022,2022-01-08,DATE_NORMALIZED
+92,hire_date,21/09/2019,2019-09-21,DATE_NORMALIZED
+93,hire_date,10-09-2023,2023-09-10,DATE_NORMALIZED
+94,hire_date,14-01-2019,2019-01-14,DATE_NORMALIZED
+95,hire_date,01/05/2022,2022-05-01,DATE_NORMALIZED
+98,hire_date,09-03-2022,2022-03-09,DATE_NORMALIZED
+99,hire_date,14/08/2021,2021-08-14,DATE_NORMALIZED
+100,hire_date,24-11-2023,2023-11-24,DATE_NORMALIZED
+101,hire_date,17/07/2020,2020-07-17,DATE_NORMALIZED
+102,hire_date,21/04/2020,2020-04-21,DATE_NORMALIZED
+105,hire_date,30-11-2022,2022-11-30,DATE_NORMALIZED
+106,hire_date,08/06/2023,2023-06-08,DATE_NORMALIZED
+108,hire_date,04-11-2019,2019-11-04,DATE_NORMALIZED
+109,hire_date,09-02-2022,2022-02-09,DATE_NORMALIZED
+110,hire_date,28/08/2021,2021-08-28,DATE_NORMALIZED
+111,hire_date,11/05/2021,2021-05-11,DATE_NORMALIZED
+114,hire_date,20/10/2019,2019-10-20,DATE_NORMALIZED
+115,hire_date,22/12/2019,2019-12-22,DATE_NORMALIZED
+118,hire_date,15-05-2019,2019-05-15,DATE_NORMALIZED
+119,hire_date,14-04-2023,2023-04-14,DATE_NORMALIZED
+120,hire_date,05/06/2021,2021-06-05,DATE_NORMALIZED
+121,hire_date,26-03-2022,2022-03-26,DATE_NORMALIZED
+123,hire_date,22/01/2023,2023-01-22,DATE_NORMALIZED
+125,hire_date,24/02/2021,2021-02-24,DATE_NORMALIZED
+126,hire_date,29-03-2023,2023-03-29,DATE_NORMALIZED
+127,hire_date,25/11/2023,2023-11-25,DATE_NORMALIZED
+130,hire_date,29/09/2022,2022-09-29,DATE_NORMALIZED
+131,hire_date,08-06-2019,2019-06-08,DATE_NORMALIZED
+132,hire_date,08-12-2018,2018-12-08,DATE_NORMALIZED
+136,hire_date,27-03-2018,2018-03-27,DATE_NORMALIZED
+137,hire_date,01-06-2023,2023-06-01,DATE_NORMALIZED
+138,hire_date,06-07-2020,2020-07-06,DATE_NORMALIZED
+140,hire_date,27/08/2022,2022-08-27,DATE_NORMALIZED
+142,hire_date,17/12/2022,2022-12-17,DATE_NORMALIZED
+143,hire_date,28-09-2022,2022-09-28,DATE_NORMALIZED
+144,hire_date,28/07/2019,2019-07-28,DATE_NORMALIZED
+145,hire_date,06-06-2022,2022-06-06,DATE_NORMALIZED
+146,hire_date,02/05/2019,2019-05-02,DATE_NORMALIZED
+147,hire_date,29/11/2021,2021-11-29,DATE_NORMALIZED
+148,hire_date,07-07-2018,2018-07-07,DATE_NORMALIZED
+151,hire_date,15-09-2023,2023-09-15,DATE_NORMALIZED
+153,hire_date,22-09-2023,2023-09-22,DATE_NORMALIZED
+154,hire_date,07-09-2021,2021-09-07,DATE_NORMALIZED
+155,hire_date,06/01/2022,2022-01-06,DATE_NORMALIZED
+159,hire_date,27/10/2021,2021-10-27,DATE_NORMALIZED
+160,hire_date,17-08-2018,2018-08-17,DATE_NORMALIZED
+162,hire_date,03-02-2018,2018-02-03,DATE_NORMALIZED
+163,hire_date,12/05/2021,2021-05-12,DATE_NORMALIZED
+164,hire_date,17/04/2019,2019-04-17,DATE_NORMALIZED
+167,hire_date,03/06/2023,2023-06-03,DATE_NORMALIZED
+169,hire_date,21/07/2020,2020-07-21,DATE_NORMALIZED
+171,hire_date,09-02-2018,2018-02-09,DATE_NORMALIZED
+172,hire_date,29/04/2023,2023-04-29,DATE_NORMALIZED
+173,hire_date,10/08/2022,2022-08-10,DATE_NORMALIZED
+174,hire_date,24-06-2022,2022-06-24,DATE_NORMALIZED
+176,hire_date,07-08-2022,2022-08-07,DATE_NORMALIZED
+177,hire_date,28/11/2022,2022-11-28,DATE_NORMALIZED
+179,hire_date,31/01/2019,2019-01-31,DATE_NORMALIZED
+180,hire_date,28-09-2018,2018-09-28,DATE_NORMALIZED
+181,hire_date,26/07/2021,2021-07-26,DATE_NORMALIZED
+182,hire_date,05/06/2018,2018-06-05,DATE_NORMALIZED
+183,hire_date,30/06/2020,2020-06-30,DATE_NORMALIZED
+186,hire_date,05-06-2022,2022-06-05,DATE_NORMALIZED
+187,hire_date,03/10/2022,2022-10-03,DATE_NORMALIZED
+189,hire_date,21/11/2019,2019-11-21,DATE_NORMALIZED
+191,hire_date,30/01/2018,2018-01-30,DATE_NORMALIZED
+192,hire_date,16/04/2018,2018-04-16,DATE_NORMALIZED
+194,hire_date,09/03/2019,2019-03-09,DATE_NORMALIZED
+196,hire_date,11-09-2018,2018-09-11,DATE_NORMALIZED
+197,hire_date,21/05/2018,2018-05-21,DATE_NORMALIZED
+201,hire_date,05-12-2018,2018-12-05,DATE_NORMALIZED
+2,email,bùiminhcường19@outlook.com,buiminhcuong19@outlook.com,EMAIL_DIACRITIC_REMOVED
+3,email,dỗvănem23@outlook.com,dovanem23@outlook.com,EMAIL_DIACRITIC_REMOVED
+4,email,phạmthịbình21@company.vn,phamthibinh21@company.vn,EMAIL_DIACRITIC_REMOVED
+5,email,hồminhcường19@gmail.com,hominhcuong19@gmail.com,EMAIL_DIACRITIC_REMOVED
+6,email,hồminhcường85@company.vn,hominhcuong85@company.vn,EMAIL_DIACRITIC_REMOVED
+7,email,bùithịlan97@gmail.com,buithilan97@gmail.com,EMAIL_DIACRITIC_REMOVED
+8,email,vũthịlan74@gmail.com,vuthilan74@gmail.com,EMAIL_DIACRITIC_REMOVED
+9,email,dặngthịhoa34@outlook.com,dangthihoa34@outlook.com,EMAIL_DIACRITIC_REMOVED
+10,email,lêthịbình21@gmail.com,lethibinh21@gmail.com,EMAIL_DIACRITIC_REMOVED
+11,email,phạmthịhoa52@company.vn,phamthihoa52@company.vn,EMAIL_DIACRITIC_REMOVED
+12,email,phạmvănan52@company.vn,phamvanan52@company.vn,EMAIL_DIACRITIC_REMOVED
+13,email,dặngvănhải15@company.vn,dangvanhai15@company.vn,EMAIL_DIACRITIC_REMOVED
+14,email,,,EMAIL_NULL
+15,email,phạmthịdung32@company.vn,phamthidung32@company.vn,EMAIL_DIACRITIC_REMOVED
+16,email,dỗvănem68@outlook.com,dovanem68@outlook.com,EMAIL_DIACRITIC_REMOVED
+17,email,hoàngminhcường79@company.vn,hoangminhcuong79@company.vn,EMAIL_DIACRITIC_REMOVED
+18,email,dặngthịdung2@yahoo.com,dangthidung2@yahoo.com,EMAIL_DIACRITIC_REMOVED
+19,email,vũvănem33company.vn,vuvanem33@company.vn,EMAIL_AT_INSERTED
+20,email,bùiminhcường54@outlook.com,buiminhcuong54@outlook.com,EMAIL_DIACRITIC_REMOVED
+22,email,hoàngthịhằng4@gmail.com,hoangthihang4@gmail.com,EMAIL_DIACRITIC_REMOVED
+23,email,dỗvănem12@outlook.com,dovanem12@outlook.com,EMAIL_DIACRITIC_REMOVED
+24,email,phạmvăngiang92@outlook.com,phamvangiang92@outlook.com,EMAIL_DIACRITIC_REMOVED
+25,email,,,EMAIL_NULL
+26,email,nguyễnthịhoa35@outlook.com,nguyenthihoa35@outlook.com,EMAIL_DIACRITIC_REMOVED
+27,email,phạmthịhằng21@gmail.com,phamthihang21@gmail.com,EMAIL_DIACRITIC_REMOVED
+28,email,nguyễnvănan20@company.vn,nguyenvanan20@company.vn,EMAIL_DIACRITIC_REMOVED
+29,email,emp2893@yahoo.com,emp2893@yahoo.com,
+30,email,bùivănem82@outlook.com,buivanem82@outlook.com,EMAIL_DIACRITIC_REMOVED
+31,email,trầnthịbình17@yahoo.com,tranthibinh17@yahoo.com,EMAIL_DIACRITIC_REMOVED
+32,email,trầnthịhằng54@company.vn,tranthihang54@company.vn,EMAIL_DIACRITIC_REMOVED
+33,email,lêvănhải82@company.vn,levanhai82@company.vn,EMAIL_DIACRITIC_REMOVED
+34,email,dặngthịhoa99@company.vn,dangthihoa99@company.vn,EMAIL_DIACRITIC_REMOVED
+35,email,hoàngvănhải13@gmail.com,hoangvanhai13@gmail.com,EMAIL_DIACRITIC_REMOVED
+36,email,hồthịbình74@outlook.com,hothibinh74@outlook.com,EMAIL_DIACRITIC_REMOVED
+37,email,phạmminhcường58@gmail.com,phamminhcuong58@gmail.com,EMAIL_DIACRITIC_REMOVED
+38,email,bùivăngiang95@yahoo.com,buivangiang95@yahoo.com,EMAIL_DIACRITIC_REMOVED
+39,email,hồthịhằng30@yahoo.com,hothihang30@yahoo.com,EMAIL_DIACRITIC_REMOVED
+40,email,phạmthịdung80@yahoo.com,phamthidung80@yahoo.com,EMAIL_DIACRITIC_REMOVED
+41,email,vũthịbình84@outlook.com,vuthibinh84@outlook.com,EMAIL_DIACRITIC_REMOVED
+42,email,,,EMAIL_NULL
+43,email,trầnvăngiang88@yahoo.com,tranvangiang88@yahoo.com,EMAIL_DIACRITIC_REMOVED
+44,email,lêthịlan93@gmail.com,lethilan93@gmail.com,EMAIL_DIACRITIC_REMOVED
+45,email,hồthịlan30@yahoo.com,hothilan30@yahoo.com,EMAIL_DIACRITIC_REMOVED
+46,email,phạmthịdung57@outlook.com,phamthidung57@outlook.com,EMAIL_DIACRITIC_REMOVED
+47,email,nguyễnvănhải25@company.vn,nguyenvanhai25@company.vn,EMAIL_DIACRITIC_REMOVED
+48,email,bùivănan26@outlook.com,buivanan26@outlook.com,EMAIL_DIACRITIC_REMOVED
+49,email,nguyễnminhcường20@yahoo.com,nguyenminhcuong20@yahoo.com,EMAIL_DIACRITIC_REMOVED
+50,email,bùivănhải28@outlook.com,buivanhai28@outlook.com,EMAIL_DIACRITIC_REMOVED
+51,email,hồvănem23@yahoo.com,hovanem23@yahoo.com,EMAIL_DIACRITIC_REMOVED
+52,email,bùiminhcường53@yahoo.com,buiminhcuong53@yahoo.com,EMAIL_DIACRITIC_REMOVED
+53,email,bùithịhằng38yahoo.com,buithihang38@yahoo.com,EMAIL_AT_INSERTED
+54,email,trầnvănem15@company.vn,tranvanem15@company.vn,EMAIL_DIACRITIC_REMOVED
+55,email,dặngvănan41@gmail.com,dangvanan41@gmail.com,EMAIL_DIACRITIC_REMOVED
+56,email,nguyễnvănem58@company.vn,nguyenvanem58@company.vn,EMAIL_DIACRITIC_REMOVED
+57,email,lêthịbình17@yahoo.com,lethibinh17@yahoo.com,EMAIL_DIACRITIC_REMOVED
+58,email,phạmthịhoa99@outlook.com,phamthihoa99@outlook.com,EMAIL_DIACRITIC_REMOVED
+59,email,,,EMAIL_NULL
+60,email,bùithịlan60@gmail.com,buithilan60@gmail.com,EMAIL_DIACRITIC_REMOVED
+61,email,trầnthịhằng37@company.vn,tranthihang37@company.vn,EMAIL_DIACRITIC_REMOVED
+62,email,phạmthịlan44@yahoo.com,phamthilan44@yahoo.com,EMAIL_DIACRITIC_REMOVED
+63,email,nguyễnthịbình97@gmail.com,nguyenthibinh97@gmail.com,EMAIL_DIACRITIC_REMOVED
+64,email,vũthịbình17@company.vn,vuthibinh17@company.vn,EMAIL_DIACRITIC_REMOVED
+65,email,dỗthịdung50@company.vn,dothidung50@company.vn,EMAIL_DIACRITIC_REMOVED
+66,email,hồvăngiang58@outlook.com,hovangiang58@outlook.com,EMAIL_DIACRITIC_REMOVED
+67,email,dỗvănem12@yahoo.com,dovanem12@yahoo.com,EMAIL_DIACRITIC_REMOVED
+68,email,dặngthịhoa5@company.vn,dangthihoa5@company.vn,EMAIL_DIACRITIC_REMOVED
+69,email,emp6823@yahoo.com,emp6823@yahoo.com,
+70,email,lêthịdung34@gmail.com,lethidung34@gmail.com,EMAIL_DIACRITIC_REMOVED
+71,email,dỗvănan56@company.vn,dovanan56@company.vn,EMAIL_DIACRITIC_REMOVED
+72,email,dỗthịbình33yahoo.com,dothibinh33@yahoo.com,EMAIL_AT_INSERTED
+73,email,hoàngvănem36@outlook.com,hoangvanem36@outlook.com,EMAIL_DIACRITIC_REMOVED
+74,email,lêthịhằng79@gmail.com,lethihang79@gmail.com,EMAIL_DIACRITIC_REMOVED
+76,email,vũthịbình26@yahoo.com,vuthibinh26@yahoo.com,EMAIL_DIACRITIC_REMOVED
+77,email,dỗvănem3@gmail.com,dovanem3@gmail.com,EMAIL_DIACRITIC_REMOVED
+78,email,phạmminhcường40@gmail.com,phamminhcuong40@gmail.com,EMAIL_DIACRITIC_REMOVED
+79,email,hồvănhải98@gmail.com,hovanhai98@gmail.com,EMAIL_DIACRITIC_REMOVED
+80,email,bùithịbình12@company.vn,buithibinh12@company.vn,EMAIL_DIACRITIC_REMOVED
+81,email,hoàngthịhoa68@gmail.com,hoangthihoa68@gmail.com,EMAIL_DIACRITIC_REMOVED
+83,email,vũthịdung95@outlook.com,vuthidung95@outlook.com,EMAIL_DIACRITIC_REMOVED
+84,email,lêvănan60@outlook.com,levanan60@outlook.com,EMAIL_DIACRITIC_REMOVED
+85,email,dặngthịdung76@yahoo.com,dangthidung76@yahoo.com,EMAIL_DIACRITIC_REMOVED
+87,email,nguyễnthịbình38@outlook.com,nguyenthibinh38@outlook.com,EMAIL_DIACRITIC_REMOVED
+88,email,vũminhcường27@yahoo.com,vuminhcuong27@yahoo.com,EMAIL_DIACRITIC_REMOVED
+89,email,dỗthịbình38@outlook.com,dothibinh38@outlook.com,EMAIL_DIACRITIC_REMOVED
+91,email,dỗvănhải40@yahoo.com,dovanhai40@yahoo.com,EMAIL_DIACRITIC_REMOVED
+92,email,nguyễnthịhoa27@gmail.com,nguyenthihoa27@gmail.com,EMAIL_DIACRITIC_REMOVED
+93,email,hoàngthịhằng74@yahoo.com,hoangthihang74@yahoo.com,EMAIL_DIACRITIC_REMOVED
+94,email,phạmthịlan26@gmail.com,phamthilan26@gmail.com,EMAIL_DIACRITIC_REMOVED
+95,email,vũvănem94@outlook.com,vuvanem94@outlook.com,EMAIL_DIACRITIC_REMOVED
+96,email,hồvăngiang54@yahoo.com,hovangiang54@yahoo.com,EMAIL_DIACRITIC_REMOVED
+97,email,hoàngthịhằng23@outlook.com,hoangthihang23@outlook.com,EMAIL_DIACRITIC_REMOVED
+98,email,nguyễnvănem89@yahoo.com,nguyenvanem89@yahoo.com,EMAIL_DIACRITIC_REMOVED
+99,email,hoàngvănem75@company.vn,hoangvanem75@company.vn,EMAIL_DIACRITIC_REMOVED
+100,email,trầnvăngiang3@outlook.com,tranvangiang3@outlook.com,EMAIL_DIACRITIC_REMOVED
+101,email,lêthịbình3@outlook.com,lethibinh3@outlook.com,EMAIL_DIACRITIC_REMOVED
+102,email,lêthịhoa96@company.vn,lethihoa96@company.vn,EMAIL_DIACRITIC_REMOVED
+103,email,trầnthịdung90@yahoo.com,tranthidung90@yahoo.com,EMAIL_DIACRITIC_REMOVED
+104,email,nguyễnthịbình77@company.vn,nguyenthibinh77@company.vn,EMAIL_DIACRITIC_REMOVED
+105,email,trầnthịbình14@yahoo.com,tranthibinh14@yahoo.com,EMAIL_DIACRITIC_REMOVED
+106,email,bùithịbình18@gmail.com,buithibinh18@gmail.com,EMAIL_DIACRITIC_REMOVED
+107,email,hoàngthịhằng70@gmail.com,hoangthihang70@gmail.com,EMAIL_DIACRITIC_REMOVED
+108,email,hoàngvăngiang85@outlook.com,hoangvangiang85@outlook.com,EMAIL_DIACRITIC_REMOVED
+109,email,hồvănan55@company.vn,hovanan55@company.vn,EMAIL_DIACRITIC_REMOVED
+110,email,,,EMAIL_NULL
+111,email,phạmthịhằng69@yahoo.com,phamthihang69@yahoo.com,EMAIL_DIACRITIC_REMOVED
+113,email,dỗthịlan94@gmail.com,dothilan94@gmail.com,EMAIL_DIACRITIC_REMOVED
+114,email,,,EMAIL_NULL
+115,email,bùivănan39@gmail.com,buivanan39@gmail.com,EMAIL_DIACRITIC_REMOVED
+116,email,phạmthịlan75@outlook.com,phamthilan75@outlook.com,EMAIL_DIACRITIC_REMOVED
+117,email,phạmvănem92@company.vn,phamvanem92@company.vn,EMAIL_DIACRITIC_REMOVED
+118,email,bùivăngiang33@company.vn,buivangiang33@company.vn,EMAIL_DIACRITIC_REMOVED
+119,email,vũvăngiang90@company.vn,vuvangiang90@company.vn,EMAIL_DIACRITIC_REMOVED
+120,email,trầnminhcường84@yahoo.com,tranminhcuong84@yahoo.com,EMAIL_DIACRITIC_REMOVED
+121,email,nguyễnvănhải60@yahoo.com,nguyenvanhai60@yahoo.com,EMAIL_DIACRITIC_REMOVED
+122,email,phạmthịdung96@outlook.com,phamthidung96@outlook.com,EMAIL_DIACRITIC_REMOVED
+123,email,bùithịbình42@outlook.com,buithibinh42@outlook.com,EMAIL_DIACRITIC_REMOVED
+124,email,hồvăngiang72@gmail.com,hovangiang72@gmail.com,EMAIL_DIACRITIC_REMOVED
+125,email,dặngvănem34@company.vn,dangvanem34@company.vn,EMAIL_DIACRITIC_REMOVED
+126,email,bùivănan59@outlook.com,buivanan59@outlook.com,EMAIL_DIACRITIC_REMOVED
+127,email,dặngthịbình43@gmail.com,dangthibinh43@gmail.com,EMAIL_DIACRITIC_REMOVED
+128,email,hồthịhằng73@yahoo.com,hothihang73@yahoo.com,EMAIL_DIACRITIC_REMOVED
+129,email,lêvăngiang84@yahoo.com,levangiang84@yahoo.com,EMAIL_DIACRITIC_REMOVED
+130,email,vũthịlan66@company.vn,vuthilan66@company.vn,EMAIL_DIACRITIC_REMOVED
+131,email,phạmvănhải6@gmail.com,phamvanhai6@gmail.com,EMAIL_DIACRITIC_REMOVED
+132,email,hoàngthịhoa80@company.vn,hoangthihoa80@company.vn,EMAIL_DIACRITIC_REMOVED
+134,email,emp13320@outlook.com,emp13320@outlook.com,
+135,email,bùivănhải63@yahoo.com,buivanhai63@yahoo.com,EMAIL_DIACRITIC_REMOVED
+136,email,phạmthịhằng88@company.vn,phamthihang88@company.vn,EMAIL_DIACRITIC_REMOVED
+137,email,lêthịlan64@company.vn,lethilan64@company.vn,EMAIL_DIACRITIC_REMOVED
+138,email,vũthịhoa20@gmail.com,vuthihoa20@gmail.com,EMAIL_DIACRITIC_REMOVED
+139,email,hoàngthịhằng20@company.vn,hoangthihang20@company.vn,EMAIL_DIACRITIC_REMOVED
+140,email,phạmminhcường18@outlook.com,phamminhcuong18@outlook.com,EMAIL_DIACRITIC_REMOVED
+141,email,nguyễnminhcường92@company.vn,nguyenminhcuong92@company.vn,EMAIL_DIACRITIC_REMOVED
+142,email,dặngthịdung50@yahoo.com,dangthidung50@yahoo.com,EMAIL_DIACRITIC_REMOVED
+143,email,nguyễnthịhoa97@gmail.com,nguyenthihoa97@gmail.com,EMAIL_DIACRITIC_REMOVED
+144,email,phạmthịbình47@outlook.com,phamthibinh47@outlook.com,EMAIL_DIACRITIC_REMOVED
+145,email,dặngthịhằng54@yahoo.com,dangthihang54@yahoo.com,EMAIL_DIACRITIC_REMOVED
+146,email,trầnthịbình16@company.vn,tranthibinh16@company.vn,EMAIL_DIACRITIC_REMOVED
+147,email,dặngthịhằng49@outlook.com,dangthihang49@outlook.com,EMAIL_DIACRITIC_REMOVED
+148,email,hoàngthịbình99@company.vn,hoangthibinh99@company.vn,EMAIL_DIACRITIC_REMOVED
+149,email,phạmthịdung11@company.vn,phamthidung11@company.vn,EMAIL_DIACRITIC_REMOVED
+150,email,trầnminhcường79@company.vn,tranminhcuong79@company.vn,EMAIL_DIACRITIC_REMOVED
+151,email,trầnvănem62@gmail.com,tranvanem62@gmail.com,EMAIL_DIACRITIC_REMOVED
+152,email,vũvănhải55@outlook.com,vuvanhai55@outlook.com,EMAIL_DIACRITIC_REMOVED
+153,email,dỗthịlan18@company.vn,dothilan18@company.vn,EMAIL_DIACRITIC_REMOVED
+154,email,,,EMAIL_NULL
+155,email,nguyễnthịbình29@gmail.com,nguyenthibinh29@gmail.com,EMAIL_DIACRITIC_REMOVED
+156,email,dặngthịbình71@yahoo.com,dangthibinh71@yahoo.com,EMAIL_DIACRITIC_REMOVED
+157,email,dỗthịhằng87@gmail.com,dothihang87@gmail.com,EMAIL_DIACRITIC_REMOVED
+158,email,vũthịbình29@outlook.com,vuthibinh29@outlook.com,EMAIL_DIACRITIC_REMOVED
+159,email,dỗthịdung98@gmail.com,dothidung98@gmail.com,EMAIL_DIACRITIC_REMOVED
+160,email,dặngvăngiang77@gmail.com,dangvangiang77@gmail.com,EMAIL_DIACRITIC_REMOVED
+161,email,phạmthịlan62@outlook.com,phamthilan62@outlook.com,EMAIL_DIACRITIC_REMOVED
+162,email,lêvănan7@outlook.com,levanan7@outlook.com,EMAIL_DIACRITIC_REMOVED
+163,email,trầnthịhằng1@yahoo.com,tranthihang1@yahoo.com,EMAIL_DIACRITIC_REMOVED
+164,email,phạmthịlan26@yahoo.com,phamthilan26@yahoo.com,EMAIL_DIACRITIC_REMOVED
+165,email,hoàngthịhằng68@outlook.com,hoangthihang68@outlook.com,EMAIL_DIACRITIC_REMOVED
+166,email,phạmvănan66@outlook.com,phamvanan66@outlook.com,EMAIL_DIACRITIC_REMOVED
+167,email,bùivănem84@gmail.com,buivanem84@gmail.com,EMAIL_DIACRITIC_REMOVED
+168,email,nguyễnthịhằng56@outlook.com,nguyenthihang56@outlook.com,EMAIL_DIACRITIC_REMOVED
+169,email,vũvănan33@company.vn,vuvanan33@company.vn,EMAIL_DIACRITIC_REMOVED
+170,email,lêvăngiang30@outlook.com,levangiang30@outlook.com,EMAIL_DIACRITIC_REMOVED
+171,email,vũthịhoa98@company.vn,vuthihoa98@company.vn,EMAIL_DIACRITIC_REMOVED
+172,email,bùivănem5outlook.com,buivanem5@outlook.com,EMAIL_AT_INSERTED
+173,email,trầnminhcường27@yahoo.com,tranminhcuong27@yahoo.com,EMAIL_DIACRITIC_REMOVED
+174,email,dỗthịhoa74@gmail.com,dothihoa74@gmail.com,EMAIL_DIACRITIC_REMOVED
+175,email,hồthịbình21@company.vn,hothibinh21@company.vn,EMAIL_DIACRITIC_REMOVED
+176,email,emp17587@outlook.com,emp17587@outlook.com,
+177,email,emp17638@gmail.com,emp17638@gmail.com,
+179,email,lêminhcường42@yahoo.com,leminhcuong42@yahoo.com,EMAIL_DIACRITIC_REMOVED
+180,email,hồthịhoa99@outlook.com,hothihoa99@outlook.com,EMAIL_DIACRITIC_REMOVED
+181,email,vũvănan82@yahoo.com,vuvanan82@yahoo.com,EMAIL_DIACRITIC_REMOVED
+182,email,hồthịhằng83@gmail.com,hothihang83@gmail.com,EMAIL_DIACRITIC_REMOVED
+183,email,dỗthịhoa63@gmail.com,dothihoa63@gmail.com,EMAIL_DIACRITIC_REMOVED
+184,email,hoàngvănem62@gmail.com,hoangvanem62@gmail.com,EMAIL_DIACRITIC_REMOVED
+186,email,bùivănem5@gmail.com,buivanem5@gmail.com,EMAIL_DIACRITIC_REMOVED
+187,email,bùivănan4@yahoo.com,buivanan4@yahoo.com,EMAIL_DIACRITIC_REMOVED
+188,email,lêvăngiang85@outlook.com,levangiang85@outlook.com,EMAIL_DIACRITIC_REMOVED
+189,email,dặngvănhải23@company.vn,dangvanhai23@company.vn,EMAIL_DIACRITIC_REMOVED
+190,email,hồthịbình49@gmail.com,hothibinh49@gmail.com,EMAIL_DIACRITIC_REMOVED
+191,email,hoàngthịhằng48@company.vn,hoangthihang48@company.vn,EMAIL_DIACRITIC_REMOVED
+192,email,dỗvănem58@outlook.com,dovanem58@outlook.com,EMAIL_DIACRITIC_REMOVED
+193,email,trầnvăngiang67@gmail.com,tranvangiang67@gmail.com,EMAIL_DIACRITIC_REMOVED
+194,email,nguyễnminhcường36@yahoo.com,nguyenminhcuong36@yahoo.com,EMAIL_DIACRITIC_REMOVED
+195,email,dặngvănhải34@gmail.com,dangvanhai34@gmail.com,EMAIL_DIACRITIC_REMOVED
+196,email,dặngvăngiang17@yahoo.com,dangvangiang17@yahoo.com,EMAIL_DIACRITIC_REMOVED
+197,email,dỗthịbình81@yahoo.com,dothibinh81@yahoo.com,EMAIL_DIACRITIC_REMOVED
+198,email,vũvăngiang51@gmail.com,vuvangiang51@gmail.com,EMAIL_DIACRITIC_REMOVED
+199,email,phạmthịdung47@gmail.com,phamthidung47@gmail.com,EMAIL_DIACRITIC_REMOVED
+200,email,dặngthịdung63@company.vn,dangthidung63@company.vn,EMAIL_DIACRITIC_REMOVED
+201,email,dỗthịdung74@outlook.com,dothidung74@outlook.com,EMAIL_DIACRITIC_REMOVED

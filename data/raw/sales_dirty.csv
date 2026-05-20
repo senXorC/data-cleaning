@@ -1,0 +1,301 @@
+order_id,date,customer_id,product,amount,region,salesperson,status,quantity,discount_pct
+ORD-1001,02/22/2024,,Laptop Air 13,37800000,Ho Chi Minh,Trần Thị Bình,completed,2,10
+ORD-1002,2024-08-02,C001,Laptop Pro 15,142500000,HCM,Lê Minh Cường,pending,4,0
+ORD-1003,02-07-2024,C059,Phone Lite,4200000,Hải Phòng,,cancelled,1,5
+ORD-1004,2024-10-22,C038,Laptop Air 13,56700000,HN,Trần Thị Bình,pending,2,5
+ORD-1005,2024-06-30,C010,Tablet Z10,23400000,DN,,completed,2,0
+ORD-1006,22-04-2024,C005,Phone X12,47500000,Hải Phòng,Nguyễn Văn An ,completed,4,0
+ORD-1007,14-03-2024,C034,Monitor 27inch,26000000,DN,,completed,4,5
+ORD-1008,16/02/2024,C055,Monitor 27inch,26000000,Ha Noi,,completed,1,10
+ORD-1009,14/12/2024,C044,Mouse Wireless,450000,Sài Gòn,Trần Thị Bình,pending,3,5
+ORD-1010,2024-09-13,C039,Laptop Pro 15,-28500000,Hà Nội,,returned,5,0
+ORD-1011,02-11-2024,C040,Phone X12,9500000,Hà Nội,Phạm Thị Dung,pending,5,0
+ORD-1012,06/03/24,C078,Mouse Wireless,900000,Ha Noi,TRẦN THỊ BÌNH,cancelled,5,15
+ORD-1013,28-11-2024,C032,Phone Lite,-4200000,Sài Gòn,Phạm Thị Dung,returned,1,0
+ORD-1014,04/02/2024,C036,Phone Lite,8400000,Hà Nội,le minh cuong,completed,2,10
+ORD-1015,18/02/2024,C060,Mouse Wireless,900000,Hồ Chí Minh,Nguyễn Văn An,completed,1,
+ORD-1016,01/10/24,C032,Monitor 27inch,13000000,Ha Noi,Trần Thị Bình,cancelled,5,
+ORD-1017,27/07/24,C008,Laptop Pro 15,57000000,HP,Lê Minh Cường,completed,4,20
+ORD-1018,04/12/24,C008,Mouse Wireless,2250000,HCM,,completed,1,0
+ORD-1019,21/03/2024,C009,Laptop Pro 15,142500000,Hà Nội,,pending,2,10
+ORD-1020,12/02/2024,C027,Phone Lite,16800000,Hồ Chí Minh,Nguyễn Văn An ,pending,4,15
+ORD-1021,05/01/24,C010,Tablet Z10,7800000,Đà Nẵng,,completed,3,0
+ORD-1022,26-12-2024,C002,Laptop Air 13,94500000,Hải Phòng,,completed,1,0
+ORD-1023,19-05-2024,C034,Tablet Z10,15600000,DN,,completed,1,
+ORD-1003,02-07-2024,C059,Phone Lite,4200000,Hải Phòng,,cancelled,1,5
+ORD-1025,16/03/24,C006,Phone X12,47500000,HCM,Nguyễn Văn An ,pending,2,0
+ORD-1026,2024-03-24,C043,Keyboard Mech,2400000,HN,TRẦN THỊ BÌNH,pending,2,20
+ORD-1007,14-03-2024,C034,Monitor 27inch,26000000,DN,,completed,4,5
+ORD-1028,06/28/2024,C004,Keyboard Mech,3600000,HP,Trần Thị Bình,completed,3,0
+ORD-1029,08/11/2024,C074,Laptop Pro 15,85500000,Hà Nội,Phạm Thị Dung,completed,4,
+ORD-1030,15-11-2024,C039,Phone Lite,12600000,Hà Nội,,completed,4,15
+ORD-1031,2024-12-12,C001,Tablet Z10,31200000,HCM,Hoàng Văn Em,pending,4,10
+ORD-1032,2024-08-30,C080,Monitor 27inch,32500000,HCM,Nguyễn Văn An ,completed,2,0
+ORD-1033,05/05/24,C054,Phone Lite,-4200000,Hải Phòng,,completed,4,0
+ORD-1034,24/02/24,C067,Phone X12,-9500000,Hải Phòng,le minh cuong,returned,2,0
+ORD-1035,31-10-2024,C065,Mouse Wireless,2250000,hai phong,TRẦN THỊ BÌNH,completed,5,0
+ORD-1036,23/09/24,C037,Mouse Wireless,1350000,HCM,Phạm Thị Dung,completed,3,0
+ORD-1037,02/02/24,C008,Phone X12,19000000,Sài Gòn,Phạm Thị Dung,completed,4,10
+ORD-1038,04-01-2024,C054,Laptop Pro 15,114000000,Ho Chi Minh,,cancelled,5,0
+ORD-1039,21/06/24,C017,Mouse Wireless,1800000,HP,,completed,4,15
+ORD-1040,03/04/2024,C042,Laptop Pro 15,114000000,Hồ Chí Minh,Nguyễn Văn An ,completed,4,20
+ORD-1041,27-01-2024,C006,Keyboard Mech,6000000,Hà Nội,Nguyễn Văn An,completed,2,10
+ORD-1042,21/04/24,C078,Phone X12,47500000,Hải Phòng,,completed,1,0
+ORD-1043,12/12/24,C076,Tablet Z10,39000000,DN,Phạm Thị Dung,completed,3,10
+ORD-1044,29/09/24,C044,Laptop Air 13,56700000,Hà Nội,Nguyễn Văn An,cancelled,4,0
+ORD-1045,24-09-2024,C062,Mouse Wireless,-450000,hai phong,le minh cuong,returned,5,20
+ORD-1046,04/05/24,C004,Phone Lite,16800000,Da Nang,le minh cuong,cancelled,2,0
+ORD-1047,11/10/2024,C053,Tablet Z10,23400000,hà nội,le minh cuong,completed,2,15
+ORD-1048,2024-07-26,C071,Mouse Wireless,900000,Đà Nẵng,,completed,5,15
+ORD-1049,10/06/2024,C025,Mouse Wireless,900000,Hải Phòng,Phạm Thị Dung,completed,3,20
+ORD-1050,01-04-2024,C036,Tablet Z10,23400000,,Nguyễn Văn An,completed,5,0
+ORD-1051,02/09/24,C062,Mouse Wireless,1800000,HN,Trần Thị Bình,completed,4,10
+ORD-1052,2024-02-13,C077,Laptop Pro 15,85500000,Hải Phòng,,completed,5,5
+ORD-1053,13/11/2024,C027,Tablet Z10,39000000,DN,Phạm Thị Dung,cancelled,1,0
+ORD-1054,08/18/2024,C037,Laptop Air 13,-18900000,HN,le minh cuong,completed,2,20
+ORD-1055,2024-05-16,C077,Phone Lite,8400000,Ha Noi,,completed,4,15
+ORD-1056,03/10/24,,Tablet Z10,-7800000,Đà Nẵng,TRẦN THỊ BÌNH,returned,5,0
+ORD-1057,11-01-2024,C061,Phone Lite,-4200000,Hải Phòng,,returned,3,10
+ORD-1058,28-08-2024,C021,Keyboard Mech,-1200000,Hồ Chí Minh,Nguyễn Văn An ,returned,4,5
+ORD-1059,07/25/2024,C070,Laptop Pro 15,28500000,HN,le minh cuong,completed,2,10
+ORD-1041,27-01-2024,C006,Keyboard Mech,6000000,Hà Nội,Nguyễn Văn An,completed,2,10
+ORD-1061,09/10/24,C060,Phone Lite,-4200000,HP,Trần Thị Bình,returned,2,15
+ORD-1062,2024-08-29,C077,Tablet Z10,31200000,Ha Noi,,pending,2,0
+ORD-1063,24-05-2024,C063,Keyboard Mech,1200000,Đà Nẵng,Lê Minh Cường,completed,4,10
+ORD-1064,19/10/24,C041,Keyboard Mech,2400000,Hải Phòng,le minh cuong,completed,4,15
+ORD-1065,18/06/2024,C059,Phone X12,47500000,SG,Nguyễn Văn An,completed,4,0
+ORD-1066,20/12/24,C069,Laptop Air 13,94500000,HP,TRẦN THỊ BÌNH,completed,4,0
+ORD-1067,16/02/24,C013,Laptop Air 13,37800000,Hải Phòng,le minh cuong,completed,3,0
+ORD-1068,2024-03-15,C024,Monitor 27inch,26000000,Đà Nẵng,Lê Minh Cường,cancelled,5,10
+ORD-1069,22-11-2024,,Phone Lite,16800000,Da Nang,le minh cuong,completed,5,5
+ORD-1070,21-08-2024,C014,Monitor 27inch,19500000,Ho Chi Minh,Phạm Thị Dung,pending,3,15
+ORD-1071,01/05/2024,C007,Tablet Z10,23400000,Hải Phòng,,completed,3,0
+ORD-1072,17/11/2024,,Monitor 27inch,13000000,Da Nang,le minh cuong,completed,3,0
+ORD-1073,03-10-2024,C022,Tablet Z10,15600000,hai phong,Hoàng Văn Em,completed,4,0
+ORD-1069,22-11-2024,,Phone Lite,16800000,Da Nang,le minh cuong,completed,5,5
+ORD-1072,17/11/2024,,Monitor 27inch,13000000,Da Nang,le minh cuong,completed,3,0
+ORD-1076,24-12-2024,C005,Monitor 27inch,26000000,Hà Nội,Hoàng Văn Em,pending,1,
+ORD-1077,08/02/2024,C013,Phone X12,47500000,Ha Noi,le minh cuong,completed,3,
+ORD-1078,20-02-2024,C051,Monitor 27inch,19500000,Da Nang,Hoàng Văn Em,completed,1,20
+ORD-1079,11/01/2024,C073,Mouse Wireless,2250000,hà nội,Phạm Thị Dung,completed,5,0
+ORD-1080,02-01-2024,C070,Phone Lite,21000000,Ha Noi,Hoàng Văn Em,completed,1,0
+ORD-1081,14/06/2024,C054,Phone X12,47500000,HN,,completed,1,20
+ORD-1082,10/11/2024,C067,Monitor 27inch,13000000,hai phong,Hoàng Văn Em,pending,1,
+ORD-1083,30/12/24,C019,Mouse Wireless,1800000,Hà Nội,Trần Thị Bình,cancelled,5,10
+ORD-1084,09/15/2024,C071,Monitor 27inch,26000000,Hải Phòng,Phạm Thị Dung,completed,2,20
+ORD-1085,09-06-2024,C061,Mouse Wireless,1800000,Ha Noi,Trần Thị Bình,completed,1,
+ORD-1086,11/10/2024,C016,Laptop Air 13,-18900000,Sài Gòn,TRẦN THỊ BÌNH,returned,4,15
+ORD-1087,2024-09-16,C014,Laptop Pro 15,142500000,SG,Nguyễn Văn An ,completed,3,0
+ORD-1088,11/10/2024,C035,Phone Lite,21000000,,Nguyễn Văn An,cancelled,3,0
+ORD-1089,2024-02-05,C068,Laptop Pro 15,114000000,HN,Phạm Thị Dung,completed,4,0
+ORD-1090,01/11/2024,C080,Tablet Z10,-7800000,Ha Noi,Nguyễn Văn An,returned,3,5
+ORD-1091,28-02-2024,C076,Mouse Wireless,2250000,HCM,le minh cuong,pending,3,
+ORD-1092,11-03-2024,,Keyboard Mech,2400000,Hà Nội,TRẦN THỊ BÌNH,pending,4,0
+ORD-1093,10/01/24,C055,Monitor 27inch,26000000,HP,,completed,4,5
+ORD-1094,19-12-2024,C056,Laptop Pro 15,114000000,HP,,completed,1,0
+ORD-1095,20/11/2024,C045,Monitor 27inch,32500000,hà nội,Nguyễn Văn An ,completed,2,0
+ORD-1096,31/03/24,C058,Tablet Z10,7800000,Đà Nẵng,,completed,5,15
+ORD-1097,05/20/2024,C060,Monitor 27inch,19500000,Sài Gòn,le minh cuong,completed,3,0
+ORD-1098,10/10/2024,C025,Laptop Air 13,94500000,Hải Phòng,Nguyễn Văn An ,pending,5,0
+ORD-1099,2024-09-15,C057,Mouse Wireless,450000,,,completed,2,0
+ORD-1100,19-11-2024,C050,Keyboard Mech,1200000,Hà Nội,Hoàng Văn Em,completed,5,0
+ORD-1101,01/12/24,C040,Laptop Air 13,56700000,DN,,pending,3,15
+ORD-1102,10-01-2024,C063,Laptop Air 13,-18900000,hà nội,Phạm Thị Dung,returned,2,0
+ORD-1103,20-01-2024,C049,Laptop Air 13,94500000,Đà Nẵng,Lê Minh Cường,pending,5,0
+ORD-1104,08/15/2024,C030,Mouse Wireless,900000,DN,,completed,4,0
+ORD-1105,24-08-2024,C021,Monitor 27inch,-6500000,Sài Gòn,Phạm Thị Dung,returned,2,0
+ORD-1106,04-03-2024,C066,Mouse Wireless,2250000,Ha Noi,Lê Minh Cường,cancelled,1,0
+ORD-1107,14-09-2024,C004,Mouse Wireless,1800000,Hà Nội,Nguyễn Văn An ,completed,3,0
+ORD-1108,27/12/24,C003,Laptop Pro 15,57000000,HN,Hoàng Văn Em,completed,2,15
+ORD-1109,2024-01-25,C009,Keyboard Mech,1200000,Hải Phòng,Trần Thị Bình,completed,4,0
+ORD-1110,10-11-2024,C011,Phone Lite,-4200000,Ho Chi Minh,,returned,1,10
+ORD-1111,10-07-2024,C045,Laptop Pro 15,114000000,Hồ Chí Minh,Phạm Thị Dung,completed,1,15
+ORD-1112,16/12/24,C018,Monitor 27inch,13000000,SG,Trần Thị Bình,completed,4,
+ORD-1113,06/07/2024,C033,Phone Lite,12600000,HP,Nguyễn Văn An,completed,2,20
+ORD-1114,11/08/24,C044,Laptop Pro 15,85500000,hai phong,Lê Minh Cường,cancelled,4,20
+ORD-1115,2024-11-04,C042,Tablet Z10,31200000,Hồ Chí Minh,Hoàng Văn Em,cancelled,5,0
+ORD-1116,10/11/24,C010,Mouse Wireless,1350000,Hải Phòng,TRẦN THỊ BÌNH,completed,2,0
+ORD-1117,04/07/24,C058,Mouse Wireless,1350000,HN,Nguyễn Văn An ,completed,1,10
+ORD-1118,2024-01-14,C016,Monitor 27inch,6500000,Ho Chi Minh,Hoàng Văn Em,completed,4,10
+ORD-1119,2024-03-03,C057,Tablet Z10,-7800000,SG,Trần Thị Bình,returned,3,15
+ORD-1120,2024-12-30,C026,Laptop Air 13,37800000,Sài Gòn,Lê Minh Cường,pending,4,
+ORD-1121,14/02/2024,C068,Monitor 27inch,32500000,DN,TRẦN THỊ BÌNH,completed,5,
+ORD-1122,21-09-2024,C076,Monitor 27inch,-6500000,HP,Lê Minh Cường,returned,2,20
+ORD-1123,23-03-2024,C067,Laptop Pro 15,57000000,hà nội,Hoàng Văn Em,cancelled,3,10
+ORD-1124,2024-09-14,C080,Tablet Z10,7800000,Đà Nẵng,,completed,5,
+ORD-1125,2024-05-15,C004,Laptop Pro 15,142500000,Ho Chi Minh,le minh cuong,completed,5,0
+ORD-1126,20/08/2024,C062,Mouse Wireless,1350000,Ha Noi,le minh cuong,completed,5,20
+ORD-1127,2024-07-23,C041,Monitor 27inch,-6500000,Sài Gòn,Phạm Thị Dung,returned,3,0
+ORD-1128,2024-08-02,C042,Laptop Air 13,94500000,hai phong,,completed,2,5
+ORD-1129,07/20/2024,C046,Mouse Wireless,450000,hà nội,Nguyễn Văn An,completed,4,20
+ORD-1130,09-03-2024,C006,Mouse Wireless,1800000,Hải Phòng,TRẦN THỊ BÌNH,completed,5,10
+ORD-1131,05/23/2024,C013,Tablet Z10,39000000,Hà Nội,TRẦN THỊ BÌNH,completed,3,0
+ORD-1132,24/01/2024,C067,Phone X12,9500000,Hồ Chí Minh,le minh cuong,completed,5,10
+ORD-1133,30-10-2024,C073,Monitor 27inch,19500000,Sài Gòn,Hoàng Văn Em,completed,1,15
+ORD-1134,01/11/24,C075,Laptop Air 13,18900000,Da Nang,,completed,1,0
+ORD-1135,24/12/2024,C020,Keyboard Mech,6000000,SG,TRẦN THỊ BÌNH,completed,4,10
+ORD-1136,2024-09-22,C049,Mouse Wireless,900000,Da Nang,Nguyễn Văn An ,cancelled,4,0
+ORD-1137,25-11-2024,C036,Monitor 27inch,-6500000,hà nội,,returned,3,15
+ORD-1138,06/27/2024,C037,Phone Lite,-4200000,Hải Phòng,Trần Thị Bình,returned,5,5
+ORD-1139,10-02-2024,C062,Monitor 27inch,19500000,Da Nang,Phạm Thị Dung,cancelled,5,10
+ORD-1140,04/05/2024,C030,Tablet Z10,15600000,Sài Gòn,Nguyễn Văn An,completed,3,0
+ORD-1141,27/07/24,C037,Phone X12,19000000,hà nội,Nguyễn Văn An ,completed,1,0
+ORD-1142,30/03/24,C005,Phone Lite,4200000,Ha Noi,TRẦN THỊ BÌNH,pending,2,20
+ORD-1143,10/17/2024,C070,Tablet Z10,-7800000,Hồ Chí Minh,,completed,2,5
+ORD-1144,27-11-2024,C038,Tablet Z10,31200000,HN,,completed,2,20
+ORD-1145,08/12/2024,C032,Keyboard Mech,4800000,Ha Noi,Nguyễn Văn An,cancelled,2,0
+ORD-1146,30-11-2024,C060,Monitor 27inch,19500000,HN,Hoàng Văn Em,completed,5,15
+ORD-1147,31-05-2024,C062,Tablet Z10,-7800000,hà nội,Lê Minh Cường,returned,5,15
+ORD-1148,05/06/2024,C068,Mouse Wireless,900000,Hà Nội,Nguyễn Văn An ,cancelled,5,20
+ORD-1149,14/08/2024,C012,Phone Lite,21000000,DN,,pending,1,10
+ORD-1150,12/01/24,C075,Keyboard Mech,3600000,HN,Trần Thị Bình,completed,3,10
+ORD-1151,2024-07-28,C054,Laptop Pro 15,85500000,Hải Phòng,Nguyễn Văn An ,completed,4,5
+ORD-1152,09-03-2024,C017,Keyboard Mech,6000000,Sài Gòn,Phạm Thị Dung,completed,1,5
+ORD-1153,2024-06-26,C015,Keyboard Mech,4800000,hai phong,Nguyễn Văn An,pending,4,0
+ORD-1154,02/11/2024,C030,Phone Lite,16800000,HN,,completed,1,0
+ORD-1155,02-11-2024,C067,Phone Lite,21000000,hai phong,Phạm Thị Dung,cancelled,3,
+ORD-1156,25-01-2024,C068,Phone X12,-9500000,Da Nang,Nguyễn Văn An ,returned,4,5
+ORD-1157,2024-06-02,C053,Phone X12,19000000,hai phong,TRẦN THỊ BÌNH,cancelled,2,0
+ORD-1158,02/17/2024,C049,Phone Lite,12600000,hà nội,,completed,1,20
+ORD-1159,2024-01-08,C062,Phone Lite,12600000,DN,Phạm Thị Dung,completed,2,0
+ORD-1160,06-06-2024,C013,Monitor 27inch,19500000,hai phong,le minh cuong,cancelled,3,0
+ORD-1161,09-01-2024,C054,Monitor 27inch,13000000,Đà Nẵng,Hoàng Văn Em,completed,3,10
+ORD-1162,11/05/24,C059,Phone Lite,12600000,Da Nang,Lê Minh Cường,completed,3,15
+ORD-1163,25/09/2024,C007,Mouse Wireless,450000,Hà Nội,Nguyễn Văn An,completed,2,
+ORD-1164,11/12/2024,C001,Phone X12,9500000,Da Nang,,completed,1,
+ORD-1165,23/12/24,C013,Tablet Z10,7800.0,hai phong,,pending,2,0
+ORD-1166,08/23/2024,C011,Monitor 27inch,26000000,DN,Nguyễn Văn An,completed,4,5
+ORD-1167,28/03/2024,C043,Laptop Pro 15,-28500000,Ho Chi Minh,,returned,1,0
+ORD-1168,31-08-2024,C036,Phone Lite,21000000,,,completed,1,20
+ORD-1169,09-02-2024,C050,Monitor 27inch,26000000,hà nội,,completed,2,15
+ORD-1170,2024-08-11,C079,Laptop Air 13,18900000,Hồ Chí Minh,,pending,3,
+ORD-1171,10/10/24,C049,Tablet Z10,23400000,Da Nang,Trần Thị Bình,cancelled,3,15
+ORD-1172,18-07-2024,,Laptop Air 13,37800000,Hà Nội,Hoàng Văn Em,completed,3,0
+ORD-1173,22/02/2024,C077,Phone X12,38000000,Sài Gòn,Nguyễn Văn An ,completed,1,5
+ORD-1174,05/04/2024,C018,Laptop Air 13,-18900000,Da Nang,Hoàng Văn Em,returned,4,0
+ORD-1175,03-07-2024,C077,Keyboard Mech,1200000,DN,,completed,1,0
+ORD-1176,13-08-2024,C077,Keyboard Mech,3600000,HP,Lê Minh Cường,completed,5,0
+ORD-1177,29/05/24,C049,Mouse Wireless,1350000,Hải Phòng,Hoàng Văn Em,completed,4,10
+ORD-1178,14/01/24,C038,Phone Lite,21000000,hà nội,Trần Thị Bình,pending,4,0
+ORD-1179,12/07/2024,C052,Tablet Z10,31200000,Đà Nẵng,,completed,4,20
+ORD-1180,22/11/2024,C046,Monitor 27inch,-6500000,hà nội,Lê Minh Cường,returned,1,15
+ORD-1181,06/01/2024,C072,Keyboard Mech,1200000,Sài Gòn,,cancelled,2,5
+ORD-1182,25/06/2024,C011,Mouse Wireless,900000,HCM,Trần Thị Bình,cancelled,2,0
+ORD-1183,19/02/24,C039,Mouse Wireless,1800000,SG,Nguyễn Văn An,cancelled,1,
+ORD-1184,05/04/2024,C055,Monitor 27inch,-6500000,Ha Noi,le minh cuong,returned,4,0
+ORD-1185,2024-11-10,C028,Keyboard Mech,-1200000,Ho Chi Minh,Phạm Thị Dung,completed,1,20
+ORD-1186,09/12/24,C050,Phone X12,28500000,Da Nang,,completed,1,20
+ORD-1187,11/10/2024,C031,Mouse Wireless,1350000,Ha Noi,Hoàng Văn Em,pending,3,10
+ORD-1188,05/04/24,C023,Keyboard Mech,4800000,DN,,completed,3,0
+ORD-1189,2024-09-05,C065,Mouse Wireless,450000,Ho Chi Minh,le minh cuong,pending,4,20
+ORD-1190,29/05/2024,C059,Mouse Wireless,900000,Sài Gòn,,completed,4,0
+ORD-1191,04/10/2024,C055,Laptop Air 13,56700000,SG,Trần Thị Bình,completed,2,0
+ORD-1192,2024-03-01,C045,Mouse Wireless,1800000,DN,,completed,2,20
+ORD-1193,29-09-2024,C038,Phone Lite,12600000,Ha Noi,Hoàng Văn Em,cancelled,5,15
+ORD-1194,2024-05-21,C042,Laptop Air 13,18900000,Ha Noi,Phạm Thị Dung,completed,4,10
+ORD-1195,20/11/2024,C048,Tablet Z10,-7800000,DN,le minh cuong,returned,3,20
+ORD-1196,23-12-2024,C028,Laptop Air 13,-18900000,Hải Phòng,TRẦN THỊ BÌNH,returned,4,20
+ORD-1197,24/06/2024,C059,Tablet Z10,31200000,,Nguyễn Văn An,completed,2,0
+ORD-1198,22-03-2024,C048,Keyboard Mech,3600000,Hồ Chí Minh,Lê Minh Cường,completed,3,20
+ORD-1088,11/10/2024,C035,Phone Lite,21000000,,Nguyễn Văn An,cancelled,3,0
+ORD-1200,27/04/24,C041,Laptop Air 13,18900000,Hải Phòng,Nguyễn Văn An ,cancelled,2,20
+ORD-1201,09/28/2024,C057,Phone X12,-9500000,,Nguyễn Văn An ,returned,2,10
+ORD-1202,03/04/2024,C041,Mouse Wireless,900000,Hồ Chí Minh,Lê Minh Cường,cancelled,1,10
+ORD-1203,04/15/2024,C038,Tablet Z10,23400000,hà nội,Nguyễn Văn An,cancelled,2,0
+ORD-1204,03-07-2024,C054,Phone Lite,4200000,HP,Nguyễn Văn An ,completed,2,20
+ORD-1205,20/04/2024,C037,Laptop Air 13,18900.0,Hải Phòng,,completed,4,0
+ORD-1206,03/20/2024,C009,Phone X12,19000000,Đà Nẵng,Hoàng Văn Em,completed,2,
+ORD-1207,2024-06-07,C002,Laptop Air 13,18900000,DN,Lê Minh Cường,completed,3,20
+ORD-1208,01/03/2024,C009,Tablet Z10,23400000,Ho Chi Minh,Hoàng Văn Em,completed,5,5
+ORD-1209,26-03-2024,C074,Mouse Wireless,2250000,Hải Phòng,Trần Thị Bình,pending,5,
+ORD-1210,01/04/2024,C054,Laptop Pro 15,57000000,hai phong,Phạm Thị Dung,completed,4,0
+ORD-1211,10/12/2024,C006,Tablet Z10,39000000,Hải Phòng,TRẦN THỊ BÌNH,cancelled,4,20
+ORD-1212,12-04-2024,C032,Tablet Z10,23400000,HCM,le minh cuong,completed,4,20
+ORD-1213,2024-05-05,C030,Phone Lite,-4200000,,,returned,1,0
+ORD-1214,2024-09-28,C019,Keyboard Mech,2400000,HN,Hoàng Văn Em,cancelled,2,10
+ORD-1215,02/13/2024,C051,Keyboard Mech,-1200000,Ha Noi,Trần Thị Bình,returned,1,0
+ORD-1216,24-12-2024,C026,Phone Lite,16800000,HCM,Lê Minh Cường,completed,5,0
+ORD-1217,2024-07-02,C016,Phone X12,47500000,SG,Trần Thị Bình,completed,3,15
+ORD-1218,2024-12-30,C039,Laptop Pro 15,28500000,Ho Chi Minh,Hoàng Văn Em,completed,2,
+ORD-1219,18/02/24,C002,Keyboard Mech,2400000,Hải Phòng,Nguyễn Văn An,cancelled,2,20
+ORD-1220,10/25/2024,C009,Keyboard Mech,1200000,HP,Phạm Thị Dung,completed,4,0
+ORD-1221,20/10/24,C049,Monitor 27inch,13000000,Ho Chi Minh,TRẦN THỊ BÌNH,completed,2,0
+ORD-1222,2024-11-11,C071,Tablet Z10,39000000,SG,le minh cuong,completed,3,5
+ORD-1223,11/18/2024,C046,Phone Lite,-4200000,Ho Chi Minh,le minh cuong,returned,4,10
+ORD-1224,22/04/2024,C061,Monitor 27inch,32500000,Hải Phòng,,completed,5,0
+ORD-1225,04/22/2024,C023,Laptop Air 13,18900000,Hải Phòng,Lê Minh Cường,completed,3,15
+ORD-1226,24-12-2024,C025,Monitor 27inch,-6500000,Đà Nẵng,le minh cuong,pending,2,0
+ORD-1227,01/09/2024,C017,Laptop Pro 15,28500.0,Đà Nẵng,Nguyễn Văn An ,completed,3,
+ORD-1228,26-09-2024,C051,Phone X12,9500000,Hồ Chí Minh,,pending,3,0
+ORD-1229,03/30/2024,C046,Keyboard Mech,3600000,hai phong,Phạm Thị Dung,cancelled,2,15
+ORD-1230,12/25/2024,C005,Tablet Z10,7800.0,Hải Phòng,Lê Minh Cường,completed,5,10
+ORD-1054,08/18/2024,C037,Laptop Air 13,-18900000,HN,le minh cuong,completed,2,20
+ORD-1232,25/02/2024,C054,Phone Lite,-4200000,,Lê Minh Cường,returned,4,0
+ORD-1067,16/02/24,C013,Laptop Air 13,37800000,Hải Phòng,le minh cuong,completed,3,0
+ORD-1234,02/08/2024,C079,Laptop Air 13,37800000,Hà Nội,le minh cuong,completed,4,0
+ORD-1235,07/28/2024,C037,Keyboard Mech,2400000,DN,Hoàng Văn Em,completed,1,10
+ORD-1044,29/09/24,C044,Laptop Air 13,56700000,Hà Nội,Nguyễn Văn An,cancelled,4,0
+ORD-1237,29/08/24,C070,Tablet Z10,31200000,HCM,TRẦN THỊ BÌNH,completed,4,5
+ORD-1238,15/10/2024,C011,Laptop Pro 15,85500000,DN,Nguyễn Văn An ,completed,4,10
+ORD-1239,08/02/2024,C031,Phone Lite,21000000,hai phong,le minh cuong,pending,4,15
+ORD-1240,12/12/2024,C022,Laptop Pro 15,142500000,Hải Phòng,Phạm Thị Dung,pending,2,
+ORD-1241,2024-11-17,C009,Laptop Air 13,-18900000,HCM,Trần Thị Bình,returned,4,20
+ORD-1242,10/27/2024,C019,Tablet Z10,39000000,Hà Nội,,pending,1,10
+ORD-1243,29-07-2024,C061,Laptop Air 13,56700000,SG,Nguyễn Văn An,cancelled,4,10
+ORD-1244,26/01/24,C044,Keyboard Mech,2400000,hai phong,Hoàng Văn Em,completed,4,15
+ORD-1245,13-06-2024,C025,Laptop Air 13,75600000,Đà Nẵng,le minh cuong,cancelled,4,20
+ORD-1246,06/08/2024,C073,Monitor 27inch,6500000,Hải Phòng,Nguyễn Văn An,cancelled,2,0
+ORD-1247,20-05-2024,C016,Laptop Pro 15,57000000,Sài Gòn,Nguyễn Văn An,completed,4,0
+ORD-1248,18/12/2024,C074,Mouse Wireless,1350000,Ho Chi Minh,Phạm Thị Dung,pending,2,0
+ORD-1249,15/12/2024,C077,Keyboard Mech,-1200000,Ha Noi,Nguyễn Văn An,pending,5,0
+ORD-1250,2024-05-09,C080,Tablet Z10,31200000,Da Nang,TRẦN THỊ BÌNH,completed,1,15
+ORD-1251,16/12/2024,C042,Monitor 27inch,19500000,Hồ Chí Minh,Hoàng Văn Em,pending,3,10
+ORD-1252,25-07-2024,,Phone Lite,21000000,DN,le minh cuong,completed,3,5
+ORD-1253,2024-10-19,C069,Keyboard Mech,-1200000,DN,le minh cuong,returned,3,20
+ORD-1254,19/02/24,C072,Phone X12,28500000,HCM,Lê Minh Cường,cancelled,3,0
+ORD-1255,09-07-2024,C061,Monitor 27inch,19500000,SG,Nguyễn Văn An,completed,5,10
+ORD-1256,28-09-2024,C018,Laptop Air 13,75600000,HP,Phạm Thị Dung,completed,5,5
+ORD-1257,06-09-2024,C008,Phone X12,9500000,Ha Noi,Nguyễn Văn An,completed,2,0
+ORD-1103,20-01-2024,C049,Laptop Air 13,94500000,Đà Nẵng,Lê Minh Cường,pending,5,0
+ORD-1259,07/04/2024,C029,Monitor 27inch,32500000,Da Nang,Nguyễn Văn An ,completed,1,10
+ORD-1260,08/21/2024,C018,Tablet Z10,23400000,Hồ Chí Minh,Nguyễn Văn An ,completed,4,0
+ORD-1261,18/04/2024,C005,Phone X12,19000000,Ha Noi,TRẦN THỊ BÌNH,cancelled,3,10
+ORD-1262,25/01/2024,C033,Laptop Pro 15,28500000,Ho Chi Minh,le minh cuong,pending,2,15
+ORD-1263,05/18/2024,C014,Laptop Pro 15,142500000,Ha Noi,,completed,1,20
+ORD-1264,2024-09-24,C006,Laptop Air 13,56700000,Ho Chi Minh,,completed,2,5
+ORD-1265,09/12/2024,C064,Monitor 27inch,-6500000,HP,Lê Minh Cường,completed,5,
+ORD-1266,15/05/24,C006,Laptop Air 13,56700000,HP,Hoàng Văn Em,completed,3,0
+ORD-1267,2024-12-05,C080,Laptop Air 13,37800000,hai phong,Hoàng Văn Em,cancelled,1,0
+ORD-1268,16/07/24,C022,Phone X12,28500000,Da Nang,Trần Thị Bình,completed,1,20
+ORD-1269,13/12/24,C079,Phone X12,47500000,Ho Chi Minh,Nguyễn Văn An,completed,2,5
+ORD-1270,01/07/2024,C029,Laptop Air 13,56700000,Đà Nẵng,Nguyễn Văn An ,completed,5,
+ORD-1271,03/17/2024,C021,Phone Lite,16800000,Đà Nẵng,,completed,4,0
+ORD-1272,2024-09-16,C031,Mouse Wireless,450000,Ho Chi Minh,Trần Thị Bình,completed,5,20
+ORD-1273,22/02/24,C012,Mouse Wireless,450000,Sài Gòn,,completed,3,10
+ORD-1274,05/07/2024,C072,Phone Lite,-4200000,HP,,returned,3,0
+ORD-1275,30-06-2024,C006,Laptop Air 13,18900.0,Hồ Chí Minh,Lê Minh Cường,cancelled,4,10
+ORD-1276,2024-08-22,C006,Phone Lite,8400000,Hà Nội,,completed,4,10
+ORD-1277,01/25/2024,C066,Phone X12,-9500000,HP,Lê Minh Cường,completed,2,0
+ORD-1278,15/09/24,C032,Laptop Air 13,56700000,Đà Nẵng,Hoàng Văn Em,completed,3,5
+ORD-1279,06/02/2024,C071,Phone X12,47500000,DN,Phạm Thị Dung,completed,5,15
+ORD-1280,04/01/2024,C015,Monitor 27inch,-6500000,Da Nang,Nguyễn Văn An ,returned,5,15
+ORD-1281,26/05/24,C049,Keyboard Mech,-1200000,Sài Gòn,Lê Minh Cường,returned,1,20
+ORD-1282,19-12-2024,,Phone X12,9500000,Sài Gòn,le minh cuong,completed,5,15
+ORD-1283,20/12/2024,C041,Keyboard Mech,3600000,Ho Chi Minh,,completed,3,20
+ORD-1284,10/28/2024,C025,Mouse Wireless,1350000,hà nội,Hoàng Văn Em,cancelled,1,0
+ORD-1285,2024-03-07,,Laptop Air 13,56700000,HCM,le minh cuong,completed,2,
+ORD-1286,04-12-2024,C010,Monitor 27inch,32500000,Đà Nẵng,Nguyễn Văn An ,pending,2,20
+ORD-1287,2024-04-23,C028,Phone X12,28500000,Hồ Chí Minh,,completed,5,15
+ORD-1288,2024-11-14,C049,Laptop Pro 15,142500000,Da Nang,Trần Thị Bình,completed,5,0
+ORD-1289,2024-05-31,C022,Monitor 27inch,6500000,Hà Nội,,pending,1,15
+ORD-1290,02/10/24,C020,Phone Lite,8400000,Hà Nội,Nguyễn Văn An,cancelled,3,
+ORD-1291,2024-10-21,C052,Laptop Air 13,18900000,Ho Chi Minh,TRẦN THỊ BÌNH,completed,4,10
+ORD-1292,26/10/2024,C065,Laptop Pro 15,-28500000,Hà Nội,Trần Thị Bình,returned,3,0
+ORD-1293,03/21/2024,C070,Mouse Wireless,1800000,DN,Hoàng Văn Em,completed,2,20
+ORD-1294,22/01/2024,C011,Monitor 27inch,6500000,Ho Chi Minh,Hoàng Văn Em,completed,3,15
+ORD-1295,09/04/2024,C007,Phone X12,28500000,Hải Phòng,,completed,5,
+ORD-1296,18-06-2024,C037,Laptop Air 13,75600000,Da Nang,,completed,2,5
+ORD-1297,10/16/2024,C022,Monitor 27inch,13000000,Hồ Chí Minh,Nguyễn Văn An,pending,2,15
+ORD-1298,02/09/24,C071,Keyboard Mech,3600000,Hải Phòng,Trần Thị Bình,completed,5,
+ORD-1299,14/05/2024,,Tablet Z10,15600000,hai phong,,cancelled,5,20
+ORD-1300,2024-08-29,C076,Phone Lite,21000000,hà nội,Hoàng Văn Em,completed,5,5

@@ -1,0 +1,51 @@
+product_id,product_name,category,price_vnd,stock_qty,weight_kg,status
+PRD-2001,Books Item 01,Books,160000.0,-5,10.25,active
+PRD-2002,Fashion Item 02,Fashion,821000.0,70,10.55,active
+PRD-2003,Books Item 03,Books,802000.0,148,14.02,active
+PRD-2004,Home & Living Item 04,Home & Living,280000.0,37,9.95,active
+PRD-2005,Sports Item 05,Sports,465000.0,171,7.08,active
+PRD-2006,Books Item 06,Books,1293000.0,348,3.13,
+PRD-2007,Fashion Item 07,Fashion,523000.0,333,1.82,Active
+PRD-2008,Beauty Item 08,Beauty,1328000.0,247,14.85,
+PRD-2009,Books Item 09,Books,2356000.0,93,8.37,ACTIVE
+PRD-2010,Beauty Item 10,Beauty,2497000.0,334,4.95,inactive
+PRD-2011,Books Item 11,Books,142000.0,458,5.23,active
+PRD-2012,Electronics Item 12,Electronics,327000.0,233,2.88,ACTIVE
+PRD-2013,Fashion Item 13,Fashion,99000.0,309,2.43,ACTIVE
+PRD-2014,Fashion Item 14,Fashion,103000.0,10,5.31,
+PRD-2015,Beauty Item 15,Beauty,160000.0,163,4.56,inactive
+PRD-2016,Electronics Item 16,Electronics,1381000.0,394,8.9,inactive
+PRD-2017,Sports Item 17,Sports,147000.0,30,4.61,Active
+PRD-2018,Sports Item 18,Sports,298000.0,247,3.72,active
+PRD-2019,Sports Item 19,Sports,140000.0,423,14.15,Active
+PRD-2020,Home & Living Item 20,Home & Living,477000.0,2,1.48,
+PRD-2021,Books Item 21,Books,2475000.0,46,14.29,active
+PRD-2022,Sports Item 22,Sports,92000.0,491,8.03,
+PRD-2023,Electronics Item 23,Electronics,140000.0,473,3.96,inactive
+PRD-2024,Sports Item 24,Sports,811000.0,253,9.77,ACTIVE
+PRD-2025,Beauty Item 25,Beauty,1283000.0,428,9.08,active
+PRD-2026,Home & Living Item 26,Home & Living,283000.0,301,9.98,active
+PRD-2027,Home & Living Item 27,Home & Living,879000.0,144,11.09,ACTIVE
+PRD-2028,Beauty Item 28,Beauty,140000.0,457,6.49,active
+PRD-2029,Books Item 29,Books,143000.0,84,10.22,Active
+PRD-2030,Home & Living Item 30,Home & Living,138000.0,67,5.53,ACTIVE
+PRD-2031,Beauty Item 31,Beauty,833000.0,103,1.58,active
+PRD-2032,Electronics Item 32,Electronics,487000.0,455,10.68,active
+PRD-2033,Beauty Item 33,Beauty,1212000.0,426,3.73,ACTIVE
+PRD-2034,Home & Living Item 34,Home & Living,2378000.0,108,7.62,Active
+PRD-2035,Fashion Item 35,Fashion,464000.0,490,11.27,Active
+PRD-2036,Beauty Item 36,Beauty,-140000.0,313,3.67,
+PRD-2037,Electronics Item 37,Electronics,1314000.0,221,6.82,inactive
+PRD-2038,Beauty Item 38,Beauty,779000.0,6,1.54,active
+PRD-2039,Fashion Item 39,Fashion,0,422,14.35,
+PRD-2040,Books Item 40,Books,279000.0,72,10.44,active
+PRD-2041,Home & Living Item 41,Home & Living,150000.0,166,14.63,active
+PRD-2042,Electronics Item 42,Electronics,158000.0,332,5.31,active
+PRD-2043,Home & Living Item 43,Home & Living,291000.0,96,0.86,active
+PRD-2044,Fashion Item 44,Fashion,142000.0,7,3.59,Active
+PRD-2045,Home & Living Item 45,Home & Living,2346000.0,321,8.26,
+PRD-2046,Beauty Item 46,Beauty,809000.0,147,4.93,active
+PRD-2047,Beauty Item 47,Beauty,293000.0,410,4.96,
+PRD-2048,Sports Item 48,Sports,0,360,7.38,ACTIVE
+PRD-2049,Home & Living Item 49,Home & Living,-109000.0,170,6.75,ACTIVE
+PRD-2050,Fashion Item 50,Fashion,773000.0,364,8.58,active

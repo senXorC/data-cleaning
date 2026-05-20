@@ -1,0 +1,145 @@
+customer_id,full_name,email,phone,city,registration_date,membership_tier
+CUS-1001,Nguyễn Thị Bình,nguyenthibinh50@company.vn,0940099522,Hồ Chí Minh,2023-05-26,Bronze
+CUS-1002,Vũ Văn Em,vuvanem33@yahoo.com,0980157150,Hải Phòng,2022-04-03,Silver
+CUS-1003,Hồ Văn An,hovanan30@company.vn,0942831915,Hà Nội,2022-08-03,Bronze
+CUS-1004,Hồ Văn An,hovanan48@yahoo.com,0942831915,Hà Nội,2023-03-07,Silver
+CUS-1005,Hồ Văn Em,hovanem87@gmail.com,0943166247,Hồ Chí Minh,2023-11-10,Platinum
+CUS-1006,Lê Thị Dung,lethidung57@company.vn,0911110455,Cần Thơ,2023-02-17,Silver
+CUS-1007,Bùi Văn Em,buivanem78@yahoo.com,0947580286,Hải Phòng,2023-10-18,Bronze
+CUS-1008,Lê Thị Hoa,lethihoa57@outlook.com,0953971486,Hồ Chí Minh,2022-11-09,Gold
+CUS-1009,Phạm Văn Em,phamvanem55@yahoo.com,0906422426,Hồ Chí Minh,2022-05-06,Platinum
+CUS-1010,Lê Văn Giang,levangiang64@yahoo.com,0995277727,Hà Nội,2022-03-01,Gold
+CUS-1011,Bùi Văn Hải,buivanhai51@gmail.com,0938809797,Hồ Chí Minh,2022-07-28,Bronze
+CUS-1012,Phạm Văn An,phamvanan20@outlook.com,0973480357,Hồ Chí Minh,2022-01-27,Gold
+CUS-1013,Vũ Văn Em,vuvanem81@yahoo.com,0920567343,Hà Nội,2023-06-29,Bronze
+CUS-1014,Hồ Văn Giang,hovangiang46@yahoo.com,0947895352,Hà Nội,2023-04-23,Gold
+CUS-1015,Trần Văn Giang,tranvangiang56@yahoo.com,0932340500,Hồ Chí Minh,2022-05-04,Bronze
+CUS-1016,Lê Thị Hằng,lethihang40@gmail.com,0922048441,Đà Nẵng,2022-01-07,Bronze
+CUS-1017,Đặng Văn Giang,dangvangiang16@company.vn,0994948728,Đà Nẵng,2023-11-18,Bronze
+CUS-1018,Bùi Văn An,buivanan9@outlook.com,0965286303,Đà Nẵng,2023-10-19,Gold
+CUS-1019,Đỗ Văn Em,dovanem86@yahoo.com,0979721837,Cần Thơ,2022-01-08,Platinum
+CUS-1020,Bùi Thị Lan,buithilan96@gmail.com,0920466832,Cần Thơ,2023-04-16,Platinum
+CUS-1021,Phạm Thị Hoa,phamthihoa8@gmail.com,0970523279,Đà Nẵng,2023-10-14,Bronze
+CUS-1022,Hồ Văn An,hovanan18@company.vn,0950563421,Hà Nội,2023-12-01,Bronze
+CUS-1023,Phạm Văn Em,phamvanem39@outlook.com,0936794187,Hải Phòng,2022-06-26,Bronze
+CUS-1024,Đặng Văn Giang,dangvangiang67@gmail.com,0916090322,Hải Phòng,2022-01-06,Bronze
+CUS-1025,Hoàng Thị Dung,hoangthidung54@gmail.com,0978573891,Hồ Chí Minh,2022-11-11,Silver
+CUS-1026,Nguyễn Thị Bình,nguyenthibinh33@company.vn,0961612490,Hồ Chí Minh,2023-10-27,Gold
+CUS-1027,Lê Văn Giang,levangiang65@company.vn,0934513747,Hà Nội,2022-06-04,Không xác định
+CUS-1028,Lê Văn An,levanan75@yahoo.com,0902747555,Đà Nẵng,2022-01-23,Bronze
+CUS-1029,Phạm Văn Giang,phamvangiang15@yahoo.com,0942204457,Hồ Chí Minh,2023-03-27,Bronze
+CUS-1030,Đặng Thị Dung,dangthidung3@company.vn,0944622240,Cần Thơ,2023-03-03,Không xác định
+CUS-1031,Phạm Thị Hằng,phamthihang10@gmail.com,0907371743,Hải Phòng,2022-11-28,Gold
+CUS-1032,Vũ Thị Lan,vuthilan35@company.vn,0965666581,Đà Nẵng,2022-06-18,Platinum
+CUS-1033,Bùi Thị Lan,buithilan13@yahoo.com,0938474842,Hồ Chí Minh,2023-08-12,Không xác định
+CUS-1034,Hồ Thị Hoa,hothihoa48@gmail.com,0917196486,Hà Nội,2022-09-29,Platinum
+CUS-1035,Vũ Văn An,vuvanan26@company.vn,0939598138,Hồ Chí Minh,2023-03-22,Gold
+CUS-1036,Bùi Minh Cường,buiminhcuong5@outlook.com,0940099522,Cần Thơ,2023-02-18,Bronze
+CUS-1037,Hoàng Thị Bình,hoangthibinh35@outlook.com,0977809416,Đà Nẵng,2023-09-18,Không xác định
+CUS-1038,Hoàng Thị Dung,hoangthidung85@gmail.com,0946191820,Hải Phòng,2022-04-23,Silver
+CUS-1039,Nguyễn Thị Hằng,nguyenthihang12@gmail.com,0911711315,Hà Nội,2023-07-24,Silver
+CUS-1040,Phạm Văn Em,phamvanem4@yahoo.com,0939178232,Hồ Chí Minh,2023-06-24,Silver
+CUS-1041,Trần Thị Hoa,tranthihoa50@gmail.com,0911572381,Hà Nội,2022-02-20,Platinum
+CUS-1042,Trần Thị Hằng,tranthihang38@yahoo.com,0916384738,Hồ Chí Minh,2023-10-13,Platinum
+CUS-1043,Hồ Thị Hằng,hothihang45@yahoo.com,0923911628,Cần Thơ,2022-12-20,Platinum
+CUS-1044,Đặng Thị Dung,dangthidung94@outlook.com,0966392332,Hà Nội,2022-11-04,Gold
+CUS-1045,Hồ Thị Lan,hothilan31@gmail.com,0927803613,Hà Nội,2023-05-03,Gold
+CUS-1046,Đỗ Thị Hoa,dothihoa33@yahoo.com,0953407129,Đà Nẵng,2023-09-17,Gold
+CUS-1047,Đặng Văn An,dangvanan17@company.vn,0939814631,Hải Phòng,2023-11-30,Platinum
+CUS-1048,Đỗ Văn Em,dovanem92@outlook.com,0990040039,Đà Nẵng,2022-05-29,Không xác định
+CUS-1049,Đỗ Văn Giang,dovangiang23@company.vn,0987994879,Cần Thơ,2023-02-25,Bronze
+CUS-1050,Đặng Văn Hải,dangvanhai35@gmail.com,0986205536,Hải Phòng,2022-12-01,Gold
+CUS-1051,Vũ Thị Dung,vuthidung45@outlook.com,0999535510,Hà Nội,2023-06-17,Silver
+CUS-1052,Hồ Thị Bình,hothibinh55@outlook.com,0905958364,Hà Nội,2022-07-23,Bronze
+CUS-1053,Hoàng Minh Cường,hoangminhcuong72@yahoo.com,0953407129,Cần Thơ,2022-03-30,Silver
+CUS-1054,Trần Thị Hằng,tranthihang91@company.vn,0912228108,Hà Nội,2022-07-24,Bronze
+CUS-1055,Lê Thị Hằng,lethihang61@yahoo.com,0927690627,Cần Thơ,2023-06-25,Platinum
+CUS-1056,Bùi Thị Hoa,buithihoa87@yahoo.com,0910477658,Hà Nội,2022-07-31,Platinum
+CUS-1057,Đặng Văn Hải,dangvanhai19@yahoo.com,0984812689,Đà Nẵng,2022-05-12,Gold
+CUS-1058,Hoàng Thị Lan,hoangthilan64@yahoo.com,0957341521,Đà Nẵng,2022-10-04,Bronze
+CUS-1059,Đặng Thị Bình,dangthibinh94@outlook.com,0974050629,Hải Phòng,2023-02-28,Bronze
+CUS-1060,Bùi Thị Dung,buithidung58@yahoo.com,0960112031,Hà Nội,2023-10-30,Bronze
+CUS-1061,Trần Thị Bình,tranthibinh63@outlook.com,0920567343,Hà Nội,2023-07-16,Gold
+CUS-1062,Hồ Văn Giang,hovangiang53@gmail.com,0939598138,Hải Phòng,2023-07-12,Bronze
+CUS-1063,Lê Thị Dung,lethidung54@gmail.com,0993576529,Hà Nội,2023-01-02,Gold
+CUS-1064,Bùi Thị Bình,buithibinh10@company.vn,0908560544,Hồ Chí Minh,2023-06-30,Không xác định
+CUS-1065,Hoàng Thị Hoa,hoangthihoa39@yahoo.com,0969239641,Cần Thơ,2022-05-25,Không xác định
+CUS-1066,Lê Văn An,levanan14@yahoo.com,0984090536,Hải Phòng,2022-04-09,Gold
+CUS-1067,Trần Văn Hải,tranvanhai66@outlook.com,0921129382,Hải Phòng,2022-11-01,Gold
+CUS-1068,Lê Văn Giang,levangiang85@gmail.com,0911110455,Hồ Chí Minh,2023-10-22,Silver
+CUS-1069,Đặng Thị Bình,dangthibinh84@company.vn,0947895352,Hà Nội,2022-06-25,Bronze
+CUS-1070,Trần Minh Cường,tranminhcuong9@outlook.com,0953971486,Cần Thơ,2023-02-15,Gold
+CUS-1071,Nguyễn Thị Lan,nguyenthilan82@yahoo.com,0976105295,Hải Phòng,2023-04-27,Platinum
+CUS-1072,Phạm Thị Hoa,phamthihoa86@gmail.com,0923267745,Hồ Chí Minh,2022-06-28,Bronze
+CUS-1073,Vũ Thị Lan,vuthilan72@yahoo.com,0941533647,Hồ Chí Minh,2022-02-20,Silver
+CUS-1074,Bùi Văn Hải,buivanhai96@yahoo.com,0923911628,Hải Phòng,2023-08-14,Bronze
+CUS-1075,Hoàng Thị Lan,hoangthilan99@company.vn,0918382581,Đà Nẵng,2023-04-09,Silver
+CUS-1076,Bùi Thị Dung,buithidung34@company.vn,0974862570,Đà Nẵng,2022-06-13,Platinum
+CUS-1077,Trần Thị Hằng,tranthihang61@yahoo.com,0930339338,Hồ Chí Minh,2022-05-12,Silver
+CUS-1078,Phạm Thị Hoa,phamthihoa8@yahoo.com,0938809797,Cần Thơ,2023-10-13,Bronze
+CUS-1079,Lê Văn Giang,levangiang92@outlook.com,0905958364,Cần Thơ,2022-11-02,Không xác định
+CUS-1080,Đặng Thị Bình,dangthibinh67@company.vn,0916384738,Cần Thơ,2022-10-29,Gold
+CUS-1082,Đặng Văn An,dangvanan40@company.vn,0993576529,Hà Nội,2022-01-13,Bronze
+CUS-1083,Đặng Văn Em,dangvanem16@gmail.com,0900532916,Hồ Chí Minh,2023-10-25,Không xác định
+CUS-1084,Đỗ Văn Em,dovanem24@yahoo.com,0916090322,Hồ Chí Minh,2022-11-23,Bronze
+CUS-1085,Hồ Thị Hằng,hothihang51@gmail.com,0903465807,Hải Phòng,2022-03-03,Bronze
+CUS-1086,Bùi Thị Dung,buithidung33@yahoo.com,0914762497,Hải Phòng,2022-06-11,Gold
+CUS-1089,Hồ Văn Giang,hovangiang30@outlook.com,0906167110,Đà Nẵng,2022-09-12,Silver
+CUS-1090,Nguyễn Thị Lan,nguyenthilan17@company.vn,0965724952,Hải Phòng,2022-01-01,Bronze
+CUS-1091,Đặng Minh Cường,dangminhcuong99@outlook.com,0978573891,Hồ Chí Minh,2023-08-13,Bronze
+CUS-1092,Nguyễn Văn An,nguyenvanan55@yahoo.com,0927690627,Đà Nẵng,2022-12-18,Bronze
+CUS-1093,Đỗ Thị Bình,dothibinh97@company.vn,0974050629,Hà Nội,2022-04-21,Gold
+CUS-1094,Trần Thị Hoa,tranthihoa96@company.vn,0946365601,Cần Thơ,2023-08-02,Silver
+CUS-1095,Đỗ Văn Giang,dovangiang67@company.vn,0932251584,Cần Thơ,2023-11-15,Không xác định
+CUS-1096,Nguyễn Thị Hằng,nguyenthihang6@company.vn,0989273816,Hải Phòng,2023-10-07,Silver
+CUS-1098,Đặng Thị Lan,dangthilan99@outlook.com,0962905691,Hồ Chí Minh,2022-05-20,Bronze
+CUS-1099,Hoàng Thị Lan,hoangthilan66@yahoo.com,0902747555,Đà Nẵng,2022-11-04,Bronze
+CUS-1100,Hoàng Văn An,hoangvanan19@company.vn,0987994879,Cần Thơ,2022-01-18,Platinum
+CUS-1101,Lê Văn An,levanan11@outlook.com,0961612490,Cần Thơ,2022-05-16,Bronze
+CUS-1102,Hồ Văn Hải,hovanhai62@company.vn,0972958288,Cần Thơ,2022-08-03,Bronze
+CUS-1103,Vũ Thị Lan,vuthilan70@yahoo.com,0953971486,Hồ Chí Minh,2023-10-21,Bronze
+CUS-1105,Đặng Văn Hải,dangvanhai82@company.vn,0936993563,Hải Phòng,2023-03-03,Silver
+CUS-1106,Bùi Thị Bình,buithibinh19@outlook.com,0921129382,Hà Nội,2022-02-19,Bronze
+CUS-1107,Phạm Thị Dung,phamthidung47@company.vn,0961612490,Hồ Chí Minh,2022-11-15,Không xác định
+CUS-1108,Hồ Văn Giang,hovangiang52@yahoo.com,0940099522,Đà Nẵng,2022-04-09,Silver
+CUS-1109,Bùi Văn Giang,buivangiang30@company.vn,0957341521,Đà Nẵng,2022-02-06,Bronze
+CUS-1110,Trần Thị Dung,tranthidung96@outlook.com,0902877475,Hồ Chí Minh,2022-02-19,Platinum
+CUS-1111,Bùi Văn An,buivanan32@gmail.com,0986205536,Hồ Chí Minh,2022-08-08,Bronze
+CUS-1112,Hoàng Minh Cường,hoangminhcuong94@outlook.com,0914762497,Hà Nội,2023-10-29,Bronze
+CUS-1113,Đặng Văn Hải,dangvanhai40@company.vn,0954347962,Hà Nội,2022-11-11,Bronze
+CUS-1114,Bùi Văn Hải,buivanhai28@outlook.com,0992853208,Hải Phòng,2023-10-22,Bronze
+CUS-1115,Đỗ Thị Lan,dothilan61@company.vn,0942831915,Hà Nội,2023-08-31,Không xác định
+CUS-1116,Hoàng Thị Bình,hoangthibinh9@gmail.com,0989179274,Hồ Chí Minh,2022-07-06,Gold
+CUS-1117,Lê Thị Hằng,lethihang66@yahoo.com,0965198037,Hồ Chí Minh,2023-03-03,Gold
+CUS-1118,Hồ Thị Hằng,hothihang94@company.vn,0989179274,Đà Nẵng,2022-07-25,Bronze
+CUS-1119,Lê Minh Cường,leminhcuong93@gmail.com,0984090536,Hải Phòng,2023-09-23,Bronze
+CUS-1120,Trần Thị Lan,tranthilan8@outlook.com,0956248437,Cần Thơ,2022-10-05,Gold
+CUS-1121,Lê Thị Lan,lethilan52@company.vn,0965330284,Hải Phòng,2022-01-30,Silver
+CUS-1122,Trần Văn Giang,tranvangiang33@company.vn,0906167110,Hà Nội,2022-08-09,Bronze
+CUS-1123,Lê Văn Em,levanem99@outlook.com,0955334439,Đà Nẵng,2022-11-20,Gold
+CUS-1124,Hồ Thị Hoa,hothihoa38@outlook.com,0959620198,Hải Phòng,2023-03-15,Bronze
+CUS-1125,Bùi Thị Hoa,buithihoa26@yahoo.com,0956855311,Cần Thơ,2022-01-10,Bronze
+CUS-1126,Đặng Thị Hoa,dangthihoa50@yahoo.com,0965330284,Hà Nội,2022-01-21,Bronze
+CUS-1127,Nguyễn Thị Hằng,nguyenthihang67@company.vn,0952276682,Hà Nội,2022-08-09,Gold
+CUS-1128,Bùi Thị Lan,buithilan96@company.vn,0979721837,Hải Phòng,2022-01-15,Platinum
+CUS-1129,Hoàng Văn An,hoangvanan98@company.vn,0914688197,Hồ Chí Minh,2023-09-04,Bronze
+CUS-1130,Bùi Văn Em,buivanem85@outlook.com,0947229002,Hà Nội,2022-10-13,Silver
+CUS-1131,Vũ Minh Cường,vuminhcuong94@outlook.com,0922048441,Hà Nội,2022-03-19,Bronze
+CUS-1132,Lê Văn Giang,levangiang94@yahoo.com,0947229002,Hải Phòng,2022-05-25,Silver
+CUS-1133,Bùi Văn Em,buivanem49@yahoo.com,0954629348,Hà Nội,2022-08-01,Bronze
+CUS-1134,Hoàng Thị Hoa,hoangthihoa63@company.vn,0954770704,Hà Nội,2022-08-15,Bronze
+CUS-1135,Vũ Thị Bình,vuthibinh20@company.vn,0997912275,Cần Thơ,2022-05-31,Bronze
+CUS-1136,Vũ Văn Giang,vuvangiang34@outlook.com,0965666581,Hồ Chí Minh,2023-08-16,Platinum
+CUS-1137,Hồ Thị Hằng,hothihang93@yahoo.com,0960185845,Hồ Chí Minh,2023-08-19,Silver
+CUS-1138,Vũ Văn Em,vuvanem63@outlook.com,0959699527,Đà Nẵng,2022-11-11,Bronze
+CUS-1139,Lê Văn Hải,levanhai53@outlook.com,0996814817,Hải Phòng,2022-08-13,Gold
+CUS-1140,Hoàng Minh Cường,hoangminhcuong37@company.vn,0917196486,Hồ Chí Minh,2023-05-26,Gold
+CUS-1141,Trần Thị Dung,tranthidung39@company.vn,0963202176,Hà Nội,2022-02-24,Bronze
+CUS-1142,Bùi Thị Bình,buithibinh93@outlook.com,0978246469,Hà Nội,2022-03-13,Gold
+CUS-1143,Phạm Văn Em,phamvanem5@gmail.com,0973480357,Đà Nẵng,2023-10-10,Silver
+CUS-1144,Lê Thị Bình,lethibinh61@outlook.com,0953971486,Đà Nẵng,2023-02-08,Không xác định
+CUS-1145,Hoàng Minh Cường,hoangminhcuong24@outlook.com,0977809416,Hà Nội,2023-11-02,Bronze
+CUS-1146,Trần Văn Hải,tranvanhai11@company.vn,0904572024,Hà Nội,2022-08-06,Platinum
+CUS-1147,Trần Minh Cường,tranminhcuong90@gmail.com,0988076803,Hải Phòng,2023-08-16,Silver
+CUS-1148,Phạm Văn Giang,phamvangiang34@gmail.com,0989273816,Cần Thơ,2022-05-27,Gold
+CUS-1150,Vũ Văn An,vuvanan18@yahoo.com,0973480357,Hải Phòng,2023-04-13,Gold

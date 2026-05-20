@@ -1,0 +1,28 @@
+emp_id,full_name,flag_type,field,value,note
+EMP-2012,Đặng Văn Hải,AGE_RECALCULATED,age,150.0,"Age bất thường, đã tính lại từ birth_year — cần xác nhận"
+EMP-2023,Phạm Văn Giang,AGE_RECALCULATED,age,-5.0,"Age bất thường, đã tính lại từ birth_year — cần xác nhận"
+EMP-2071,Đỗ Thị Bình,AGE_RECALCULATED,age,15.0,"Age bất thường, đã tính lại từ birth_year — cần xác nhận"
+EMP-2077,Phạm Minh Cường,AGE_RECALCULATED,age,15.0,"Age bất thường, đã tính lại từ birth_year — cần xác nhận"
+EMP-2094,Vũ Văn Em,AGE_RECALCULATED,age,-5.0,"Age bất thường, đã tính lại từ birth_year — cần xác nhận"
+EMP-2096,Hoàng Thị Hằng,AGE_RECALCULATED,age,-5.0,"Age bất thường, đã tính lại từ birth_year — cần xác nhận"
+EMP-2188,Đặng Văn Hải,AGE_RECALCULATED,age,15.0,"Age bất thường, đã tính lại từ birth_year — cần xác nhận"
+EMP-2008,Đặng Thị Hoa,SALARY_ISSUE,salary_vnd,-864956.0,"Lương âm — đã set null, cần xác nhận giá trị đúng"
+EMP-2031,Trần Thị Hằng,SALARY_ISSUE,salary_vnd,-2345723.0,"Lương âm — đã set null, cần xác nhận giá trị đúng"
+EMP-2053,Trần Văn Em,SALARY_ISSUE,salary_vnd,-751916.0,"Lương âm — đã set null, cần xác nhận giá trị đúng"
+EMP-2070,Đỗ Văn An,SALARY_ISSUE,salary_vnd,-1089672.0,"Lương âm — đã set null, cần xác nhận giá trị đúng"
+EMP-2071,Đỗ Thị Bình,SALARY_ISSUE,salary_vnd,-1496743.0,"Lương âm — đã set null, cần xác nhận giá trị đúng"
+EMP-2146,Đặng Thị Hằng,SALARY_ISSUE,salary_vnd,-461615.0,"Lương âm — đã set null, cần xác nhận giá trị đúng"
+EMP-2038,Hồ Thị Hằng,SALARY_ISSUE,salary_vnd,761285602.0,"Lương bất thường cao (> 10 triệu) — outlier, cần xem xét ở bước EDA"
+EMP-2040,Vũ Thị Bình,SALARY_ISSUE,salary_vnd,2001425668.0,"Lương bất thường cao (> 10 triệu) — outlier, cần xem xét ở bước EDA"
+EMP-2049,Bùi Văn Hải,SALARY_ISSUE,salary_vnd,1851260328.0,"Lương bất thường cao (> 10 triệu) — outlier, cần xem xét ở bước EDA"
+EMP-2109,Đặng Thị Lan,SALARY_ISSUE,salary_vnd,492518851.0,"Lương bất thường cao (> 10 triệu) — outlier, cần xem xét ở bước EDA"
+EMP-2160,Phạm Thị Lan,SALARY_ISSUE,salary_vnd,714562109.0,"Lương bất thường cao (> 10 triệu) — outlier, cần xem xét ở bước EDA"
+EMP-2188,Đặng Văn Hải,SALARY_ISSUE,salary_vnd,734242339.0,"Lương bất thường cao (> 10 triệu) — outlier, cần xem xét ở bước EDA"
+EMP-2195,Đặng Văn Giang,SALARY_ISSUE,salary_vnd,756536716.0,"Lương bất thường cao (> 10 triệu) — outlier, cần xem xét ở bước EDA"
+EMP-2013,Vũ Văn Giang,EMAIL_INVALID,email,,Email không hợp lệ hoặc trống — cần xác nhận và cập nhật
+EMP-2024,Không xác định,EMAIL_INVALID,email,,Email không hợp lệ hoặc trống — cần xác nhận và cập nhật
+EMP-2041,Hoàng Thị Hoa,EMAIL_INVALID,email,,Email không hợp lệ hoặc trống — cần xác nhận và cập nhật
+EMP-2058,Hồ Thị Hoa,EMAIL_INVALID,email,,Email không hợp lệ hoặc trống — cần xác nhận và cập nhật
+EMP-2109,Đặng Thị Lan,EMAIL_INVALID,email,,Email không hợp lệ hoặc trống — cần xác nhận và cập nhật
+EMP-2113,Phạm Văn Giang,EMAIL_INVALID,email,,Email không hợp lệ hoặc trống — cần xác nhận và cập nhật
+EMP-2153,Không xác định,EMAIL_INVALID,email,,Email không hợp lệ hoặc trống — cần xác nhận và cập nhật
