@@ -1,0 +1,336 @@
+table,row_id,flag_type,field,value,note
+suppliers,SUP-104,FUZZY_DUPLICATE,supplier_name,Công Ty CP Điện Tử Minh Phát,Tên gần giống SUP-101 (Công Ty CP Điện Tử Minh Phát) score=100 — cần xác nhận
+suppliers,SUP-101,FUZZY_DUPLICATE,supplier_name,Công Ty CP Điện Tử Minh Phát,Tên gần giống SUP-104 (Công Ty CP Điện Tử Minh Phát) score=100 — cần xác nhận
+suppliers,SUP-106,FUZZY_DUPLICATE,supplier_name,Công Ty TNHH Nông Sản Xanh Sạch,Tên gần giống SUP-105 (Công Ty TNHH Nông Sản Xanh Sạch) score=100 — cần xác nhận
+suppliers,SUP-105,FUZZY_DUPLICATE,supplier_name,Công Ty TNHH Nông Sản Xanh Sạch,Tên gần giống SUP-106 (Công Ty TNHH Nông Sản Xanh Sạch) score=100 — cần xác nhận
+suppliers,SUP-107,FUZZY_DUPLICATE,supplier_name,Công Ty TNHH Thực Phẩm Sao Vàng,Tên gần giống SUP-102 (Công Ty TNHH Thực Phẩm Sao Vàng) score=100 — cần xác nhận
+suppliers,SUP-102,FUZZY_DUPLICATE,supplier_name,Công Ty TNHH Thực Phẩm Sao Vàng,Tên gần giống SUP-107 (Công Ty TNHH Thực Phẩm Sao Vàng) score=100 — cần xác nhận
+suppliers,SUP-111,FUZZY_DUPLICATE,supplier_name,Công Ty TNHH Xây Dựng Vật Liệu ABC,Tên gần giống SUP-109 (Công Ty TNHH Xây Dựng Vật Liệu ABC) score=100 — cần xác nhận
+suppliers,SUP-109,FUZZY_DUPLICATE,supplier_name,Công Ty TNHH Xây Dựng Vật Liệu ABC,Tên gần giống SUP-111 (Công Ty TNHH Xây Dựng Vật Liệu ABC) score=100 — cần xác nhận
+suppliers,SUP-113,FUZZY_DUPLICATE,supplier_name,Công Ty CP Điện Tử Minh Phát,Tên gần giống SUP-101 (Công Ty CP Điện Tử Minh Phát) score=100 — cần xác nhận
+suppliers,SUP-115,FUZZY_DUPLICATE,supplier_name,Công Ty CP Điện Tử Minh Phát,Tên gần giống SUP-101 (Công Ty CP Điện Tử Minh Phát) score=100 — cần xác nhận
+suppliers,SUP-116,FUZZY_DUPLICATE,supplier_name,Công Ty CP Mỹ Phẩm Thiên Nhiên,Tên gần giống SUP-114 (Công Ty CP Mỹ Phẩm Thiên Nhiên) score=100 — cần xác nhận
+suppliers,SUP-114,FUZZY_DUPLICATE,supplier_name,Công Ty CP Mỹ Phẩm Thiên Nhiên,Tên gần giống SUP-116 (Công Ty CP Mỹ Phẩm Thiên Nhiên) score=100 — cần xác nhận
+suppliers,SUP-118,FUZZY_DUPLICATE,supplier_name,Công Ty Văn Phòng Phẩm Tiến Đạt,Tên gần giống SUP-103 (Công Ty Văn Phòng Phẩm Tiến Đạt) score=100 — cần xác nhận
+suppliers,SUP-103,FUZZY_DUPLICATE,supplier_name,Công Ty Văn Phòng Phẩm Tiến Đạt,Tên gần giống SUP-118 (Công Ty Văn Phòng Phẩm Tiến Đạt) score=100 — cần xác nhận
+suppliers,SUP-119,FUZZY_DUPLICATE,supplier_name,Công Ty TNHH Phụ Tùng Ô Tô Bền Vững,Tên gần giống SUP-117 (Công Ty TNHH Phụ Tùng Ô Tô Bền Vững) score=100 — cần xác nhận
+suppliers,SUP-117,FUZZY_DUPLICATE,supplier_name,Công Ty TNHH Phụ Tùng Ô Tô Bền Vững,Tên gần giống SUP-119 (Công Ty TNHH Phụ Tùng Ô Tô Bền Vững) score=100 — cần xác nhận
+suppliers,SUP-120,FUZZY_DUPLICATE,supplier_name,Công Ty TNHH Phụ Tùng Ô Tô Bền Vững,Tên gần giống SUP-117 (Công Ty TNHH Phụ Tùng Ô Tô Bền Vững) score=100 — cần xác nhận
+suppliers,SUP-121,FUZZY_DUPLICATE,supplier_name,Công Ty CP Điện Tử Minh Phát,Tên gần giống SUP-101 (Công Ty CP Điện Tử Minh Phát) score=100 — cần xác nhận
+suppliers,SUP-122,FUZZY_DUPLICATE,supplier_name,Công Ty TNHH Thực Phẩm Sao Vàng,Tên gần giống SUP-102 (Công Ty TNHH Thực Phẩm Sao Vàng) score=100 — cần xác nhận
+suppliers,SUP-123,FUZZY_DUPLICATE,supplier_name,Công Ty TNHH Thực Phẩm Sao Vàng,Tên gần giống SUP-102 (Công Ty TNHH Thực Phẩm Sao Vàng) score=100 — cần xác nhận
+suppliers,SUP-124,FUZZY_DUPLICATE,supplier_name,Công Ty Văn Phòng Phẩm Tiến Đạt,Tên gần giống SUP-103 (Công Ty Văn Phòng Phẩm Tiến Đạt) score=100 — cần xác nhận
+suppliers,SUP-126,FUZZY_DUPLICATE,supplier_name,Công Ty CP Điện Tử Minh Phát,Tên gần giống SUP-101 (Công Ty CP Điện Tử Minh Phát) score=100 — cần xác nhận
+suppliers,SUP-127,FUZZY_DUPLICATE,supplier_name,Công Ty TNHH Thực Phẩm Sao Vàng,Tên gần giống SUP-102 (Công Ty TNHH Thực Phẩm Sao Vàng) score=100 — cần xác nhận
+suppliers,SUP-129,FUZZY_DUPLICATE,supplier_name,Công Ty TNHH Xây Dựng Vật Liệu ABC,Tên gần giống SUP-109 (Công Ty TNHH Xây Dựng Vật Liệu ABC) score=100 — cần xác nhận
+suppliers,SUP-130,FUZZY_DUPLICATE,supplier_name,Công Ty CP Điện Tử Minh Phát,Tên gần giống SUP-101 (Công Ty CP Điện Tử Minh Phát) score=100 — cần xác nhận
+suppliers,SUP-131,FUZZY_DUPLICATE,supplier_name,Công Ty CP Đồ Chơi Trẻ Em Vui Vẻ,Tên gần giống SUP-112 (Công Ty CP Đồ Chơi Trẻ Em Vui Vẻ) score=100 — cần xác nhận
+suppliers,SUP-112,FUZZY_DUPLICATE,supplier_name,Công Ty CP Đồ Chơi Trẻ Em Vui Vẻ,Tên gần giống SUP-131 (Công Ty CP Đồ Chơi Trẻ Em Vui Vẻ) score=100 — cần xác nhận
+suppliers,SUP-132,FUZZY_DUPLICATE,supplier_name,Công Ty TNHH Thực Phẩm Sao Vàng,Tên gần giống SUP-102 (Công Ty TNHH Thực Phẩm Sao Vàng) score=100 — cần xác nhận
+suppliers,SUP-133,FUZZY_DUPLICATE,supplier_name,Công Ty TNHH Nông Sản Xanh Sạch,Tên gần giống SUP-105 (Công Ty TNHH Nông Sản Xanh Sạch) score=100 — cần xác nhận
+suppliers,SUP-134,FUZZY_DUPLICATE,supplier_name,Công Ty Văn Phòng Phẩm Tiến Đạt,Tên gần giống SUP-103 (Công Ty Văn Phòng Phẩm Tiến Đạt) score=100 — cần xác nhận
+suppliers,SUP-135,FUZZY_DUPLICATE,supplier_name,Công Ty TNHH Nông Sản Xanh Sạch,Tên gần giống SUP-105 (Công Ty TNHH Nông Sản Xanh Sạch) score=100 — cần xác nhận
+suppliers,SUP-137,FUZZY_DUPLICATE,supplier_name,Công Ty CP Điện Tử Minh Phát,Tên gần giống SUP-101 (Công Ty CP Điện Tử Minh Phát) score=100 — cần xác nhận
+suppliers,SUP-138,FUZZY_DUPLICATE,supplier_name,Công Ty CP Thực Phẩm Đông Lạnh Bắc Nam,Tên gần giống SUP-110 (Công Ty CP Thực Phẩm Đông Lạnh Bắc Nam) score=100 — cần xác nhận
+suppliers,SUP-110,FUZZY_DUPLICATE,supplier_name,Công Ty CP Thực Phẩm Đông Lạnh Bắc Nam,Tên gần giống SUP-138 (Công Ty CP Thực Phẩm Đông Lạnh Bắc Nam) score=100 — cần xác nhận
+suppliers,SUP-140,FUZZY_DUPLICATE,supplier_name,Công Ty TNHH Phụ Tùng Ô Tô Bền Vững,Tên gần giống SUP-117 (Công Ty TNHH Phụ Tùng Ô Tô Bền Vững) score=100 — cần xác nhận
+suppliers,SUP-141,FUZZY_DUPLICATE,supplier_name,Công Ty XD Vật Liệu ABC,Tên gần giống SUP-125 (Công Ty XD Vật Liệu ABC) score=100 — cần xác nhận
+suppliers,SUP-125,FUZZY_DUPLICATE,supplier_name,Công Ty XD Vật Liệu ABC,Tên gần giống SUP-141 (Công Ty XD Vật Liệu ABC) score=100 — cần xác nhận
+suppliers,SUP-142,FUZZY_DUPLICATE,supplier_name,Công Ty Văn Phòng Phẩm Tiến Đạt,Tên gần giống SUP-103 (Công Ty Văn Phòng Phẩm Tiến Đạt) score=100 — cần xác nhận
+suppliers,SUP-143,FUZZY_DUPLICATE,supplier_name,Công Ty TNHH Hóa Chất Đại Dương,Tên gần giống SUP-128 (Công Ty TNHH Hóa Chất Đại Dương) score=100 — cần xác nhận
+suppliers,SUP-128,FUZZY_DUPLICATE,supplier_name,Công Ty TNHH Hóa Chất Đại Dương,Tên gần giống SUP-143 (Công Ty TNHH Hóa Chất Đại Dương) score=100 — cần xác nhận
+suppliers,SUP-144,FUZZY_DUPLICATE,supplier_name,Công Ty CP Điện Tử Minh Phát,Tên gần giống SUP-101 (Công Ty CP Điện Tử Minh Phát) score=100 — cần xác nhận
+suppliers,SUP-145,FUZZY_DUPLICATE,supplier_name,Công Ty Văn Phòng Phẩm Tiến Đạt,Tên gần giống SUP-103 (Công Ty Văn Phòng Phẩm Tiến Đạt) score=100 — cần xác nhận
+suppliers,SUP-146,FUZZY_DUPLICATE,supplier_name,Công Ty TNHH Phụ Tùng Ô Tô Bền Vững,Tên gần giống SUP-117 (Công Ty TNHH Phụ Tùng Ô Tô Bền Vững) score=100 — cần xác nhận
+suppliers,SUP-147,FUZZY_DUPLICATE,supplier_name,Công Ty TNHH Nông Sản Xanh Sạch,Tên gần giống SUP-105 (Công Ty TNHH Nông Sản Xanh Sạch) score=100 — cần xác nhận
+suppliers,SUP-148,FUZZY_DUPLICATE,supplier_name,Công Ty CP Dệt May Phương Nam,Tên gần giống SUP-139 (Công Ty CP Dệt May Phương Nam) score=100 — cần xác nhận
+suppliers,SUP-139,FUZZY_DUPLICATE,supplier_name,Công Ty CP Dệt May Phương Nam,Tên gần giống SUP-148 (Công Ty CP Dệt May Phương Nam) score=100 — cần xác nhận
+suppliers,SUP-149,FUZZY_DUPLICATE,supplier_name,Công Ty TNHH Thực Phẩm Sao Vàng,Tên gần giống SUP-102 (Công Ty TNHH Thực Phẩm Sao Vàng) score=100 — cần xác nhận
+suppliers,SUP-150,FUZZY_DUPLICATE,supplier_name,Công Ty XD Vật Liệu ABC,Tên gần giống SUP-125 (Công Ty XD Vật Liệu ABC) score=100 — cần xác nhận
+inventory,ITEM-201,STOCK_NEGATIVE,stock_qty,-19,Tồn kho âm → set 0
+inventory,ITEM-227,STOCK_NEGATIVE,stock_qty,-29,Tồn kho âm → set 0
+inventory,ITEM-243,STOCK_NEGATIVE,stock_qty,-21,Tồn kho âm → set 0
+inventory,ITEM-259,STOCK_NEGATIVE,stock_qty,-43,Tồn kho âm → set 0
+inventory,ITEM-211,STOCK_EXCEED_MAX,stock_qty,stock=678 > max=371,Tồn kho vượt sức chứa tối đa — cần xác nhận max_stock
+inventory,ITEM-214,STOCK_EXCEED_MAX,stock_qty,stock=986 > max=434,Tồn kho vượt sức chứa tối đa — cần xác nhận max_stock
+inventory,ITEM-217,STOCK_EXCEED_MAX,stock_qty,stock=988 > max=753,Tồn kho vượt sức chứa tối đa — cần xác nhận max_stock
+inventory,ITEM-218,STOCK_EXCEED_MAX,stock_qty,stock=902 > max=699,Tồn kho vượt sức chứa tối đa — cần xác nhận max_stock
+inventory,ITEM-220,STOCK_EXCEED_MAX,stock_qty,stock=458 > max=390,Tồn kho vượt sức chứa tối đa — cần xác nhận max_stock
+inventory,ITEM-236,STOCK_EXCEED_MAX,stock_qty,stock=955 > max=797,Tồn kho vượt sức chứa tối đa — cần xác nhận max_stock
+inventory,ITEM-242,STOCK_EXCEED_MAX,stock_qty,stock=893 > max=273,Tồn kho vượt sức chứa tối đa — cần xác nhận max_stock
+inventory,ITEM-245,STOCK_EXCEED_MAX,stock_qty,stock=920 > max=789,Tồn kho vượt sức chứa tối đa — cần xác nhận max_stock
+inventory,ITEM-252,STOCK_EXCEED_MAX,stock_qty,stock=905 > max=871,Tồn kho vượt sức chứa tối đa — cần xác nhận max_stock
+inventory,ITEM-253,STOCK_EXCEED_MAX,stock_qty,stock=504 > max=399,Tồn kho vượt sức chứa tối đa — cần xác nhận max_stock
+inventory,ITEM-256,STOCK_EXCEED_MAX,stock_qty,stock=994 > max=303,Tồn kho vượt sức chứa tối đa — cần xác nhận max_stock
+inventory,ITEM-257,STOCK_EXCEED_MAX,stock_qty,stock=807 > max=205,Tồn kho vượt sức chứa tối đa — cần xác nhận max_stock
+inventory,ITEM-258,STOCK_EXCEED_MAX,stock_qty,stock=602 > max=232,Tồn kho vượt sức chứa tối đa — cần xác nhận max_stock
+inventory,ITEM-264,STOCK_EXCEED_MAX,stock_qty,stock=888 > max=305,Tồn kho vượt sức chứa tối đa — cần xác nhận max_stock
+inventory,ITEM-273,STOCK_EXCEED_MAX,stock_qty,stock=763 > max=653,Tồn kho vượt sức chứa tối đa — cần xác nhận max_stock
+inventory,ITEM-276,STOCK_EXCEED_MAX,stock_qty,stock=462 > max=316,Tồn kho vượt sức chứa tối đa — cần xác nhận max_stock
+inventory,ITEM-277,STOCK_EXCEED_MAX,stock_qty,stock=977 > max=284,Tồn kho vượt sức chứa tối đa — cần xác nhận max_stock
+inventory,ITEM-279,STOCK_EXCEED_MAX,stock_qty,stock=695 > max=307,Tồn kho vượt sức chứa tối đa — cần xác nhận max_stock
+inventory,ITEM-280,STOCK_EXCEED_MAX,stock_qty,stock=938 > max=835,Tồn kho vượt sức chứa tối đa — cần xác nhận max_stock
+inventory,ITEM-219,REORDER_GT_MAX,reorder_point × max_stock,reorder=1445 >= max=1420,Hệ thống tự động đặt hàng sẽ không hoạt động
+inventory,ITEM-252,REORDER_GT_MAX,reorder_point × max_stock,reorder=931 >= max=871,Hệ thống tự động đặt hàng sẽ không hoạt động
+inventory,ITEM-269,REORDER_GT_MAX,reorder_point × max_stock,reorder=1465 >= max=1414,Hệ thống tự động đặt hàng sẽ không hoạt động
+inventory,ITEM-279,REORDER_GT_MAX,reorder_point × max_stock,reorder=320 >= max=307,Hệ thống tự động đặt hàng sẽ không hoạt động
+inventory,ITEM-266,COST_ZERO,unit_cost_vnd,0,Giá = 0
+purchase_orders,PO-3007,ORPHAN_PO,supplier_id,SUP-912,supplier_id không tồn tại trong suppliers_clean
+purchase_orders,PO-3008,ORPHAN_PO,supplier_id,SUP-910,supplier_id không tồn tại trong suppliers_clean
+purchase_orders,PO-3104,ORPHAN_PO,supplier_id,SUP-989,supplier_id không tồn tại trong suppliers_clean
+purchase_orders,PO-3137,ORPHAN_PO,supplier_id,SUP-949,supplier_id không tồn tại trong suppliers_clean
+purchase_orders,PO-3170,ORPHAN_PO,supplier_id,SUP-963,supplier_id không tồn tại trong suppliers_clean
+purchase_orders,PO-3209,ORPHAN_PO,supplier_id,SUP-997,supplier_id không tồn tại trong suppliers_clean
+purchase_orders,PO-3210,ORPHAN_PO,supplier_id,SUP-983,supplier_id không tồn tại trong suppliers_clean
+purchase_orders,PO-3216,ORPHAN_PO,supplier_id,SUP-966,supplier_id không tồn tại trong suppliers_clean
+purchase_orders,PO-3229,ORPHAN_PO,supplier_id,SUP-933,supplier_id không tồn tại trong suppliers_clean
+purchase_orders,PO-3243,ORPHAN_PO,supplier_id,SUP-945,supplier_id không tồn tại trong suppliers_clean
+purchase_orders,PO-3254,ORPHAN_PO,supplier_id,SUP-905,supplier_id không tồn tại trong suppliers_clean
+purchase_orders,PO-3256,ORPHAN_PO,supplier_id,SUP-948,supplier_id không tồn tại trong suppliers_clean
+purchase_orders,PO-3276,ORPHAN_PO,supplier_id,SUP-921,supplier_id không tồn tại trong suppliers_clean
+purchase_orders,PO-3086,EXPECTED_BEFORE_ORDER,expected_date × order_date,"order=2024-05-27, expected=2024-05-25",Ngày nhận hàng trước ngày đặt hàng — bất khả thi
+purchase_orders,PO-3093,EXPECTED_BEFORE_ORDER,expected_date × order_date,"order=2023-02-24, expected=2023-02-21",Ngày nhận hàng trước ngày đặt hàng — bất khả thi
+purchase_orders,PO-3094,EXPECTED_BEFORE_ORDER,expected_date × order_date,"order=2024-05-15, expected=2024-05-11",Ngày nhận hàng trước ngày đặt hàng — bất khả thi
+purchase_orders,PO-3115,EXPECTED_BEFORE_ORDER,expected_date × order_date,"order=2023-04-29, expected=2023-04-28",Ngày nhận hàng trước ngày đặt hàng — bất khả thi
+purchase_orders,PO-3132,EXPECTED_BEFORE_ORDER,expected_date × order_date,"order=2023-08-13, expected=2023-08-03",Ngày nhận hàng trước ngày đặt hàng — bất khả thi
+purchase_orders,PO-3147,EXPECTED_BEFORE_ORDER,expected_date × order_date,"order=2024-06-16, expected=2024-06-06",Ngày nhận hàng trước ngày đặt hàng — bất khả thi
+purchase_orders,PO-3149,EXPECTED_BEFORE_ORDER,expected_date × order_date,"order=2024-05-01, expected=2024-04-26",Ngày nhận hàng trước ngày đặt hàng — bất khả thi
+purchase_orders,PO-3163,EXPECTED_BEFORE_ORDER,expected_date × order_date,"order=2023-07-01, expected=2023-06-26",Ngày nhận hàng trước ngày đặt hàng — bất khả thi
+purchase_orders,PO-3164,EXPECTED_BEFORE_ORDER,expected_date × order_date,"order=2024-03-15, expected=2024-03-11",Ngày nhận hàng trước ngày đặt hàng — bất khả thi
+purchase_orders,PO-3199,EXPECTED_BEFORE_ORDER,expected_date × order_date,"order=2024-02-03, expected=2024-01-24",Ngày nhận hàng trước ngày đặt hàng — bất khả thi
+purchase_orders,PO-3233,EXPECTED_BEFORE_ORDER,expected_date × order_date,"order=2024-03-09, expected=2024-03-03",Ngày nhận hàng trước ngày đặt hàng — bất khả thi
+purchase_orders,PO-3261,EXPECTED_BEFORE_ORDER,expected_date × order_date,"order=2023-08-15, expected=2023-08-11",Ngày nhận hàng trước ngày đặt hàng — bất khả thi
+purchase_orders,PO-3275,EXPECTED_BEFORE_ORDER,expected_date × order_date,"order=2023-04-24, expected=2023-04-20",Ngày nhận hàng trước ngày đặt hàng — bất khả thi
+stock_movements,MOV-5092,ORPHAN_REF_PO,reference_po,PO-3249,reference_po không tồn tại trong purchase_orders_clean
+stock_movements,MOV-5140,ORPHAN_REF_PO,reference_po,PO-9480,reference_po không tồn tại trong purchase_orders_clean
+stock_movements,MOV-5149,ORPHAN_REF_PO,reference_po,PO-9816,reference_po không tồn tại trong purchase_orders_clean
+stock_movements,MOV-5233,ORPHAN_REF_PO,reference_po,PO-3278,reference_po không tồn tại trong purchase_orders_clean
+stock_movements,MOV-5304,ORPHAN_REF_PO,reference_po,PO-3249,reference_po không tồn tại trong purchase_orders_clean
+stock_movements,MOV-5367,ORPHAN_REF_PO,reference_po,PO-3151,reference_po không tồn tại trong purchase_orders_clean
+stock_movements,MOV-5393,ORPHAN_REF_PO,reference_po,PO-9491,reference_po không tồn tại trong purchase_orders_clean
+stock_movements,MOV-5433,ORPHAN_REF_PO,reference_po,PO-9113,reference_po không tồn tại trong purchase_orders_clean
+stock_movements,MOV-5465,ORPHAN_REF_PO,reference_po,PO-3278,reference_po không tồn tại trong purchase_orders_clean
+stock_movements,MOV-5532,ORPHAN_REF_PO,reference_po,PO-3249,reference_po không tồn tại trong purchase_orders_clean
+stock_movements,MOV-5546,ORPHAN_REF_PO,reference_po,PO-9792,reference_po không tồn tại trong purchase_orders_clean
+stock_movements,MOV-5549,ORPHAN_REF_PO,reference_po,PO-9841,reference_po không tồn tại trong purchase_orders_clean
+stock_movements,MOV-5571,ORPHAN_REF_PO,reference_po,PO-9009,reference_po không tồn tại trong purchase_orders_clean
+stock_movements,MOV-5627,ORPHAN_REF_PO,reference_po,PO-9718,reference_po không tồn tại trong purchase_orders_clean
+stock_movements,MOV-5727,ORPHAN_REF_PO,reference_po,PO-9790,reference_po không tồn tại trong purchase_orders_clean
+stock_movements,MOV-5742,ORPHAN_REF_PO,reference_po,PO-9389,reference_po không tồn tại trong purchase_orders_clean
+stock_movements,MOV-5760,ORPHAN_REF_PO,reference_po,PO-9751,reference_po không tồn tại trong purchase_orders_clean
+stock_movements,MOV-5767,ORPHAN_REF_PO,reference_po,PO-9120,reference_po không tồn tại trong purchase_orders_clean
+stock_movements,MOV-5891,ORPHAN_REF_PO,reference_po,PO-9122,reference_po không tồn tại trong purchase_orders_clean
+stock_movements,MOV-5932,ORPHAN_REF_PO,reference_po,PO-3278,reference_po không tồn tại trong purchase_orders_clean
+stock_movements,MOV-5056,QTY_NEGATIVE,quantity,-52,Âm trong OUT → đã chuyển thành 52
+stock_movements,MOV-5067,QTY_NEGATIVE,quantity,-3,Âm trong OUT → đã chuyển thành 3
+stock_movements,MOV-5090,QTY_NEGATIVE,quantity,-27,Âm trong OUT → đã chuyển thành 27
+stock_movements,MOV-5091,QTY_NEGATIVE,quantity,-57,Âm trong IN → đã chuyển thành 57
+stock_movements,MOV-5179,QTY_NEGATIVE,quantity,-99,Âm trong IN → đã chuyển thành 99
+stock_movements,MOV-5255,QTY_NEGATIVE,quantity,-79,Âm trong RETURN → đã chuyển thành 79
+stock_movements,MOV-5311,QTY_NEGATIVE,quantity,-28,Âm trong IN → đã chuyển thành 28
+stock_movements,MOV-5314,QTY_NEGATIVE,quantity,-82,Âm trong IN → đã chuyển thành 82
+stock_movements,MOV-5336,QTY_NEGATIVE,quantity,-49,Âm trong IN → đã chuyển thành 49
+stock_movements,MOV-5481,QTY_NEGATIVE,quantity,-33,Âm trong OUT → đã chuyển thành 33
+stock_movements,MOV-5537,QTY_NEGATIVE,quantity,-37,Âm trong IN → đã chuyển thành 37
+stock_movements,MOV-5611,QTY_NEGATIVE,quantity,-32,Âm trong OUT → đã chuyển thành 32
+stock_movements,MOV-5640,QTY_NEGATIVE,quantity,-61,Âm trong OUT → đã chuyển thành 61
+stock_movements,MOV-5656,QTY_NEGATIVE,quantity,-55,Âm trong IN → đã chuyển thành 55
+stock_movements,MOV-5672,QTY_NEGATIVE,quantity,-23,Âm trong OUT → đã chuyển thành 23
+stock_movements,MOV-5844,QTY_NEGATIVE,quantity,-5,Âm trong IN → đã chuyển thành 5
+stock_movements,MOV-5895,QTY_NEGATIVE,quantity,-93,Âm trong RETURN → đã chuyển thành 93
+stock_movements,MOV-5914,QTY_NEGATIVE,quantity,-10,Âm trong RETURN → đã chuyển thành 10
+stock_movements,MOV-5940,QTY_NEGATIVE,quantity,-22,Âm trong IN → đã chuyển thành 22
+stock_movements,MOV-5944,QTY_NEGATIVE,quantity,-63,Âm trong IN → đã chuyển thành 63
+stock_movements,MOV-5965,QTY_NEGATIVE,quantity,-13,Âm trong IN → đã chuyển thành 13
+stock_movements,MOV-5994,QTY_NEGATIVE,quantity,-97,Âm trong IN → đã chuyển thành 97
+stock_movements,MOV-5025,NEGATIVE_BALANCE,running_balance,-478,Balance tích lũy âm (-478) sau MOV-5025 (opening=-563) — kiểm tra movement trước đó
+stock_movements,MOV-5854,NEGATIVE_BALANCE,running_balance,-441,Balance tích lũy âm (-441) sau MOV-5854 (opening=-563) — kiểm tra movement trước đó
+stock_movements,MOV-5601,NEGATIVE_BALANCE,running_balance,-504,Balance tích lũy âm (-504) sau MOV-5601 (opening=-563) — kiểm tra movement trước đó
+stock_movements,MOV-5670,NEGATIVE_BALANCE,running_balance,-428,Balance tích lũy âm (-428) sau MOV-5670 (opening=-563) — kiểm tra movement trước đó
+stock_movements,MOV-5083,NEGATIVE_BALANCE,running_balance,-378,Balance tích lũy âm (-378) sau MOV-5083 (opening=-563) — kiểm tra movement trước đó
+stock_movements,MOV-5645,NEGATIVE_BALANCE,running_balance,-306,Balance tích lũy âm (-306) sau MOV-5645 (opening=-563) — kiểm tra movement trước đó
+stock_movements,MOV-5679,NEGATIVE_BALANCE,running_balance,-309,Balance tích lũy âm (-309) sau MOV-5679 (opening=-563) — kiểm tra movement trước đó
+stock_movements,MOV-5896,NEGATIVE_BALANCE,running_balance,-236,Balance tích lũy âm (-236) sau MOV-5896 (opening=-563) — kiểm tra movement trước đó
+stock_movements,MOV-5181,NEGATIVE_BALANCE,running_balance,-152,Balance tích lũy âm (-152) sau MOV-5181 (opening=-563) — kiểm tra movement trước đó
+stock_movements,MOV-5108,NEGATIVE_BALANCE,running_balance,-113,Balance tích lũy âm (-113) sau MOV-5108 (opening=-563) — kiểm tra movement trước đó
+stock_movements,MOV-5869,NEGATIVE_BALANCE,running_balance,-33,Balance tích lũy âm (-33) sau MOV-5869 (opening=-563) — kiểm tra movement trước đó
+stock_movements,MOV-5848,NEGATIVE_BALANCE,running_balance,-47,Balance tích lũy âm (-47) sau MOV-5848 (opening=-127) — kiểm tra movement trước đó
+stock_movements,MOV-5559,NEGATIVE_BALANCE,running_balance,-39,Balance tích lũy âm (-39) sau MOV-5559 (opening=-127) — kiểm tra movement trước đó
+stock_movements,MOV-5213,NEGATIVE_BALANCE,running_balance,-30,Balance tích lũy âm (-30) sau MOV-5213 (opening=-127) — kiểm tra movement trước đó
+stock_movements,MOV-5158,NEGATIVE_BALANCE,running_balance,-69,Balance tích lũy âm (-69) sau MOV-5158 (opening=-127) — kiểm tra movement trước đó
+stock_movements,MOV-5575,NEGATIVE_BALANCE,running_balance,-137,Balance tích lũy âm (-137) sau MOV-5575 (opening=-207) — kiểm tra movement trước đó
+stock_movements,MOV-5609,NEGATIVE_BALANCE,running_balance,-88,Balance tích lũy âm (-88) sau MOV-5609 (opening=-207) — kiểm tra movement trước đó
+stock_movements,MOV-5274,NEGATIVE_BALANCE,running_balance,-39,Balance tích lũy âm (-39) sau MOV-5274 (opening=-207) — kiểm tra movement trước đó
+stock_movements,MOV-5777,NEGATIVE_BALANCE,running_balance,-161,Balance tích lũy âm (-161) sau MOV-5777 (opening=-185) — kiểm tra movement trước đó
+stock_movements,MOV-5748,NEGATIVE_BALANCE,running_balance,-100,Balance tích lũy âm (-100) sau MOV-5748 (opening=-185) — kiểm tra movement trước đó
+stock_movements,MOV-5431,NEGATIVE_BALANCE,running_balance,-52,Balance tích lũy âm (-52) sau MOV-5431 (opening=-185) — kiểm tra movement trước đó
+stock_movements,MOV-5309,NEGATIVE_BALANCE,running_balance,-27,Balance tích lũy âm (-27) sau MOV-5309 (opening=-185) — kiểm tra movement trước đó
+stock_movements,MOV-5927,NEGATIVE_BALANCE,running_balance,-35,Balance tích lũy âm (-35) sau MOV-5927 (opening=-185) — kiểm tra movement trước đó
+stock_movements,MOV-5131,NEGATIVE_BALANCE,running_balance,-67,Balance tích lũy âm (-67) sau MOV-5131 (opening=-131) — kiểm tra movement trước đó
+stock_movements,MOV-5073,NEGATIVE_BALANCE,running_balance,-88,Balance tích lũy âm (-88) sau MOV-5073 (opening=-131) — kiểm tra movement trước đó
+stock_movements,MOV-5182,NEGATIVE_BALANCE,running_balance,-46,Balance tích lũy âm (-46) sau MOV-5182 (opening=-131) — kiểm tra movement trước đó
+stock_movements,MOV-5553,NEGATIVE_BALANCE,running_balance,-353,Balance tích lũy âm (-353) sau MOV-5553 (opening=-432) — kiểm tra movement trước đó
+stock_movements,MOV-5769,NEGATIVE_BALANCE,running_balance,-318,Balance tích lũy âm (-318) sau MOV-5769 (opening=-432) — kiểm tra movement trước đó
+stock_movements,MOV-5424,NEGATIVE_BALANCE,running_balance,-298,Balance tích lũy âm (-298) sau MOV-5424 (opening=-432) — kiểm tra movement trước đó
+stock_movements,MOV-5583,NEGATIVE_BALANCE,running_balance,-236,Balance tích lũy âm (-236) sau MOV-5583 (opening=-432) — kiểm tra movement trước đó
+stock_movements,MOV-5699,NEGATIVE_BALANCE,running_balance,-299,Balance tích lũy âm (-299) sau MOV-5699 (opening=-432) — kiểm tra movement trước đó
+stock_movements,MOV-5036,NEGATIVE_BALANCE,running_balance,-224,Balance tích lũy âm (-224) sau MOV-5036 (opening=-432) — kiểm tra movement trước đó
+stock_movements,MOV-5734,NEGATIVE_BALANCE,running_balance,-150,Balance tích lũy âm (-150) sau MOV-5734 (opening=-432) — kiểm tra movement trước đó
+stock_movements,MOV-5020,NEGATIVE_BALANCE,running_balance,-81,Balance tích lũy âm (-81) sau MOV-5020 (opening=-432) — kiểm tra movement trước đó
+stock_movements,MOV-5116,NEGATIVE_BALANCE,running_balance,-78,Balance tích lũy âm (-78) sau MOV-5116 (opening=-432) — kiểm tra movement trước đó
+stock_movements,MOV-5031,NEGATIVE_BALANCE,running_balance,-59,Balance tích lũy âm (-59) sau MOV-5031 (opening=-432) — kiểm tra movement trước đó
+stock_movements,MOV-5220,NEGATIVE_BALANCE,running_balance,-339,Balance tích lũy âm (-339) sau MOV-5220 (opening=-265) — kiểm tra movement trước đó
+stock_movements,MOV-5110,NEGATIVE_BALANCE,running_balance,-245,Balance tích lũy âm (-245) sau MOV-5110 (opening=-265) — kiểm tra movement trước đó
+stock_movements,MOV-5234,NEGATIVE_BALANCE,running_balance,-221,Balance tích lũy âm (-221) sau MOV-5234 (opening=-265) — kiểm tra movement trước đó
+stock_movements,MOV-5227,NEGATIVE_BALANCE,running_balance,-183,Balance tích lũy âm (-183) sau MOV-5227 (opening=-265) — kiểm tra movement trước đó
+stock_movements,MOV-5588,NEGATIVE_BALANCE,running_balance,-107,Balance tích lũy âm (-107) sau MOV-5588 (opening=-265) — kiểm tra movement trước đó
+stock_movements,MOV-5065,NEGATIVE_BALANCE,running_balance,-37,Balance tích lũy âm (-37) sau MOV-5065 (opening=-265) — kiểm tra movement trước đó
+stock_movements,MOV-5422,NEGATIVE_BALANCE,running_balance,-31,Balance tích lũy âm (-31) sau MOV-5422 (opening=-265) — kiểm tra movement trước đó
+stock_movements,MOV-5233,NEGATIVE_BALANCE,running_balance,-31,Balance tích lũy âm (-31) sau MOV-5233 (opening=-265) — kiểm tra movement trước đó
+stock_movements,MOV-5396,NEGATIVE_BALANCE,running_balance,-26,Balance tích lũy âm (-26) sau MOV-5396 (opening=-265) — kiểm tra movement trước đó
+stock_movements,MOV-5088,NEGATIVE_BALANCE,running_balance,-13,Balance tích lũy âm (-13) sau MOV-5088 (opening=-265) — kiểm tra movement trước đó
+stock_movements,MOV-5097,NEGATIVE_BALANCE,running_balance,-251,Balance tích lũy âm (-251) sau MOV-5097 (opening=-231) — kiểm tra movement trước đó
+stock_movements,MOV-5432,NEGATIVE_BALANCE,running_balance,-241,Balance tích lũy âm (-241) sau MOV-5432 (opening=-231) — kiểm tra movement trước đó
+stock_movements,MOV-5455,NEGATIVE_BALANCE,running_balance,-200,Balance tích lũy âm (-200) sau MOV-5455 (opening=-231) — kiểm tra movement trước đó
+stock_movements,MOV-5228,NEGATIVE_BALANCE,running_balance,-146,Balance tích lũy âm (-146) sau MOV-5228 (opening=-231) — kiểm tra movement trước đó
+stock_movements,MOV-5268,NEGATIVE_BALANCE,running_balance,-81,Balance tích lũy âm (-81) sau MOV-5268 (opening=-231) — kiểm tra movement trước đó
+stock_movements,MOV-5883,NEGATIVE_BALANCE,running_balance,-187,Balance tích lũy âm (-187) sau MOV-5883 (opening=-167) — kiểm tra movement trước đó
+stock_movements,MOV-5306,NEGATIVE_BALANCE,running_balance,-89,Balance tích lũy âm (-89) sau MOV-5306 (opening=-167) — kiểm tra movement trước đó
+stock_movements,MOV-5333,NEGATIVE_BALANCE,running_balance,-88,Balance tích lũy âm (-88) sau MOV-5333 (opening=-167) — kiểm tra movement trước đó
+stock_movements,MOV-5608,NEGATIVE_BALANCE,running_balance,-188,Balance tích lũy âm (-188) sau MOV-5608 (opening=-167) — kiểm tra movement trước đó
+stock_movements,MOV-5019,NEGATIVE_BALANCE,running_balance,-110,Balance tích lũy âm (-110) sau MOV-5019 (opening=-167) — kiểm tra movement trước đó
+stock_movements,MOV-5175,NEGATIVE_BALANCE,running_balance,-47,Balance tích lũy âm (-47) sau MOV-5175 (opening=-167) — kiểm tra movement trước đó
+stock_movements,MOV-5122,NEGATIVE_BALANCE,running_balance,-106,Balance tích lũy âm (-106) sau MOV-5122 (opening=-203) — kiểm tra movement trước đó
+stock_movements,MOV-5857,NEGATIVE_BALANCE,running_balance,-84,Balance tích lũy âm (-84) sau MOV-5857 (opening=-203) — kiểm tra movement trước đó
+stock_movements,MOV-5402,NEGATIVE_BALANCE,running_balance,-26,Balance tích lũy âm (-26) sau MOV-5402 (opening=-203) — kiểm tra movement trước đó
+stock_movements,MOV-5048,NEGATIVE_BALANCE,running_balance,-113,Balance tích lũy âm (-113) sau MOV-5048 (opening=-203) — kiểm tra movement trước đó
+stock_movements,MOV-5517,NEGATIVE_BALANCE,running_balance,-127,Balance tích lũy âm (-127) sau MOV-5517 (opening=-203) — kiểm tra movement trước đó
+stock_movements,MOV-5870,NEGATIVE_BALANCE,running_balance,-143,Balance tích lũy âm (-143) sau MOV-5870 (opening=-203) — kiểm tra movement trước đó
+stock_movements,MOV-5737,NEGATIVE_BALANCE,running_balance,-170,Balance tích lũy âm (-170) sau MOV-5737 (opening=-203) — kiểm tra movement trước đó
+stock_movements,MOV-5327,NEGATIVE_BALANCE,running_balance,-137,Balance tích lũy âm (-137) sau MOV-5327 (opening=-203) — kiểm tra movement trước đó
+stock_movements,MOV-5030,NEGATIVE_BALANCE,running_balance,-184,Balance tích lũy âm (-184) sau MOV-5030 (opening=-203) — kiểm tra movement trước đó
+stock_movements,MOV-5969,NEGATIVE_BALANCE,running_balance,-209,Balance tích lũy âm (-209) sau MOV-5969 (opening=-203) — kiểm tra movement trước đó
+stock_movements,MOV-5382,NEGATIVE_BALANCE,running_balance,-117,Balance tích lũy âm (-117) sau MOV-5382 (opening=-203) — kiểm tra movement trước đó
+stock_movements,MOV-5733,NEGATIVE_BALANCE,running_balance,-18,Balance tích lũy âm (-18) sau MOV-5733 (opening=-203) — kiểm tra movement trước đó
+stock_movements,MOV-5210,NEGATIVE_BALANCE,running_balance,-53,Balance tích lũy âm (-53) sau MOV-5210 (opening=46) — kiểm tra movement trước đó
+stock_movements,MOV-5819,NEGATIVE_BALANCE,running_balance,-445,Balance tích lũy âm (-445) sau MOV-5819 (opening=-451) — kiểm tra movement trước đó
+stock_movements,MOV-5478,NEGATIVE_BALANCE,running_balance,-508,Balance tích lũy âm (-508) sau MOV-5478 (opening=-451) — kiểm tra movement trước đó
+stock_movements,MOV-5289,NEGATIVE_BALANCE,running_balance,-580,Balance tích lũy âm (-580) sau MOV-5289 (opening=-451) — kiểm tra movement trước đó
+stock_movements,MOV-5892,NEGATIVE_BALANCE,running_balance,-484,Balance tích lũy âm (-484) sau MOV-5892 (opening=-451) — kiểm tra movement trước đó
+stock_movements,MOV-5970,NEGATIVE_BALANCE,running_balance,-463,Balance tích lũy âm (-463) sau MOV-5970 (opening=-451) — kiểm tra movement trước đó
+stock_movements,MOV-5071,NEGATIVE_BALANCE,running_balance,-438,Balance tích lũy âm (-438) sau MOV-5071 (opening=-451) — kiểm tra movement trước đó
+stock_movements,MOV-5086,NEGATIVE_BALANCE,running_balance,-407,Balance tích lũy âm (-407) sau MOV-5086 (opening=-451) — kiểm tra movement trước đó
+stock_movements,MOV-5365,NEGATIVE_BALANCE,running_balance,-383,Balance tích lũy âm (-383) sau MOV-5365 (opening=-451) — kiểm tra movement trước đó
+stock_movements,MOV-5011,NEGATIVE_BALANCE,running_balance,-358,Balance tích lũy âm (-358) sau MOV-5011 (opening=-451) — kiểm tra movement trước đó
+stock_movements,MOV-5509,NEGATIVE_BALANCE,running_balance,-321,Balance tích lũy âm (-321) sau MOV-5509 (opening=-451) — kiểm tra movement trước đó
+stock_movements,MOV-5563,NEGATIVE_BALANCE,running_balance,-291,Balance tích lũy âm (-291) sau MOV-5563 (opening=-451) — kiểm tra movement trước đó
+stock_movements,MOV-5009,NEGATIVE_BALANCE,running_balance,-232,Balance tích lũy âm (-232) sau MOV-5009 (opening=-451) — kiểm tra movement trước đó
+stock_movements,MOV-5184,NEGATIVE_BALANCE,running_balance,-132,Balance tích lũy âm (-132) sau MOV-5184 (opening=-451) — kiểm tra movement trước đó
+stock_movements,MOV-5317,NEGATIVE_BALANCE,running_balance,-101,Balance tích lũy âm (-101) sau MOV-5317 (opening=-451) — kiểm tra movement trước đó
+stock_movements,MOV-5296,NEGATIVE_BALANCE,running_balance,-10,Balance tích lũy âm (-10) sau MOV-5296 (opening=-451) — kiểm tra movement trước đó
+stock_movements,MOV-5742,NEGATIVE_BALANCE,running_balance,-10,Balance tích lũy âm (-10) sau MOV-5742 (opening=-451) — kiểm tra movement trước đó
+stock_movements,MOV-5101,NEGATIVE_BALANCE,running_balance,-258,Balance tích lũy âm (-258) sau MOV-5101 (opening=-284) — kiểm tra movement trước đó
+stock_movements,MOV-5594,NEGATIVE_BALANCE,running_balance,-224,Balance tích lũy âm (-224) sau MOV-5594 (opening=-284) — kiểm tra movement trước đó
+stock_movements,MOV-5408,NEGATIVE_BALANCE,running_balance,-189,Balance tích lũy âm (-189) sau MOV-5408 (opening=-284) — kiểm tra movement trước đó
+stock_movements,MOV-5826,NEGATIVE_BALANCE,running_balance,-107,Balance tích lũy âm (-107) sau MOV-5826 (opening=-284) — kiểm tra movement trước đó
+stock_movements,MOV-5374,NEGATIVE_BALANCE,running_balance,-123,Balance tích lũy âm (-123) sau MOV-5374 (opening=-284) — kiểm tra movement trước đó
+stock_movements,MOV-5629,NEGATIVE_BALANCE,running_balance,-121,Balance tích lũy âm (-121) sau MOV-5629 (opening=-284) — kiểm tra movement trước đó
+stock_movements,MOV-5880,NEGATIVE_BALANCE,running_balance,-127,Balance tích lũy âm (-127) sau MOV-5880 (opening=-284) — kiểm tra movement trước đó
+stock_movements,MOV-5523,NEGATIVE_BALANCE,running_balance,-81,Balance tích lũy âm (-81) sau MOV-5523 (opening=-284) — kiểm tra movement trước đó
+stock_movements,MOV-5773,NEGATIVE_BALANCE,running_balance,-167,Balance tích lũy âm (-167) sau MOV-5773 (opening=-284) — kiểm tra movement trước đó
+stock_movements,MOV-5319,NEGATIVE_BALANCE,running_balance,-234,Balance tích lũy âm (-234) sau MOV-5319 (opening=-284) — kiểm tra movement trước đó
+stock_movements,MOV-5312,NEGATIVE_BALANCE,running_balance,-198,Balance tích lũy âm (-198) sau MOV-5312 (opening=-284) — kiểm tra movement trước đó
+stock_movements,MOV-5468,NEGATIVE_BALANCE,running_balance,-127,Balance tích lũy âm (-127) sau MOV-5468 (opening=-284) — kiểm tra movement trước đó
+stock_movements,MOV-5420,NEGATIVE_BALANCE,running_balance,-72,Balance tích lũy âm (-72) sau MOV-5420 (opening=-284) — kiểm tra movement trước đó
+stock_movements,MOV-5280,NEGATIVE_BALANCE,running_balance,-41,Balance tích lũy âm (-41) sau MOV-5280 (opening=-284) — kiểm tra movement trước đó
+stock_movements,MOV-5001,NEGATIVE_BALANCE,running_balance,-451,Balance tích lũy âm (-451) sau MOV-5001 (opening=-544) — kiểm tra movement trước đó
+stock_movements,MOV-5511,NEGATIVE_BALANCE,running_balance,-417,Balance tích lũy âm (-417) sau MOV-5511 (opening=-544) — kiểm tra movement trước đó
+stock_movements,MOV-5442,NEGATIVE_BALANCE,running_balance,-482,Balance tích lũy âm (-482) sau MOV-5442 (opening=-544) — kiểm tra movement trước đó
+stock_movements,MOV-5259,NEGATIVE_BALANCE,running_balance,-450,Balance tích lũy âm (-450) sau MOV-5259 (opening=-544) — kiểm tra movement trước đó
+stock_movements,MOV-5004,NEGATIVE_BALANCE,running_balance,-441,Balance tích lũy âm (-441) sau MOV-5004 (opening=-544) — kiểm tra movement trước đó
+stock_movements,MOV-5160,NEGATIVE_BALANCE,running_balance,-428,Balance tích lũy âm (-428) sau MOV-5160 (opening=-544) — kiểm tra movement trước đó
+stock_movements,MOV-5999,NEGATIVE_BALANCE,running_balance,-344,Balance tích lũy âm (-344) sau MOV-5999 (opening=-544) — kiểm tra movement trước đó
+stock_movements,MOV-5285,NEGATIVE_BALANCE,running_balance,-248,Balance tích lũy âm (-248) sau MOV-5285 (opening=-544) — kiểm tra movement trước đó
+stock_movements,MOV-5721,NEGATIVE_BALANCE,running_balance,-152,Balance tích lũy âm (-152) sau MOV-5721 (opening=-544) — kiểm tra movement trước đó
+stock_movements,MOV-5271,NEGATIVE_BALANCE,running_balance,-125,Balance tích lũy âm (-125) sau MOV-5271 (opening=-544) — kiểm tra movement trước đó
+stock_movements,MOV-5454,NEGATIVE_BALANCE,running_balance,-81,Balance tích lũy âm (-81) sau MOV-5454 (opening=-544) — kiểm tra movement trước đó
+stock_movements,MOV-5222,NEGATIVE_BALANCE,running_balance,-19,Balance tích lũy âm (-19) sau MOV-5222 (opening=-50) — kiểm tra movement trước đó
+stock_movements,MOV-5118,NEGATIVE_BALANCE,running_balance,-293,Balance tích lũy âm (-293) sau MOV-5118 (opening=-303) — kiểm tra movement trước đó
+stock_movements,MOV-5219,NEGATIVE_BALANCE,running_balance,-387,Balance tích lũy âm (-387) sau MOV-5219 (opening=-303) — kiểm tra movement trước đó
+stock_movements,MOV-5316,NEGATIVE_BALANCE,running_balance,-307,Balance tích lũy âm (-307) sau MOV-5316 (opening=-303) — kiểm tra movement trước đó
+stock_movements,MOV-5223,NEGATIVE_BALANCE,running_balance,-296,Balance tích lũy âm (-296) sau MOV-5223 (opening=-303) — kiểm tra movement trước đó
+stock_movements,MOV-5343,NEGATIVE_BALANCE,running_balance,-386,Balance tích lũy âm (-386) sau MOV-5343 (opening=-303) — kiểm tra movement trước đó
+stock_movements,MOV-5503,NEGATIVE_BALANCE,running_balance,-346,Balance tích lũy âm (-346) sau MOV-5503 (opening=-303) — kiểm tra movement trước đó
+stock_movements,MOV-5395,NEGATIVE_BALANCE,running_balance,-255,Balance tích lũy âm (-255) sau MOV-5395 (opening=-303) — kiểm tra movement trước đó
+stock_movements,MOV-5311,NEGATIVE_BALANCE,running_balance,-227,Balance tích lũy âm (-227) sau MOV-5311 (opening=-303) — kiểm tra movement trước đó
+stock_movements,MOV-5596,NEGATIVE_BALANCE,running_balance,-160,Balance tích lũy âm (-160) sau MOV-5596 (opening=-303) — kiểm tra movement trước đó
+stock_movements,MOV-5052,NEGATIVE_BALANCE,running_balance,-127,Balance tích lũy âm (-127) sau MOV-5052 (opening=-303) — kiểm tra movement trước đó
+stock_movements,MOV-5258,NEGATIVE_BALANCE,running_balance,-101,Balance tích lũy âm (-101) sau MOV-5258 (opening=-303) — kiểm tra movement trước đó
+stock_movements,MOV-5321,NEGATIVE_BALANCE,running_balance,-61,Balance tích lũy âm (-61) sau MOV-5321 (opening=-303) — kiểm tra movement trước đó
+stock_movements,MOV-5640,NEGATIVE_BALANCE,running_balance,-537,Balance tích lũy âm (-537) sau MOV-5640 (opening=-476) — kiểm tra movement trước đó
+stock_movements,MOV-5387,NEGATIVE_BALANCE,running_balance,-491,Balance tích lũy âm (-491) sau MOV-5387 (opening=-476) — kiểm tra movement trước đó
+stock_movements,MOV-5519,NEGATIVE_BALANCE,running_balance,-528,Balance tích lũy âm (-528) sau MOV-5519 (opening=-476) — kiểm tra movement trước đó
+stock_movements,MOV-5170,NEGATIVE_BALANCE,running_balance,-467,Balance tích lũy âm (-467) sau MOV-5170 (opening=-476) — kiểm tra movement trước đó
+stock_movements,MOV-5357,NEGATIVE_BALANCE,running_balance,-393,Balance tích lũy âm (-393) sau MOV-5357 (opening=-476) — kiểm tra movement trước đó
+stock_movements,MOV-5032,NEGATIVE_BALANCE,running_balance,-338,Balance tích lũy âm (-338) sau MOV-5032 (opening=-476) — kiểm tra movement trước đó
+stock_movements,MOV-5058,NEGATIVE_BALANCE,running_balance,-255,Balance tích lũy âm (-255) sau MOV-5058 (opening=-476) — kiểm tra movement trước đó
+stock_movements,MOV-5192,NEGATIVE_BALANCE,running_balance,-175,Balance tích lũy âm (-175) sau MOV-5192 (opening=-476) — kiểm tra movement trước đó
+stock_movements,MOV-5647,NEGATIVE_BALANCE,running_balance,-143,Balance tích lũy âm (-143) sau MOV-5647 (opening=-476) — kiểm tra movement trước đó
+stock_movements,MOV-5714,NEGATIVE_BALANCE,running_balance,-46,Balance tích lũy âm (-46) sau MOV-5714 (opening=-476) — kiểm tra movement trước đó
+stock_movements,MOV-5325,NEGATIVE_BALANCE,running_balance,-178,Balance tích lũy âm (-178) sau MOV-5325 (opening=-203) — kiểm tra movement trước đó
+stock_movements,MOV-5091,NEGATIVE_BALANCE,running_balance,-121,Balance tích lũy âm (-121) sau MOV-5091 (opening=-203) — kiểm tra movement trước đó
+stock_movements,MOV-5119,NEGATIVE_BALANCE,running_balance,-115,Balance tích lũy âm (-115) sau MOV-5119 (opening=-203) — kiểm tra movement trước đó
+stock_movements,MOV-5633,NEGATIVE_BALANCE,running_balance,-73,Balance tích lũy âm (-73) sau MOV-5633 (opening=-203) — kiểm tra movement trước đó
+stock_movements,MOV-5797,NEGATIVE_BALANCE,running_balance,-49,Balance tích lũy âm (-49) sau MOV-5797 (opening=-203) — kiểm tra movement trước đó
+stock_movements,MOV-5918,NEGATIVE_BALANCE,running_balance,-16,Balance tích lũy âm (-16) sau MOV-5918 (opening=-203) — kiểm tra movement trước đó
+stock_movements,MOV-5207,NEGATIVE_BALANCE,running_balance,-256,Balance tích lũy âm (-256) sau MOV-5207 (opening=-242) — kiểm tra movement trước đó
+stock_movements,MOV-5622,NEGATIVE_BALANCE,running_balance,-350,Balance tích lũy âm (-350) sau MOV-5622 (opening=-242) — kiểm tra movement trước đó
+stock_movements,MOV-5847,NEGATIVE_BALANCE,running_balance,-333,Balance tích lũy âm (-333) sau MOV-5847 (opening=-242) — kiểm tra movement trước đó
+stock_movements,MOV-5876,NEGATIVE_BALANCE,running_balance,-241,Balance tích lũy âm (-241) sau MOV-5876 (opening=-242) — kiểm tra movement trước đó
+stock_movements,MOV-5926,NEGATIVE_BALANCE,running_balance,-338,Balance tích lũy âm (-338) sau MOV-5926 (opening=-242) — kiểm tra movement trước đó
+stock_movements,MOV-5531,NEGATIVE_BALANCE,running_balance,-248,Balance tích lũy âm (-248) sau MOV-5531 (opening=-242) — kiểm tra movement trước đó
+stock_movements,MOV-5983,NEGATIVE_BALANCE,running_balance,-170,Balance tích lũy âm (-170) sau MOV-5983 (opening=-242) — kiểm tra movement trước đó
+stock_movements,MOV-5757,NEGATIVE_BALANCE,running_balance,-146,Balance tích lũy âm (-146) sau MOV-5757 (opening=-242) — kiểm tra movement trước đó
+stock_movements,MOV-5884,NEGATIVE_BALANCE,running_balance,-172,Balance tích lũy âm (-172) sau MOV-5884 (opening=-242) — kiểm tra movement trước đó
+stock_movements,MOV-5450,NEGATIVE_BALANCE,running_balance,-131,Balance tích lũy âm (-131) sau MOV-5450 (opening=-242) — kiểm tra movement trước đó
+stock_movements,MOV-5406,NEGATIVE_BALANCE,running_balance,-231,Balance tích lũy âm (-231) sau MOV-5406 (opening=-242) — kiểm tra movement trước đó
+stock_movements,MOV-5984,NEGATIVE_BALANCE,running_balance,-147,Balance tích lũy âm (-147) sau MOV-5984 (opening=-242) — kiểm tra movement trước đó
+stock_movements,MOV-5362,NEGATIVE_BALANCE,running_balance,-71,Balance tích lũy âm (-71) sau MOV-5362 (opening=-242) — kiểm tra movement trước đó
+stock_movements,MOV-5344,NEGATIVE_BALANCE,running_balance,-159,Balance tích lũy âm (-159) sau MOV-5344 (opening=-94) — kiểm tra movement trước đó
+stock_movements,MOV-5599,NEGATIVE_BALANCE,running_balance,-87,Balance tích lũy âm (-87) sau MOV-5599 (opening=-94) — kiểm tra movement trước đó
+stock_movements,MOV-5666,NEGATIVE_BALANCE,running_balance,-27,Balance tích lũy âm (-27) sau MOV-5666 (opening=-94) — kiểm tra movement trước đó
+stock_movements,MOV-5635,NEGATIVE_BALANCE,running_balance,-16,Balance tích lũy âm (-16) sau MOV-5635 (opening=-94) — kiểm tra movement trước đó
+stock_movements,MOV-5902,NEGATIVE_BALANCE,running_balance,-15,Balance tích lũy âm (-15) sau MOV-5902 (opening=-94) — kiểm tra movement trước đó
+stock_movements,MOV-5787,NEGATIVE_BALANCE,running_balance,-96,Balance tích lũy âm (-96) sau MOV-5787 (opening=-94) — kiểm tra movement trước đó
+stock_movements,MOV-5745,NEGATIVE_BALANCE,running_balance,-7,Balance tích lũy âm (-7) sau MOV-5745 (opening=-94) — kiểm tra movement trước đó
+stock_movements,MOV-5487,NEGATIVE_BALANCE,running_balance,-53,Balance tích lũy âm (-53) sau MOV-5487 (opening=-57) — kiểm tra movement trước đó
+stock_movements,MOV-5539,NEGATIVE_BALANCE,running_balance,-62,Balance tích lũy âm (-62) sau MOV-5539 (opening=-57) — kiểm tra movement trước đó
+stock_movements,MOV-5356,NEGATIVE_BALANCE,running_balance,-25,Balance tích lũy âm (-25) sau MOV-5356 (opening=-57) — kiểm tra movement trước đó
+stock_movements,MOV-5993,NEGATIVE_BALANCE,running_balance,-101,Balance tích lũy âm (-101) sau MOV-5993 (opening=-57) — kiểm tra movement trước đó
+stock_movements,MOV-5397,NEGATIVE_BALANCE,running_balance,-19,Balance tích lũy âm (-19) sau MOV-5397 (opening=-57) — kiểm tra movement trước đó
+stock_movements,MOV-5581,NEGATIVE_BALANCE,running_balance,-60,Balance tích lũy âm (-60) sau MOV-5581 (opening=-57) — kiểm tra movement trước đó
+stock_movements,MOV-5624,NEGATIVE_BALANCE,running_balance,-8,Balance tích lũy âm (-8) sau MOV-5624 (opening=-57) — kiểm tra movement trước đó
+stock_movements,MOV-5167,NEGATIVE_BALANCE,running_balance,-1,Balance tích lũy âm (-1) sau MOV-5167 (opening=-57) — kiểm tra movement trước đó
+stock_movements,MOV-5882,NEGATIVE_BALANCE,running_balance,-318,Balance tích lũy âm (-318) sau MOV-5882 (opening=-344) — kiểm tra movement trước đó
+stock_movements,MOV-5021,NEGATIVE_BALANCE,running_balance,-268,Balance tích lũy âm (-268) sau MOV-5021 (opening=-344) — kiểm tra movement trước đó
+stock_movements,MOV-5525,NEGATIVE_BALANCE,running_balance,-228,Balance tích lũy âm (-228) sau MOV-5525 (opening=-344) — kiểm tra movement trước đó
+stock_movements,MOV-5923,NEGATIVE_BALANCE,running_balance,-218,Balance tích lũy âm (-218) sau MOV-5923 (opening=-344) — kiểm tra movement trước đó
+stock_movements,MOV-5987,NEGATIVE_BALANCE,running_balance,-179,Balance tích lũy âm (-179) sau MOV-5987 (opening=-344) — kiểm tra movement trước đó
+stock_movements,MOV-5430,NEGATIVE_BALANCE,running_balance,-206,Balance tích lũy âm (-206) sau MOV-5430 (opening=-344) — kiểm tra movement trước đó
+stock_movements,MOV-5790,NEGATIVE_BALANCE,running_balance,-146,Balance tích lũy âm (-146) sau MOV-5790 (opening=-344) — kiểm tra movement trước đó
+stock_movements,MOV-5028,NEGATIVE_BALANCE,running_balance,-55,Balance tích lũy âm (-55) sau MOV-5028 (opening=-344) — kiểm tra movement trước đó
+stock_movements,MOV-5324,NEGATIVE_BALANCE,running_balance,-22,Balance tích lũy âm (-22) sau MOV-5324 (opening=-344) — kiểm tra movement trước đó
+stock_movements,MOV-5492,NEGATIVE_BALANCE,running_balance,-49,Balance tích lũy âm (-49) sau MOV-5492 (opening=-52) — kiểm tra movement trước đó
+stock_movements,MOV-5463,NEGATIVE_BALANCE,running_balance,-2,Balance tích lũy âm (-2) sau MOV-5463 (opening=-52) — kiểm tra movement trước đó
+stock_movements,MOV-5425,NEGATIVE_BALANCE,running_balance,-24,Balance tích lũy âm (-24) sau MOV-5425 (opening=-52) — kiểm tra movement trước đó
+stock_movements,MOV-5585,NEGATIVE_BALANCE,running_balance,-123,Balance tích lũy âm (-123) sau MOV-5585 (opening=-52) — kiểm tra movement trước đó
+stock_movements,MOV-5473,NEGATIVE_BALANCE,running_balance,-25,Balance tích lũy âm (-25) sau MOV-5473 (opening=-52) — kiểm tra movement trước đó
+stock_movements,MOV-5332,NEGATIVE_BALANCE,running_balance,-6,Balance tích lũy âm (-6) sau MOV-5332 (opening=-52) — kiểm tra movement trước đó
+stock_movements,MOV-5691,NEGATIVE_BALANCE,running_balance,-3,Balance tích lũy âm (-3) sau MOV-5691 (opening=-52) — kiểm tra movement trước đó
+stock_movements,MOV-5981,NEGATIVE_BALANCE,running_balance,-96,Balance tích lũy âm (-96) sau MOV-5981 (opening=-175) — kiểm tra movement trước đó
+stock_movements,MOV-5996,NEGATIVE_BALANCE,running_balance,-62,Balance tích lũy âm (-62) sau MOV-5996 (opening=-175) — kiểm tra movement trước đó
+stock_movements,MOV-5546,NEGATIVE_BALANCE,running_balance,-62,Balance tích lũy âm (-62) sau MOV-5546 (opening=-175) — kiểm tra movement trước đó
+stock_movements,MOV-5062,NEGATIVE_BALANCE,running_balance,-57,Balance tích lũy âm (-57) sau MOV-5062 (opening=-175) — kiểm tra movement trước đó
+stock_movements,MOV-5741,NEGATIVE_BALANCE,running_balance,-41,Balance tích lũy âm (-41) sau MOV-5741 (opening=-175) — kiểm tra movement trước đó
+stock_movements,MOV-5650,NEGATIVE_BALANCE,running_balance,-110,Balance tích lũy âm (-110) sau MOV-5650 (opening=-175) — kiểm tra movement trước đó
+stock_movements,MOV-5154,NEGATIVE_BALANCE,running_balance,-14,Balance tích lũy âm (-14) sau MOV-5154 (opening=-175) — kiểm tra movement trước đó

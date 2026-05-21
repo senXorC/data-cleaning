@@ -1,0 +1,1382 @@
+table,row_id,field,old_value,new_value,action
+suppliers,SUP-101,supplier_name,Công ty CP Điện Tử Minh Phát,Công Ty CP Điện Tử Minh Phát,NAME_NORMALIZED
+suppliers,SUP-102,supplier_name,Cty TNHH Thực Phẩm Sao Vàng,Công Ty TNHH Thực Phẩm Sao Vàng,NAME_NORMALIZED
+suppliers,SUP-103,supplier_name,Cty Văn Phòng Phẩm Tiến Đạt,Công Ty Văn Phòng Phẩm Tiến Đạt,NAME_NORMALIZED
+suppliers,SUP-104,supplier_name,Cty CP Điện Tử Minh Phát,Công Ty CP Điện Tử Minh Phát,NAME_NORMALIZED
+suppliers,SUP-105,supplier_name,Công ty TNHH Nông Sản Xanh Sạch,Công Ty TNHH Nông Sản Xanh Sạch,NAME_NORMALIZED
+suppliers,SUP-106,supplier_name,Công ty TNHH Nông Sản Xanh Sạch,Công Ty TNHH Nông Sản Xanh Sạch,NAME_NORMALIZED
+suppliers,SUP-107,supplier_name,CÔNG TY TNHH THỰC PHẨM SAO VÀNG,Công Ty TNHH Thực Phẩm Sao Vàng,NAME_NORMALIZED
+suppliers,SUP-109,supplier_name,Công ty TNHH Xây Dựng Vật Liệu ABC,Công Ty TNHH Xây Dựng Vật Liệu ABC,NAME_NORMALIZED
+suppliers,SUP-110,supplier_name,Công ty CP Thực Phẩm Đông Lạnh Bắc Nam,Công Ty CP Thực Phẩm Đông Lạnh Bắc Nam,NAME_NORMALIZED
+suppliers,SUP-111,supplier_name,Công ty TNHH Xây Dựng Vật Liệu ABC,Công Ty TNHH Xây Dựng Vật Liệu ABC,NAME_NORMALIZED
+suppliers,SUP-112,supplier_name,Công ty CP Đồ Chơi Trẻ Em Vui Vẻ,Công Ty CP Đồ Chơi Trẻ Em Vui Vẻ,NAME_NORMALIZED
+suppliers,SUP-113,supplier_name,Cty CP Điện Tử Minh Phát,Công Ty CP Điện Tử Minh Phát,NAME_NORMALIZED
+suppliers,SUP-114,supplier_name,Công ty CP Mỹ Phẩm Thiên Nhiên,Công Ty CP Mỹ Phẩm Thiên Nhiên,NAME_NORMALIZED
+suppliers,SUP-115,supplier_name,Công ty CP Điện Tử Minh Phát,Công Ty CP Điện Tử Minh Phát,NAME_NORMALIZED
+suppliers,SUP-116,supplier_name,Công ty CP Mỹ Phẩm Thiên Nhiên,Công Ty CP Mỹ Phẩm Thiên Nhiên,NAME_NORMALIZED
+suppliers,SUP-117,supplier_name,Công ty TNHH Phụ Tùng Ô Tô Bền Vững,Công Ty TNHH Phụ Tùng Ô Tô Bền Vững,NAME_NORMALIZED
+suppliers,SUP-118,supplier_name,Cty Văn Phòng Phẩm Tiến Đạt,Công Ty Văn Phòng Phẩm Tiến Đạt,NAME_NORMALIZED
+suppliers,SUP-119,supplier_name,Công ty TNHH Phụ Tùng Ô Tô Bền Vững,Công Ty TNHH Phụ Tùng Ô Tô Bền Vững,NAME_NORMALIZED
+suppliers,SUP-120,supplier_name,Công ty TNHH Phụ Tùng Ô Tô Bền Vững,Công Ty TNHH Phụ Tùng Ô Tô Bền Vững,NAME_NORMALIZED
+suppliers,SUP-121,supplier_name,Công ty CP Điện Tử Minh Phát,Công Ty CP Điện Tử Minh Phát,NAME_NORMALIZED
+suppliers,SUP-122,supplier_name,Công ty TNHH Thực Phẩm Sao Vàng,Công Ty TNHH Thực Phẩm Sao Vàng,NAME_NORMALIZED
+suppliers,SUP-123,supplier_name,CÔNG TY TNHH THỰC PHẨM SAO VÀNG,Công Ty TNHH Thực Phẩm Sao Vàng,NAME_NORMALIZED
+suppliers,SUP-124,supplier_name,Cty Văn Phòng Phẩm Tiến Đạt,Công Ty Văn Phòng Phẩm Tiến Đạt,NAME_NORMALIZED
+suppliers,SUP-125,supplier_name,Cty XD Vật Liệu ABC,Công Ty XD Vật Liệu ABC,NAME_NORMALIZED
+suppliers,SUP-126,supplier_name,Công ty CP Điện Tử Minh Phát,Công Ty CP Điện Tử Minh Phát,NAME_NORMALIZED
+suppliers,SUP-127,supplier_name,CÔNG TY TNHH THỰC PHẨM SAO VÀNG,Công Ty TNHH Thực Phẩm Sao Vàng,NAME_NORMALIZED
+suppliers,SUP-128,supplier_name,Công ty TNHH Hóa Chất Đại Dương,Công Ty TNHH Hóa Chất Đại Dương,NAME_NORMALIZED
+suppliers,SUP-129,supplier_name,Công ty TNHH Xây Dựng Vật Liệu ABC,Công Ty TNHH Xây Dựng Vật Liệu ABC,NAME_NORMALIZED
+suppliers,SUP-130,supplier_name,Cty CP Điện Tử Minh Phát,Công Ty CP Điện Tử Minh Phát,NAME_NORMALIZED
+suppliers,SUP-131,supplier_name,Công ty CP Đồ Chơi Trẻ Em Vui Vẻ,Công Ty CP Đồ Chơi Trẻ Em Vui Vẻ,NAME_NORMALIZED
+suppliers,SUP-132,supplier_name,CÔNG TY TNHH THỰC PHẨM SAO VÀNG,Công Ty TNHH Thực Phẩm Sao Vàng,NAME_NORMALIZED
+suppliers,SUP-133,supplier_name,Công ty TNHH Nông Sản Xanh Sạch,Công Ty TNHH Nông Sản Xanh Sạch,NAME_NORMALIZED
+suppliers,SUP-134,supplier_name,Cty Văn Phòng Phẩm Tiến Đạt,Công Ty Văn Phòng Phẩm Tiến Đạt,NAME_NORMALIZED
+suppliers,SUP-135,supplier_name,Công ty TNHH Nông Sản Xanh Sạch,Công Ty TNHH Nông Sản Xanh Sạch,NAME_NORMALIZED
+suppliers,SUP-136,supplier_name,Nhà cung cấp Thiết Bị Y Tế Tân Bình,Nhà Cung Cấp Thiết Bị Y Tế Tân Bình,NAME_NORMALIZED
+suppliers,SUP-137,supplier_name,Công ty CP Điện Tử Minh Phát,Công Ty CP Điện Tử Minh Phát,NAME_NORMALIZED
+suppliers,SUP-138,supplier_name,Công ty CP Thực Phẩm Đông Lạnh Bắc Nam,Công Ty CP Thực Phẩm Đông Lạnh Bắc Nam,NAME_NORMALIZED
+suppliers,SUP-139,supplier_name,Công ty CP Dệt May Phương Nam,Công Ty CP Dệt May Phương Nam,NAME_NORMALIZED
+suppliers,SUP-140,supplier_name,Công ty TNHH Phụ Tùng Ô Tô Bền Vững,Công Ty TNHH Phụ Tùng Ô Tô Bền Vững,NAME_NORMALIZED
+suppliers,SUP-141,supplier_name,Cty XD Vật Liệu ABC,Công Ty XD Vật Liệu ABC,NAME_NORMALIZED
+suppliers,SUP-142,supplier_name,Cty Văn Phòng Phẩm Tiến Đạt,Công Ty Văn Phòng Phẩm Tiến Đạt,NAME_NORMALIZED
+suppliers,SUP-143,supplier_name,Công ty TNHH Hóa Chất Đại Dương,Công Ty TNHH Hóa Chất Đại Dương,NAME_NORMALIZED
+suppliers,SUP-144,supplier_name,Công ty CP Điện Tử Minh Phát,Công Ty CP Điện Tử Minh Phát,NAME_NORMALIZED
+suppliers,SUP-145,supplier_name,Cty Văn Phòng Phẩm Tiến Đạt,Công Ty Văn Phòng Phẩm Tiến Đạt,NAME_NORMALIZED
+suppliers,SUP-146,supplier_name,Công ty TNHH Phụ Tùng Ô Tô Bền Vững,Công Ty TNHH Phụ Tùng Ô Tô Bền Vững,NAME_NORMALIZED
+suppliers,SUP-147,supplier_name,Công ty TNHH Nông Sản Xanh Sạch,Công Ty TNHH Nông Sản Xanh Sạch,NAME_NORMALIZED
+suppliers,SUP-148,supplier_name,Công ty CP Dệt May Phương Nam,Công Ty CP Dệt May Phương Nam,NAME_NORMALIZED
+suppliers,SUP-149,supplier_name,CÔNG TY TNHH THỰC PHẨM SAO VÀNG,Công Ty TNHH Thực Phẩm Sao Vàng,NAME_NORMALIZED
+suppliers,SUP-150,supplier_name,Cty XD Vật Liệu ABC,Công Ty XD Vật Liệu ABC,NAME_NORMALIZED
+suppliers,SUP-101,email,cpđiệntửmi95@gmail.com,cpdientumi95@gmail.com,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-102,email,tnhhthựcph12@gmail.com,tnhhthucph12@gmail.com,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-103,email,vănphòngph76@yahoo.com,vanphongph76@yahoo.com,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-104,email,cpđiệntửmi98@company.vn,cpdientumi98@company.vn,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-105,email,tnhhnôngsả6@outlook.com,tnhhnongsa6@outlook.com,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-106,email,tnhhnôngsả74@outlook.com,tnhhnongsa74@outlook.com,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-107,email,tnhhthựcph13@company.vn,tnhhthucph13@company.vn,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-108,email,nhàphânphố90@outlook.com,nhaphanpho90@outlook.com,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-109,email,tnhhxâydựn82@outlook.com,tnhhxaydun82@outlook.com,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-110,email,cpthựcphẩm35@yahoo.com,cpthucpham35@yahoo.com,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-111,email,tnhhxâydựn19@yahoo.com,tnhhxaydun19@yahoo.com,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-112,email,cpđồchơitr47@yahoo.com,cpdochoitr47@yahoo.com,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-113,email,cpđiệntửmi88@company.vn,cpdientumi88@company.vn,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-114,email,cpmỹphẩmth71@outlook.com,cpmyphamth71@outlook.com,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-115,email,cpđiệntửmi56@outlook.com,cpdientumi56@outlook.com,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-116,email,cpmỹphẩmth81@gmail.com,cpmyphamth81@gmail.com,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-117,email,tnhhphụtùn77@gmail.com,tnhhphutun77@gmail.com,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-118,email,vănphòngph31@gmail.com,vanphongph31@gmail.com,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-119,email,tnhhphụtùn17@company.vn,tnhhphutun17@company.vn,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-120,email,tnhhphụtùn92@company.vn,tnhhphutun92@company.vn,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-121,email,cpđiệntửmi29@company.vn,cpdientumi29@company.vn,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-122,email,tnhhthựcph91@gmail.com,tnhhthucph91@gmail.com,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-123,email,tnhhthựcph36@company.vn,tnhhthucph36@company.vn,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-124,email,vănphòngph53@yahoo.com,vanphongph53@yahoo.com,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-125,email,xdvậtliệua94@yahoo.com,xdvatlieua94@yahoo.com,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-126,email,cpđiệntửmi25@company.vn,cpdientumi25@company.vn,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-127,email,tnhhthựcph71@yahoo.com,tnhhthucph71@yahoo.com,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-128,email,tnhhhóachấ63@yahoo.com,tnhhhoacha63@yahoo.com,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-129,email,tnhhxâydựn59@outlook.com,tnhhxaydun59@outlook.com,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-130,email,cpđiệntửmi38@company.vn,cpdientumi38@company.vn,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-131,email,cpđồchơitr65@yahoo.com,cpdochoitr65@yahoo.com,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-132,email,tnhhthựcph87@gmail.com,tnhhthucph87@gmail.com,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-133,email,tnhhnôngsả54@gmail.com,tnhhnongsa54@gmail.com,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-134,email,vănphòngph51@outlook.com,vanphongph51@outlook.com,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-135,email,tnhhnôngsả10@gmail.com,tnhhnongsa10@gmail.com,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-136,email,nhàcungcấp21@outlook.com,nhacungcap21@outlook.com,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-137,email,cpđiệntửmi34@company.vn,cpdientumi34@company.vn,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-138,email,cpthựcphẩm88@company.vn,cpthucpham88@company.vn,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-139,email,cpdệtmayph1@gmail.com,cpdetmayph1@gmail.com,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-140,email,tnhhphụtùn15@gmail.com,tnhhphutun15@gmail.com,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-141,email,xdvậtliệua6@company.vn,xdvatlieua6@company.vn,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-142,email,vănphòngph46@gmail.com,vanphongph46@gmail.com,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-143,email,tnhhhóachấ4@yahoo.com,tnhhhoacha4@yahoo.com,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-144,email,cpđiệntửmi5@yahoo.com,cpdientumi5@yahoo.com,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-145,email,vănphòngph85@gmail.com,vanphongph85@gmail.com,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-146,email,tnhhphụtùn4@outlook.com,tnhhphutun4@outlook.com,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-147,email,tnhhnôngsả45@yahoo.com,tnhhnongsa45@yahoo.com,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-148,email,cpdệtmayph91@gmail.com,cpdetmayph91@gmail.com,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-149,email,tnhhthựcph80@outlook.com,tnhhthucph80@outlook.com,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-150,email,xdvậtliệua52@outlook.com,xdvatlieua52@outlook.com,EMAIL_DIACRITIC_REMOVED
+suppliers,SUP-101,phone,742868828,0742868828,PHONE_NORMALIZED
+suppliers,SUP-102,phone,541227216,0541227216,PHONE_NORMALIZED
+suppliers,SUP-103,phone,710872248,0710872248,PHONE_NORMALIZED
+suppliers,SUP-104,phone,84723718431,0723718431,PHONE_NORMALIZED
+suppliers,SUP-105,phone,881971316,0881971316,PHONE_NORMALIZED
+suppliers,SUP-106,phone,84519335534,0519335534,PHONE_NORMALIZED
+suppliers,SUP-107,phone,847308985,0847308985,PHONE_NORMALIZED
+suppliers,SUP-108,phone,391756179,0391756179,PHONE_NORMALIZED
+suppliers,SUP-109,phone,939476249,0939476249,PHONE_NORMALIZED
+suppliers,SUP-110,phone,338317637,0338317637,PHONE_NORMALIZED
+suppliers,SUP-111,phone,728740864,0728740864,PHONE_NORMALIZED
+suppliers,SUP-112,phone,528566572,0528566572,PHONE_NORMALIZED
+suppliers,SUP-113,phone,84890048665,0890048665,PHONE_NORMALIZED
+suppliers,SUP-114,phone,325374874,0325374874,PHONE_NORMALIZED
+suppliers,SUP-115,phone,84570897765,0570897765,PHONE_NORMALIZED
+suppliers,SUP-116,phone,795758349,0795758349,PHONE_NORMALIZED
+suppliers,SUP-117,phone,84775579548,0775579548,PHONE_NORMALIZED
+suppliers,SUP-118,phone,84920570592,0920570592,PHONE_NORMALIZED
+suppliers,SUP-119,phone,883793389,0883793389,PHONE_NORMALIZED
+suppliers,SUP-120,phone,763551839,0763551839,PHONE_NORMALIZED
+suppliers,SUP-121,phone,84355377076,0355377076,PHONE_NORMALIZED
+suppliers,SUP-122,phone,84340728046,0340728046,PHONE_NORMALIZED
+suppliers,SUP-123,phone,838754377,0838754377,PHONE_NORMALIZED
+suppliers,SUP-124,phone,84522660194,0522660194,PHONE_NORMALIZED
+suppliers,SUP-125,phone,397705310,0397705310,PHONE_NORMALIZED
+suppliers,SUP-126,phone,581979055,0581979055,PHONE_NORMALIZED
+suppliers,SUP-127,phone,316789850,0316789850,PHONE_NORMALIZED
+suppliers,SUP-128,phone,838688676,0838688676,PHONE_NORMALIZED
+suppliers,SUP-129,phone,766775103,0766775103,PHONE_NORMALIZED
+suppliers,SUP-130,phone,517849494,0517849494,PHONE_NORMALIZED
+suppliers,SUP-131,phone,84931130263,0931130263,PHONE_NORMALIZED
+suppliers,SUP-132,phone,564193837,0564193837,PHONE_NORMALIZED
+suppliers,SUP-133,phone,985863473,0985863473,PHONE_NORMALIZED
+suppliers,SUP-134,phone,596637649,0596637649,PHONE_NORMALIZED
+suppliers,SUP-135,phone,938609087,0938609087,PHONE_NORMALIZED
+suppliers,SUP-136,phone,882909480,0882909480,PHONE_NORMALIZED
+suppliers,SUP-137,phone,324366125,0324366125,PHONE_NORMALIZED
+suppliers,SUP-138,phone,777834855,0777834855,PHONE_NORMALIZED
+suppliers,SUP-139,phone,727558317,0727558317,PHONE_NORMALIZED
+suppliers,SUP-140,phone,330005727,0330005727,PHONE_NORMALIZED
+suppliers,SUP-141,phone,758942697,0758942697,PHONE_NORMALIZED
+suppliers,SUP-142,phone,964543049,0964543049,PHONE_NORMALIZED
+suppliers,SUP-143,phone,554585178,0554585178,PHONE_NORMALIZED
+suppliers,SUP-144,phone,839854548,0839854548,PHONE_NORMALIZED
+suppliers,SUP-145,phone,563481198,0563481198,PHONE_NORMALIZED
+suppliers,SUP-146,phone,345059710,0345059710,PHONE_NORMALIZED
+suppliers,SUP-147,phone,768571795,0768571795,PHONE_NORMALIZED
+suppliers,SUP-148,phone,810226999,0810226999,PHONE_NORMALIZED
+suppliers,SUP-149,phone,799038359,0799038359,PHONE_NORMALIZED
+suppliers,SUP-150,phone,784411983,0784411983,PHONE_NORMALIZED
+suppliers,SUP-101,payment_terms,Net30,NET30,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-102,payment_terms,cod,COD,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-103,payment_terms,THANH TOÁN 30 NGÀY,NET30,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-104,payment_terms,THANH TOÁN 30 NGÀY,NET30,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-105,payment_terms,net60,NET60,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-106,payment_terms,Cash on Delivery,COD,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-107,payment_terms,THANH TOÁN 30 NGÀY,NET30,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-108,payment_terms,net30,NET30,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-109,payment_terms,30 days,NET30,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-110,payment_terms,30 days,NET30,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-111,payment_terms,cod,COD,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-112,payment_terms,Trả ngay,COD,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-113,payment_terms,60 days,NET60,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-114,payment_terms,Cash on Delivery,COD,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-115,payment_terms,net60,NET60,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-116,payment_terms,Cash on Delivery,COD,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-117,payment_terms,Trả ngay,COD,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-118,payment_terms,Trả ngay,COD,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-119,payment_terms,NET60,NET60,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-120,payment_terms,net60,NET60,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-121,payment_terms,30 days,NET30,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-122,payment_terms,Trả ngay,COD,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-123,payment_terms,60 days,NET60,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-124,payment_terms,THANH TOÁN 30 NGÀY,NET30,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-125,payment_terms,cod,COD,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-126,payment_terms,Net60,NET60,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-127,payment_terms,Net30,NET30,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-128,payment_terms,NET60,NET60,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-129,payment_terms,COD,COD,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-130,payment_terms,NET30,NET30,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-131,payment_terms,Net30,NET30,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-132,payment_terms,60 days,NET60,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-133,payment_terms,COD,COD,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-134,payment_terms,NET30,NET30,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-135,payment_terms,Net30,NET30,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-136,payment_terms,NET30,NET30,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-137,payment_terms,60 days,NET60,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-138,payment_terms,Net30,NET30,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-139,payment_terms,net60,NET60,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-140,payment_terms,net60,NET60,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-141,payment_terms,THANH TOÁN 30 NGÀY,NET30,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-142,payment_terms,Trả ngay,COD,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-143,payment_terms,30 ngày,NET30,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-144,payment_terms,30 ngày,NET30,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-145,payment_terms,THANH TOÁN 30 NGÀY,NET30,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-146,payment_terms,NET30,NET30,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-147,payment_terms,60 days,NET60,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-148,payment_terms,THANH TOÁN 30 NGÀY,NET30,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-149,payment_terms,net60,NET60,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-150,payment_terms,COD,COD,PAYMENT_TERMS_NORMALIZED
+suppliers,SUP-101,is_active,false,Không hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-102,is_active,false,Không hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-103,is_active,FALSE,Không hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-104,is_active,False,Không hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-105,is_active,FALSE,Không hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-106,is_active,FALSE,Không hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-107,is_active,False,Không hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-108,is_active,0,Không hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-109,is_active,TRUE,Hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-110,is_active,0,Không hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-111,is_active,false,Không hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-112,is_active,True,Hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-113,is_active,0,Không hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-114,is_active,False,Không hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-115,is_active,true,Hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-116,is_active,true,Hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-117,is_active,FALSE,Không hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-118,is_active,True,Hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-119,is_active,1,Hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-120,is_active,0,Không hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-121,is_active,1,Hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-122,is_active,False,Không hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-123,is_active,0,Không hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-124,is_active,false,Không hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-125,is_active,False,Không hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-126,is_active,1,Hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-127,is_active,1,Hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-128,is_active,TRUE,Hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-129,is_active,0,Không hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-130,is_active,TRUE,Hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-131,is_active,true,Hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-132,is_active,TRUE,Hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-133,is_active,False,Không hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-134,is_active,0,Không hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-135,is_active,1,Hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-136,is_active,FALSE,Không hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-137,is_active,1,Hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-138,is_active,false,Không hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-139,is_active,false,Không hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-140,is_active,true,Hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-141,is_active,1,Hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-142,is_active,true,Hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-143,is_active,true,Hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-144,is_active,1,Hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-145,is_active,false,Không hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-146,is_active,True,Hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-147,is_active,1,Hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-148,is_active,false,Không hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-149,is_active,FALSE,Không hoạt động,IS_ACTIVE_NORMALIZED
+suppliers,SUP-150,is_active,true,Hoạt động,IS_ACTIVE_NORMALIZED
+inventory,ITEM-201,stock_qty,-19,0,STOCK_NEGATIVE_ZEROED
+inventory,ITEM-227,stock_qty,-29,0,STOCK_NEGATIVE_ZEROED
+inventory,ITEM-243,stock_qty,-21,0,STOCK_NEGATIVE_ZEROED
+inventory,ITEM-259,stock_qty,-43,0,STOCK_NEGATIVE_ZEROED
+inventory,ITEM-201,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-202,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-204,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-205,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-208,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-209,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-210,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-211,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-214,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-216,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-219,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-220,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-221,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-222,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-224,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-229,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-231,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-234,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-235,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-238,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-239,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-241,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-242,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-244,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-245,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-246,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-249,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-250,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-253,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-255,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-258,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-259,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-260,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-262,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-264,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-265,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-266,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-270,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-272,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-273,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-274,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-275,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-276,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-278,warehouse_location,,Không xác định,LOCATION_FILLED
+inventory,ITEM-280,warehouse_location,,Không xác định,LOCATION_FILLED
+purchase_orders,PO-3002,currency,USD,VND,CURRENCY_FIXED
+purchase_orders,PO-3005,currency,USD,VND,CURRENCY_FIXED
+purchase_orders,PO-3008,currency,USD,VND,CURRENCY_FIXED
+purchase_orders,PO-3013,currency,USD,VND,CURRENCY_FIXED
+purchase_orders,PO-3034,currency,USD,VND,CURRENCY_FIXED
+purchase_orders,PO-3048,currency,USD,VND,CURRENCY_FIXED
+purchase_orders,PO-3082,currency,USD,VND,CURRENCY_FIXED
+purchase_orders,PO-3126,currency,USD,VND,CURRENCY_FIXED
+purchase_orders,PO-3141,currency,USD,VND,CURRENCY_FIXED
+purchase_orders,PO-3177,currency,USD,VND,CURRENCY_FIXED
+purchase_orders,PO-3181,currency,USD,VND,CURRENCY_FIXED
+purchase_orders,PO-3201,currency,USD,VND,CURRENCY_FIXED
+purchase_orders,PO-3219,currency,USD,VND,CURRENCY_FIXED
+purchase_orders,PO-3236,currency,USD,VND,CURRENCY_FIXED
+purchase_orders,PO-3245,currency,USD,VND,CURRENCY_FIXED
+purchase_orders,PO-3251,currency,USD,VND,CURRENCY_FIXED
+purchase_orders,PO-3277,currency,USD,VND,CURRENCY_FIXED
+purchase_orders,PO-3297,currency,USD,VND,CURRENCY_FIXED
+purchase_orders,PO-3002,total_amount,2724.12,68103000,TOTAL_RECALCULATED
+purchase_orders,PO-3005,total_amount,2840.88,71022000,TOTAL_RECALCULATED
+purchase_orders,PO-3008,total_amount,7970.56,199264000,TOTAL_RECALCULATED
+purchase_orders,PO-3010,total_amount,52814300.00000001,48013000,TOTAL_RECALCULATED
+purchase_orders,PO-3011,total_amount,116584600.0,105986000,TOTAL_RECALCULATED
+purchase_orders,PO-3013,total_amount,3542.88,88572000,TOTAL_RECALCULATED
+purchase_orders,PO-3014,total_amount,551460000.0,55146000,TOTAL_RECALCULATED
+purchase_orders,PO-3034,total_amount,8203.52,205088000,TOTAL_RECALCULATED
+purchase_orders,PO-3037,total_amount,149143500.0,135585000,TOTAL_RECALCULATED
+purchase_orders,PO-3048,total_amount,339.84,8496000,TOTAL_RECALCULATED
+purchase_orders,PO-3053,total_amount,91462800.0,83148000,TOTAL_RECALCULATED
+purchase_orders,PO-3057,total_amount,142310000.0,14231000,TOTAL_RECALCULATED
+purchase_orders,PO-3062,total_amount,49680000.0,4968000,TOTAL_RECALCULATED
+purchase_orders,PO-3067,total_amount,22464000.0,24960000,TOTAL_RECALCULATED
+purchase_orders,PO-3072,total_amount,47896200.0,53218000,TOTAL_RECALCULATED
+purchase_orders,PO-3082,total_amount,478.24,11956000,TOTAL_RECALCULATED
+purchase_orders,PO-3084,total_amount,63855000.00000001,58050000,TOTAL_RECALCULATED
+purchase_orders,PO-3097,total_amount,48374700.00000001,43977000,TOTAL_RECALCULATED
+purchase_orders,PO-3119,total_amount,352170000.0,35217000,TOTAL_RECALCULATED
+purchase_orders,PO-3126,total_amount,6136.0,153400000,TOTAL_RECALCULATED
+purchase_orders,PO-3131,total_amount,390380000.0,39038000,TOTAL_RECALCULATED
+purchase_orders,PO-3136,total_amount,135012900.0,122739000,TOTAL_RECALCULATED
+purchase_orders,PO-3141,total_amount,272.48,6812000,TOTAL_RECALCULATED
+purchase_orders,PO-3144,total_amount,127026900.0,115479000,TOTAL_RECALCULATED
+purchase_orders,PO-3152,total_amount,16381200.000000002,14892000,TOTAL_RECALCULATED
+purchase_orders,PO-3158,total_amount,62396400.00000001,56724000,TOTAL_RECALCULATED
+purchase_orders,PO-3172,total_amount,2079000.0,1890000,TOTAL_RECALCULATED
+purchase_orders,PO-3177,total_amount,1802.24,45056000,TOTAL_RECALCULATED
+purchase_orders,PO-3181,total_amount,3030.52,75763000,TOTAL_RECALCULATED
+purchase_orders,PO-3201,total_amount,6322.56,158064000,TOTAL_RECALCULATED
+purchase_orders,PO-3219,total_amount,3901.44,97536000,TOTAL_RECALCULATED
+purchase_orders,PO-3225,total_amount,86556600.0,96174000,TOTAL_RECALCULATED
+purchase_orders,PO-3236,total_amount,3963.96,99099000,TOTAL_RECALCULATED
+purchase_orders,PO-3238,total_amount,74858400.0,83176000,TOTAL_RECALCULATED
+purchase_orders,PO-3242,total_amount,3546400.0000000005,3224000,TOTAL_RECALCULATED
+purchase_orders,PO-3245,total_amount,2031.12,50778000,TOTAL_RECALCULATED
+purchase_orders,PO-3246,total_amount,183570200.0,166882000,TOTAL_RECALCULATED
+purchase_orders,PO-3248,total_amount,52660800.0,58512000,TOTAL_RECALCULATED
+purchase_orders,PO-3251,total_amount,504.16,12604000,TOTAL_RECALCULATED
+purchase_orders,PO-3258,total_amount,661710000.0,66171000,TOTAL_RECALCULATED
+purchase_orders,PO-3267,total_amount,153808600.0,139826000,TOTAL_RECALCULATED
+purchase_orders,PO-3277,total_amount,346.72,8668000,TOTAL_RECALCULATED
+purchase_orders,PO-3297,total_amount,6278.0,156950000,TOTAL_RECALCULATED
+stock_movements,MOV-5001,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5002,movement_type,return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5003,movement_type,Kiểm kê,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5004,movement_type,Adj,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5005,movement_type,adjustment,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5008,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5010,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5011,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5013,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5014,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5015,movement_type,TRẢ HÀNG,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5016,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5017,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5018,movement_type,Return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5019,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5020,movement_type,Adj,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5021,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5022,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5023,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5024,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5025,movement_type,adjustment,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5026,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5029,movement_type,Return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5030,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5032,movement_type,Kiểm kê,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5033,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5034,movement_type,Out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5036,movement_type,Trả NCC,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5037,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5038,movement_type,Return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5039,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5040,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5041,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5042,movement_type,ĐIỀU CHỈNH,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5043,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5044,movement_type,Out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5045,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5046,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5047,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5048,movement_type,Out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5049,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5050,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5051,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5052,movement_type,Return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5053,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5054,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5055,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5056,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5057,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5058,movement_type,Adj,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5059,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5060,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5061,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5063,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5064,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5065,movement_type,Trả NCC,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5066,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5067,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5068,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5069,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5070,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5072,movement_type,Return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5073,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5074,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5075,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5076,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5077,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5078,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5081,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5082,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5084,movement_type,adjustment,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5085,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5086,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5087,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5088,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5089,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5090,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5091,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5092,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5093,movement_type,Adj,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5094,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5095,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5096,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5097,movement_type,Out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5098,movement_type,Out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5100,movement_type,adjustment,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5101,movement_type,Adj,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5102,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5103,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5104,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5106,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5107,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5108,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5109,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5110,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5111,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5112,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5114,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5115,movement_type,Kiểm kê,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5116,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5117,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5119,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5120,movement_type,Return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5121,movement_type,Kiểm kê,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5122,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5123,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5124,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5125,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5126,movement_type,ĐIỀU CHỈNH,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5128,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5129,movement_type,Out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5130,movement_type,ĐIỀU CHỈNH,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5133,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5134,movement_type,Out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5135,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5136,movement_type,Trả NCC,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5137,movement_type,Return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5138,movement_type,Adj,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5139,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5140,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5141,movement_type,Out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5142,movement_type,Adj,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5143,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5144,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5145,movement_type,Out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5147,movement_type,Kiểm kê,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5148,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5149,movement_type,return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5150,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5152,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5153,movement_type,Kiểm kê,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5154,movement_type,TRẢ HÀNG,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5155,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5156,movement_type,Adj,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5157,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5158,movement_type,Out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5159,movement_type,ĐIỀU CHỈNH,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5160,movement_type,TRẢ HÀNG,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5162,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5163,movement_type,Adj,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5164,movement_type,Adj,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5165,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5166,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5167,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5168,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5169,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5172,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5173,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5174,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5175,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5177,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5178,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5179,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5180,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5182,movement_type,Adj,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5184,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5185,movement_type,Trả NCC,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5187,movement_type,Out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5188,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5189,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5190,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5191,movement_type,adjustment,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5192,movement_type,ĐIỀU CHỈNH,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5195,movement_type,Kiểm kê,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5196,movement_type,return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5197,movement_type,ĐIỀU CHỈNH,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5199,movement_type,TRẢ HÀNG,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5200,movement_type,Trả NCC,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5202,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5203,movement_type,TRẢ HÀNG,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5204,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5205,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5207,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5209,movement_type,TRẢ HÀNG,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5210,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5211,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5212,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5213,movement_type,Trả NCC,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5215,movement_type,Return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5216,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5217,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5218,movement_type,adjustment,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5220,movement_type,Out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5221,movement_type,Kiểm kê,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5222,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5223,movement_type,ĐIỀU CHỈNH,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5224,movement_type,Trả NCC,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5225,movement_type,adjustment,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5226,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5227,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5228,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5230,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5231,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5232,movement_type,adjustment,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5233,movement_type,Trả NCC,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5234,movement_type,Trả NCC,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5235,movement_type,Out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5236,movement_type,Kiểm kê,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5237,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5238,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5239,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5241,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5242,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5244,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5246,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5247,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5248,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5249,movement_type,ĐIỀU CHỈNH,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5251,movement_type,Adj,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5252,movement_type,Out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5253,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5254,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5255,movement_type,Trả NCC,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5256,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5257,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5258,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5259,movement_type,Adj,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5260,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5261,movement_type,adjustment,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5263,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5265,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5266,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5267,movement_type,adjustment,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5268,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5269,movement_type,TRẢ HÀNG,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5270,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5271,movement_type,ĐIỀU CHỈNH,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5273,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5274,movement_type,adjustment,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5275,movement_type,return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5276,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5277,movement_type,Return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5278,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5279,movement_type,TRẢ HÀNG,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5280,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5282,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5283,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5284,movement_type,Adj,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5285,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5286,movement_type,Adj,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5287,movement_type,Trả NCC,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5288,movement_type,ĐIỀU CHỈNH,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5289,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5290,movement_type,Adj,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5292,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5293,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5295,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5296,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5299,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5300,movement_type,Trả NCC,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5301,movement_type,return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5303,movement_type,Out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5304,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5305,movement_type,adjustment,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5306,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5309,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5310,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5311,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5312,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5313,movement_type,Kiểm kê,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5314,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5315,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5316,movement_type,adjustment,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5319,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5320,movement_type,return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5321,movement_type,TRẢ HÀNG,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5322,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5323,movement_type,ĐIỀU CHỈNH,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5324,movement_type,return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5325,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5326,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5327,movement_type,ĐIỀU CHỈNH,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5328,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5329,movement_type,return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5330,movement_type,TRẢ HÀNG,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5331,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5332,movement_type,Adj,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5333,movement_type,ĐIỀU CHỈNH,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5334,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5335,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5338,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5339,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5340,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5342,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5343,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5344,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5345,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5347,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5348,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5350,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5351,movement_type,adjustment,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5352,movement_type,adjustment,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5353,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5354,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5355,movement_type,adjustment,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5356,movement_type,Return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5357,movement_type,return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5358,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5360,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5361,movement_type,ĐIỀU CHỈNH,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5363,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5364,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5366,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5367,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5368,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5369,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5370,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5371,movement_type,return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5373,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5375,movement_type,Trả NCC,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5376,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5377,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5378,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5379,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5380,movement_type,Return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5383,movement_type,Trả NCC,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5384,movement_type,Out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5386,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5387,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5388,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5389,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5390,movement_type,TRẢ HÀNG,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5391,movement_type,return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5392,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5393,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5394,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5395,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5396,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5397,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5398,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5399,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5400,movement_type,Trả NCC,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5401,movement_type,Return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5402,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5403,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5406,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5407,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5408,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5410,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5411,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5412,movement_type,Return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5413,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5414,movement_type,Return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5415,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5418,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5420,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5421,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5423,movement_type,Out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5425,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5426,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5427,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5428,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5429,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5430,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5431,movement_type,TRẢ HÀNG,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5432,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5433,movement_type,Return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5435,movement_type,TRẢ HÀNG,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5436,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5437,movement_type,Out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5439,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5441,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5442,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5444,movement_type,adjustment,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5445,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5446,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5450,movement_type,Kiểm kê,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5452,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5453,movement_type,ĐIỀU CHỈNH,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5454,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5455,movement_type,return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5456,movement_type,ĐIỀU CHỈNH,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5457,movement_type,ĐIỀU CHỈNH,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5458,movement_type,Adj,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5459,movement_type,TRẢ HÀNG,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5460,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5461,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5462,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5463,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5464,movement_type,Out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5465,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5468,movement_type,ĐIỀU CHỈNH,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5469,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5471,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5472,movement_type,Out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5473,movement_type,ĐIỀU CHỈNH,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5475,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5476,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5477,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5479,movement_type,Out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5481,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5482,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5483,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5484,movement_type,Return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5485,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5486,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5487,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5489,movement_type,Return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5491,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5492,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5493,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5494,movement_type,Out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5496,movement_type,Kiểm kê,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5497,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5498,movement_type,Kiểm kê,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5499,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5501,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5502,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5503,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5504,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5505,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5506,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5507,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5508,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5509,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5510,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5511,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5515,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5516,movement_type,return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5517,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5518,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5519,movement_type,Out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5520,movement_type,Out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5521,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5522,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5523,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5524,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5525,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5526,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5527,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5528,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5530,movement_type,Adj,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5532,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5533,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5534,movement_type,adjustment,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5536,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5538,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5539,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5540,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5541,movement_type,Trả NCC,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5543,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5544,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5545,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5546,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5547,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5548,movement_type,adjustment,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5550,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5551,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5552,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5553,movement_type,Kiểm kê,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5554,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5556,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5557,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5558,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5559,movement_type,adjustment,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5560,movement_type,return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5561,movement_type,adjustment,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5562,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5563,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5564,movement_type,TRẢ HÀNG,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5565,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5567,movement_type,Kiểm kê,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5569,movement_type,Trả NCC,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5570,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5572,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5573,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5574,movement_type,ĐIỀU CHỈNH,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5575,movement_type,Return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5576,movement_type,Out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5577,movement_type,Adj,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5578,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5579,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5580,movement_type,Trả NCC,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5581,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5582,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5583,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5584,movement_type,Trả NCC,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5585,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5586,movement_type,Kiểm kê,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5587,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5588,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5589,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5590,movement_type,Out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5591,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5592,movement_type,adjustment,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5593,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5594,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5595,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5596,movement_type,TRẢ HÀNG,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5597,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5598,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5599,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5600,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5602,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5603,movement_type,ĐIỀU CHỈNH,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5604,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5605,movement_type,ĐIỀU CHỈNH,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5606,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5607,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5608,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5610,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5611,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5612,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5613,movement_type,TRẢ HÀNG,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5614,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5615,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5616,movement_type,Out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5617,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5618,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5619,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5620,movement_type,adjustment,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5621,movement_type,ĐIỀU CHỈNH,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5622,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5623,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5624,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5625,movement_type,Out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5626,movement_type,Return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5627,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5628,movement_type,Out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5629,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5630,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5631,movement_type,Kiểm kê,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5632,movement_type,TRẢ HÀNG,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5634,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5635,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5637,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5639,movement_type,TRẢ HÀNG,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5640,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5641,movement_type,adjustment,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5642,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5644,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5645,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5646,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5647,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5648,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5649,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5650,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5651,movement_type,Trả NCC,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5652,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5653,movement_type,Return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5654,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5655,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5656,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5657,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5659,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5660,movement_type,Adj,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5661,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5662,movement_type,Out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5663,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5664,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5665,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5669,movement_type,Return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5670,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5671,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5672,movement_type,Out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5673,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5674,movement_type,Out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5675,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5676,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5677,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5678,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5679,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5680,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5682,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5683,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5684,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5687,movement_type,ĐIỀU CHỈNH,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5689,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5690,movement_type,TRẢ HÀNG,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5691,movement_type,TRẢ HÀNG,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5692,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5693,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5694,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5695,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5696,movement_type,Trả NCC,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5697,movement_type,Trả NCC,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5698,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5699,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5700,movement_type,Return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5701,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5703,movement_type,Out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5704,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5706,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5707,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5709,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5710,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5711,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5712,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5713,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5714,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5715,movement_type,Kiểm kê,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5717,movement_type,ĐIỀU CHỈNH,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5718,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5719,movement_type,adjustment,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5720,movement_type,Adj,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5721,movement_type,Return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5722,movement_type,return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5723,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5724,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5725,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5726,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5727,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5728,movement_type,Adj,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5729,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5731,movement_type,Adj,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5734,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5735,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5736,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5737,movement_type,adjustment,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5738,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5740,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5741,movement_type,Trả NCC,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5742,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5745,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5746,movement_type,adjustment,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5747,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5750,movement_type,Kiểm kê,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5751,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5752,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5753,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5754,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5755,movement_type,adjustment,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5756,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5757,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5758,movement_type,Kiểm kê,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5760,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5761,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5763,movement_type,Out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5765,movement_type,adjustment,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5766,movement_type,Adj,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5767,movement_type,return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5768,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5769,movement_type,Adj,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5770,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5771,movement_type,ĐIỀU CHỈNH,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5772,movement_type,Trả NCC,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5773,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5774,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5775,movement_type,adjustment,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5776,movement_type,ĐIỀU CHỈNH,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5777,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5778,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5779,movement_type,Return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5780,movement_type,return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5781,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5782,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5783,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5784,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5785,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5786,movement_type,Kiểm kê,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5787,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5788,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5789,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5790,movement_type,adjustment,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5791,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5792,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5793,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5797,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5798,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5801,movement_type,adjustment,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5802,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5803,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5804,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5805,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5806,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5807,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5809,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5810,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5812,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5813,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5814,movement_type,TRẢ HÀNG,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5815,movement_type,Out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5816,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5818,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5819,movement_type,Return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5820,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5821,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5822,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5823,movement_type,return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5825,movement_type,return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5826,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5827,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5828,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5829,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5830,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5831,movement_type,Kiểm kê,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5832,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5833,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5834,movement_type,Kiểm kê,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5836,movement_type,ĐIỀU CHỈNH,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5838,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5839,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5842,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5843,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5844,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5845,movement_type,TRẢ HÀNG,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5846,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5848,movement_type,Return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5851,movement_type,Out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5852,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5853,movement_type,Trả NCC,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5854,movement_type,Return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5855,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5856,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5857,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5858,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5859,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5861,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5862,movement_type,Out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5863,movement_type,return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5864,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5865,movement_type,TRẢ HÀNG,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5866,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5867,movement_type,Out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5868,movement_type,adjustment,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5869,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5870,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5871,movement_type,ĐIỀU CHỈNH,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5872,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5873,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5875,movement_type,Return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5876,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5877,movement_type,Adj,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5878,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5879,movement_type,Adj,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5881,movement_type,ĐIỀU CHỈNH,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5883,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5884,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5886,movement_type,return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5888,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5889,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5891,movement_type,Return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5892,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5894,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5895,movement_type,Return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5897,movement_type,Out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5898,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5899,movement_type,Trả NCC,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5900,movement_type,adjustment,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5901,movement_type,return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5902,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5903,movement_type,Return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5904,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5905,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5906,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5907,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5908,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5909,movement_type,Out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5911,movement_type,ĐIỀU CHỈNH,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5912,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5913,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5914,movement_type,return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5915,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5916,movement_type,Trả NCC,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5917,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5918,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5919,movement_type,Trả NCC,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5922,movement_type,ĐIỀU CHỈNH,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5923,movement_type,Trả NCC,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5924,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5925,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5926,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5928,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5929,movement_type,Trả NCC,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5930,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5931,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5932,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5933,movement_type,return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5934,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5935,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5936,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5938,movement_type,Trả NCC,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5939,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5940,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5942,movement_type,Return,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5944,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5945,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5946,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5947,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5948,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5949,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5950,movement_type,Trả NCC,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5951,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5952,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5954,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5955,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5956,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5957,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5958,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5959,movement_type,XUẤT,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5960,movement_type,Adj,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5961,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5962,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5963,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5964,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5966,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5967,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5968,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5969,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5971,movement_type,TRẢ HÀNG,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5972,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5973,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5974,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5975,movement_type,export,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5976,movement_type,Adj,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5977,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5978,movement_type,adjustment,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5979,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5980,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5982,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5983,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5984,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5985,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5986,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5987,movement_type,Trả NCC,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5988,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5989,movement_type,TRẢ HÀNG,RETURN,TYPE_NORMALIZED
+stock_movements,MOV-5990,movement_type,in,IN,TYPE_NORMALIZED
+stock_movements,MOV-5992,movement_type,Kiểm kê,ADJUSTMENT,TYPE_NORMALIZED
+stock_movements,MOV-5993,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5994,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-5995,movement_type,out,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5996,movement_type,NHẬP,IN,TYPE_NORMALIZED
+stock_movements,MOV-5997,movement_type,In,IN,TYPE_NORMALIZED
+stock_movements,MOV-5998,movement_type,Xuất kho,OUT,TYPE_NORMALIZED
+stock_movements,MOV-5999,movement_type,Nhập kho,IN,TYPE_NORMALIZED
+stock_movements,MOV-6000,movement_type,import,IN,TYPE_NORMALIZED
+stock_movements,MOV-5009,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5016,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5022,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5031,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5042,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5044,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5047,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5048,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5051,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5058,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5064,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5067,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5073,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5083,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5088,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5090,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5091,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5094,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5101,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5103,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5108,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5109,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5127,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5128,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5134,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5142,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5156,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5160,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5163,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5168,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5170,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5171,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5186,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5188,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5190,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5194,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5197,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5202,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5203,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5214,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5224,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5225,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5231,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5245,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5248,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5253,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5254,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5255,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5277,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5279,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5285,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5290,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5296,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5306,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5313,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5318,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5322,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5328,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5332,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5336,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5343,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5344,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5345,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5346,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5352,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5357,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5360,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5364,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5372,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5377,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5382,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5385,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5390,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5395,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5398,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5410,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5426,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5430,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5432,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5437,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5441,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5448,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5459,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5469,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5471,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5484,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5501,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5505,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5509,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5510,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5513,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5530,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5531,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5537,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5543,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5561,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5570,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5573,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5574,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5588,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5590,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5599,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5600,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5604,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5612,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5639,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5641,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5647,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5650,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5660,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5669,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5671,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5676,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5678,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5682,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5689,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5696,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5704,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5706,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5709,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5710,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5713,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5715,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5719,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5724,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5727,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5731,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5736,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5746,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5748,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5756,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5761,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5769,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5771,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5776,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5782,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5805,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5807,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5824,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5829,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5831,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5837,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5843,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5850,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5853,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5858,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5863,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5864,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5865,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5881,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5886,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5894,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5897,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5899,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5906,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5911,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5912,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5937,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5940,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5949,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5951,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5956,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5958,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5967,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5970,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5974,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5984,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5990,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5992,warehouse,,Không xác định,WAREHOUSE_FILLED
+stock_movements,MOV-5056,quantity,-52,52,QTY_SIGN_FIXED
+stock_movements,MOV-5067,quantity,-3,3,QTY_SIGN_FIXED
+stock_movements,MOV-5090,quantity,-27,27,QTY_SIGN_FIXED
+stock_movements,MOV-5091,quantity,-57,57,QTY_SIGN_FIXED
+stock_movements,MOV-5179,quantity,-99,99,QTY_SIGN_FIXED
+stock_movements,MOV-5255,quantity,-79,79,QTY_SIGN_FIXED
+stock_movements,MOV-5311,quantity,-28,28,QTY_SIGN_FIXED
+stock_movements,MOV-5314,quantity,-82,82,QTY_SIGN_FIXED
+stock_movements,MOV-5336,quantity,-49,49,QTY_SIGN_FIXED
+stock_movements,MOV-5351,quantity,-67,-67,QTY_NEGATIVE_ADJUSTMENT_VALID
+stock_movements,MOV-5466,quantity,-12,-12,QTY_NEGATIVE_ADJUSTMENT_VALID
+stock_movements,MOV-5481,quantity,-33,33,QTY_SIGN_FIXED
+stock_movements,MOV-5537,quantity,-37,37,QTY_SIGN_FIXED
+stock_movements,MOV-5605,quantity,-63,-63,QTY_NEGATIVE_ADJUSTMENT_VALID
+stock_movements,MOV-5611,quantity,-32,32,QTY_SIGN_FIXED
+stock_movements,MOV-5640,quantity,-61,61,QTY_SIGN_FIXED
+stock_movements,MOV-5656,quantity,-55,55,QTY_SIGN_FIXED
+stock_movements,MOV-5672,quantity,-23,23,QTY_SIGN_FIXED
+stock_movements,MOV-5737,quantity,-27,-27,QTY_NEGATIVE_ADJUSTMENT_VALID
+stock_movements,MOV-5844,quantity,-5,5,QTY_SIGN_FIXED
+stock_movements,MOV-5895,quantity,-93,93,QTY_SIGN_FIXED
+stock_movements,MOV-5914,quantity,-10,10,QTY_SIGN_FIXED
+stock_movements,MOV-5940,quantity,-22,22,QTY_SIGN_FIXED
+stock_movements,MOV-5944,quantity,-63,63,QTY_SIGN_FIXED
+stock_movements,MOV-5965,quantity,-13,13,QTY_SIGN_FIXED
+stock_movements,MOV-5994,quantity,-97,97,QTY_SIGN_FIXED

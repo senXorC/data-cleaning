@@ -1,0 +1,81 @@
+item_id,item_name,category,unit,stock_qty,reorder_point,max_stock,unit_cost_vnd,warehouse_location,last_updated,supplier_id,needs_reorder
+ITEM-201,Dệt may Item 01,Dệt may,Hộp,0,87,1031,1098000,Không xác định,2024-03-28,SUP-144,Có
+ITEM-202,Điện tử Item 02,Điện tử,Lít,523,131,1825,1803000,Không xác định,2023-04-06,SUP-144,Không
+ITEM-203,Hóa chất Item 03,Hóa chất,Thùng,230,60,501,54000,B2,2024-01-29,SUP-126,Không
+ITEM-204,Điện tử Item 04,Điện tử,Kg,151,177,1608,16000,Không xác định,2024-04-20,SUP-136,Có
+ITEM-205,Điện tử Item 05,Điện tử,Thùng,939,41,1134,271000,Không xác định,2024-03-12,SUP-129,Không
+ITEM-206,Điện tử Item 06,Điện tử,Lít,761,131,1121,522000,B2,2023-10-09,SUP-105,Không
+ITEM-207,Hóa chất Item 07,Hóa chất,Lít,240,79,887,643000,B2,2023-03-07,SUP-127,Không
+ITEM-208,Hóa chất Item 08,Hóa chất,Cái,555,129,1051,129000,Không xác định,2024-05-03,SUP-123,Không
+ITEM-209,Hóa chất Item 09,Hóa chất,Kg,771,109,1947,1784000,Không xác định,2023-08-13,SUP-128,Không
+ITEM-210,Văn phòng phẩm Item 10,Văn phòng phẩm,Gói,29,109,888,1339000,Không xác định,2023-01-28,SUP-138,Có
+ITEM-211,Dệt may Item 11,Dệt may,Kg,678,16,371,1287000,Không xác định,2023-12-01,SUP-149,Không
+ITEM-212,Văn phòng phẩm Item 12,Văn phòng phẩm,Kg,284,117,716,1671000,A2,2023-02-11,SUP-116,Không
+ITEM-213,Điện tử Item 13,Điện tử,Lít,859,15,1472,309000,C1,2024-01-13,SUP-139,Không
+ITEM-214,Dệt may Item 14,Dệt may,Gói,986,193,434,1557000,Không xác định,2024-02-11,SUP-113,Không
+ITEM-215,Thực phẩm Item 15,Thực phẩm,Cái,606,186,1901,1256000,A1,2023-12-22,SUP-128,Không
+ITEM-216,Hóa chất Item 16,Hóa chất,Lít,70,139,1526,686000,Không xác định,2023-06-06,SUP-112,Có
+ITEM-217,Dệt may Item 17,Dệt may,Gói,988,176,753,1234000,C1,2023-11-27,SUP-106,Không
+ITEM-218,Hóa chất Item 18,Hóa chất,Hộp,902,125,699,1502000,B1,2024-05-14,SUP-123,Không
+ITEM-219,Hóa chất Item 19,Hóa chất,Thùng,348,1445,1420,1404000,Không xác định,2023-09-04,SUP-131,Có
+ITEM-220,Văn phòng phẩm Item 20,Văn phòng phẩm,Gói,458,14,390,592000,Không xác định,2023-12-19,SUP-148,Không
+ITEM-221,Dệt may Item 21,Dệt may,Lít,338,100,1639,910000,Không xác định,2023-07-09,SUP-114,Không
+ITEM-222,Văn phòng phẩm Item 22,Văn phòng phẩm,Kg,283,195,1407,1953000,Không xác định,2023-07-03,SUP-101,Không
+ITEM-223,Dệt may Item 23,Dệt may,Thùng,129,80,293,1949000,A2,2023-01-13,SUP-119,Không
+ITEM-224,Văn phòng phẩm Item 24,Văn phòng phẩm,Thùng,490,122,897,373000,Không xác định,2023-03-17,SUP-141,Không
+ITEM-225,Thực phẩm Item 25,Thực phẩm,Gói,155,48,1861,1128000,B2,2024-06-19,SUP-129,Không
+ITEM-226,Văn phòng phẩm Item 26,Văn phòng phẩm,Kg,304,160,1078,614000,B2,2023-09-28,SUP-106,Không
+ITEM-227,Điện tử Item 27,Điện tử,Hộp,0,54,1330,155000,C1,2024-04-09,SUP-144,Có
+ITEM-228,Điện tử Item 28,Điện tử,Kg,946,77,1813,1584000,B1,2023-09-30,SUP-105,Không
+ITEM-229,Thực phẩm Item 29,Thực phẩm,Lít,169,88,1418,1499000,Không xác định,2023-10-06,SUP-135,Không
+ITEM-230,Văn phòng phẩm Item 30,Văn phòng phẩm,Lít,448,30,1424,85000,A1,2023-10-03,SUP-103,Không
+ITEM-231,Điện tử Item 31,Điện tử,Cái,481,142,1534,887000,Không xác định,2023-12-23,SUP-122,Không
+ITEM-232,Hóa chất Item 32,Hóa chất,Gói,686,36,1956,326000,A1,2024-04-10,SUP-121,Không
+ITEM-233,Hóa chất Item 33,Hóa chất,Thùng,331,39,1782,811000,A1,2023-07-12,SUP-124,Không
+ITEM-234,Dệt may Item 34,Dệt may,Lít,774,137,1480,887000,Không xác định,2023-05-05,SUP-141,Không
+ITEM-235,Dệt may Item 35,Dệt may,Cái,818,71,1653,321000,Không xác định,2023-05-01,SUP-110,Không
+ITEM-236,Văn phòng phẩm Item 36,Văn phòng phẩm,Gói,955,193,797,1020000,B1,2024-01-28,SUP-139,Không
+ITEM-237,Dệt may Item 37,Dệt may,Hộp,764,44,1969,144000,A1,2023-10-17,SUP-120,Không
+ITEM-238,Dệt may Item 38,Dệt may,Thùng,593,178,1202,1731000,Không xác định,2023-11-26,SUP-145,Không
+ITEM-239,Điện tử Item 39,Điện tử,Thùng,585,108,678,1713000,Không xác định,2023-06-05,SUP-103,Không
+ITEM-240,Điện tử Item 40,Điện tử,Lít,514,161,879,1740000,B1,2024-02-24,SUP-110,Không
+ITEM-241,Thực phẩm Item 41,Thực phẩm,Gói,480,77,893,1248000,Không xác định,2023-11-21,SUP-146,Không
+ITEM-242,Văn phòng phẩm Item 42,Văn phòng phẩm,Cái,893,148,273,1237000,Không xác định,2023-04-11,SUP-146,Không
+ITEM-243,Thực phẩm Item 43,Thực phẩm,Kg,0,52,1621,602000,B2,2024-06-27,SUP-137,Có
+ITEM-244,Điện tử Item 44,Điện tử,Kg,174,54,361,1221000,Không xác định,2023-09-18,SUP-117,Không
+ITEM-245,Thực phẩm Item 45,Thực phẩm,Lít,920,129,789,1357000,Không xác định,2023-09-14,SUP-120,Không
+ITEM-246,Điện tử Item 46,Điện tử,Lít,393,133,418,478000,Không xác định,2023-10-09,SUP-137,Không
+ITEM-247,Thực phẩm Item 47,Thực phẩm,Hộp,932,165,1726,996000,B2,2023-07-14,SUP-117,Không
+ITEM-248,Điện tử Item 48,Điện tử,Cái,643,34,1485,1294000,C1,2023-12-01,SUP-127,Không
+ITEM-249,Điện tử Item 49,Điện tử,Hộp,205,43,1810,1081000,Không xác định,2023-10-30,SUP-122,Không
+ITEM-250,Thực phẩm Item 50,Thực phẩm,Gói,479,29,488,1510000,Không xác định,2023-04-03,SUP-101,Không
+ITEM-251,Hóa chất Item 51,Hóa chất,Hộp,549,41,1131,740000,A2,2023-08-28,SUP-102,Không
+ITEM-252,Dệt may Item 52,Dệt may,Thùng,905,931,871,1831000,A2,2023-05-24,SUP-103,Có
+ITEM-253,Hóa chất Item 53,Hóa chất,Lít,504,39,399,473000,Không xác định,2024-03-05,SUP-148,Không
+ITEM-254,Điện tử Item 54,Điện tử,Hộp,906,116,1541,203000,B2,2024-03-30,SUP-116,Không
+ITEM-255,Hóa chất Item 55,Hóa chất,Cái,101,185,952,1091000,Không xác định,2023-04-04,SUP-114,Có
+ITEM-256,Dệt may Item 56,Dệt may,Gói,994,15,303,1575000,B2,2023-08-10,SUP-122,Không
+ITEM-257,Điện tử Item 57,Điện tử,Cái,807,162,205,558000,A1,2023-05-15,SUP-123,Không
+ITEM-258,Điện tử Item 58,Điện tử,Thùng,602,92,232,353000,Không xác định,2024-01-06,SUP-138,Không
+ITEM-259,Thực phẩm Item 59,Thực phẩm,Cái,0,138,653,1891000,Không xác định,2024-02-16,SUP-144,Có
+ITEM-260,Thực phẩm Item 60,Thực phẩm,Lít,502,192,1108,152000,Không xác định,2023-11-29,SUP-139,Không
+ITEM-261,Dệt may Item 61,Dệt may,Gói,301,126,1235,1213000,B2,2024-03-16,SUP-115,Không
+ITEM-262,Văn phòng phẩm Item 62,Văn phòng phẩm,Kg,347,126,1016,835000,Không xác định,2023-03-10,SUP-106,Không
+ITEM-263,Thực phẩm Item 63,Thực phẩm,Hộp,442,34,1724,1479000,A2,2024-02-25,SUP-143,Không
+ITEM-264,Văn phòng phẩm Item 64,Văn phòng phẩm,Lít,888,194,305,1937000,Không xác định,2023-08-18,SUP-123,Không
+ITEM-265,Dệt may Item 65,Dệt may,Gói,376,39,1761,561000,Không xác định,2023-01-27,SUP-143,Không
+ITEM-266,Hóa chất Item 66,Hóa chất,Gói,29,56,759,0,Không xác định,2023-03-13,SUP-148,Có
+ITEM-267,Thực phẩm Item 67,Thực phẩm,Gói,93,145,640,756000,A2,2023-02-23,SUP-111,Có
+ITEM-268,Dệt may Item 68,Dệt may,Gói,50,182,367,548000,A2,2023-12-20,SUP-108,Có
+ITEM-269,Hóa chất Item 69,Hóa chất,Kg,694,1465,1414,976000,C1,2023-08-05,SUP-149,Có
+ITEM-270,Hóa chất Item 70,Hóa chất,Gói,296,93,445,20000,Không xác định,2023-12-29,SUP-126,Không
+ITEM-271,Thực phẩm Item 71,Thực phẩm,Thùng,446,14,1141,1843000,C1,2023-04-28,SUP-102,Không
+ITEM-272,Hóa chất Item 72,Hóa chất,Gói,175,168,1142,1665000,Không xác định,2024-06-20,SUP-126,Không
+ITEM-273,Hóa chất Item 73,Hóa chất,Hộp,763,96,653,669000,Không xác định,2023-06-01,SUP-107,Không
+ITEM-274,Điện tử Item 74,Điện tử,Thùng,262,60,555,1207000,Không xác định,2024-04-04,SUP-137,Không
+ITEM-275,Dệt may Item 75,Dệt may,Cái,330,170,847,306000,Không xác định,2024-06-03,SUP-120,Không
+ITEM-276,Văn phòng phẩm Item 76,Văn phòng phẩm,Gói,462,19,316,741000,Không xác định,2024-01-29,SUP-138,Không
+ITEM-277,Dệt may Item 77,Dệt may,Kg,977,199,284,902000,A1,2024-04-06,SUP-122,Không
+ITEM-278,Thực phẩm Item 78,Thực phẩm,Hộp,516,175,553,83000,Không xác định,2023-10-17,SUP-127,Không
+ITEM-279,Hóa chất Item 79,Hóa chất,Hộp,695,320,307,1580000,B1,2023-12-08,SUP-138,Không
+ITEM-280,Điện tử Item 80,Điện tử,Hộp,938,99,835,1936000,Không xác định,2024-01-21,SUP-122,Không
