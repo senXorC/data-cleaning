@@ -1,0 +1,51 @@
+supplier_id,supplier_name,email,phone,city,payment_terms,is_active
+SUP-101,Công ty CP Điện Tử Minh Phát,cpđiệntửmi95@gmail.com,0742868828,Cần Thơ,Net30,false
+SUP-102,Cty TNHH Thực Phẩm Sao Vàng,tnhhthựcph12@gmail.com,541227216,Hồ Chí Minh,cod,false
+SUP-103,Cty Văn Phòng Phẩm Tiến Đạt,vănphòngph76@yahoo.com,0710872248,Hải Phòng,THANH TOÁN 30 NGÀY,FALSE
+SUP-104,Cty CP Điện Tử Minh Phát,cpđiệntửmi98@company.vn,+84723718431,Hà Nội,THANH TOÁN 30 NGÀY,False
+SUP-105,Công ty TNHH Nông Sản Xanh Sạch,tnhhnôngsả6@outlook.com,0881971316,Hà Nội,net60,FALSE
+SUP-106,Công ty TNHH Nông Sản Xanh Sạch,tnhhnôngsả74@outlook.com,+84519335534,Hồ Chí Minh,Cash on Delivery,FALSE
+SUP-107,CÔNG TY TNHH THỰC PHẨM SAO VÀNG,tnhhthựcph13@company.vn,0847308985,Hồ Chí Minh,THANH TOÁN 30 NGÀY,False
+SUP-108,Nhà Phân Phối Văn Phòng Phẩm Tiến Đạt,nhàphânphố90@outlook.com,0391756179,Hồ Chí Minh,net30,0
+SUP-109,Công ty TNHH Xây Dựng Vật Liệu ABC,tnhhxâydựn82@outlook.com,0939476249,Hà Nội,30 days,TRUE
+SUP-110,Công ty CP Thực Phẩm Đông Lạnh Bắc Nam,cpthựcphẩm35@yahoo.com,0338317637,Đà Nẵng,30 days,0
+SUP-111,Công ty TNHH Xây Dựng Vật Liệu ABC,tnhhxâydựn19@yahoo.com,0728740864,Đà Nẵng,cod,false
+SUP-112,Công ty CP Đồ Chơi Trẻ Em Vui Vẻ,cpđồchơitr47@yahoo.com,528566572,Hà Nội,Trả ngay,True
+SUP-113,Cty CP Điện Tử Minh Phát,cpđiệntửmi88@company.vn,+84890048665,Hải Phòng,60 days,0
+SUP-114,Công ty CP Mỹ Phẩm Thiên Nhiên,cpmỹphẩmth71@outlook.com,0325374874,Đà Nẵng,Cash on Delivery,False
+SUP-115,Công ty CP Điện Tử Minh Phát,cpđiệntửmi56@outlook.com,+84570897765,Đà Nẵng,net60,true
+SUP-116,Công ty CP Mỹ Phẩm Thiên Nhiên,cpmỹphẩmth81@gmail.com,0795758349,Đà Nẵng,Cash on Delivery,true
+SUP-117,Công ty TNHH Phụ Tùng Ô Tô Bền Vững,tnhhphụtùn77@gmail.com,+84775579548,Đà Nẵng,Trả ngay,FALSE
+SUP-118,Cty Văn Phòng Phẩm Tiến Đạt,vănphòngph31@gmail.com,+84920570592,Hải Phòng,Trả ngay,True
+SUP-119,Công ty TNHH Phụ Tùng Ô Tô Bền Vững,tnhhphụtùn17@company.vn,0883793389,Cần Thơ,NET60,1
+SUP-120,Công ty TNHH Phụ Tùng Ô Tô Bền Vững,tnhhphụtùn92@company.vn,0763551839,Hải Phòng,net60,0
+SUP-121,Công ty CP Điện Tử Minh Phát,cpđiệntửmi29@company.vn,+84355377076,Cần Thơ,30 days,1
+SUP-122,Công ty TNHH Thực Phẩm Sao Vàng,tnhhthựcph91@gmail.com,+84340728046,Hà Nội,Trả ngay,False
+SUP-123,CÔNG TY TNHH THỰC PHẨM SAO VÀNG,tnhhthựcph36@company.vn,0838754377,Cần Thơ,60 days,0
+SUP-124,Cty Văn Phòng Phẩm Tiến Đạt,vănphòngph53@yahoo.com,+84522660194,Hải Phòng,THANH TOÁN 30 NGÀY,false
+SUP-125,Cty XD Vật Liệu ABC,xdvậtliệua94@yahoo.com,397705310,Hải Phòng,cod,False
+SUP-126,Công ty CP Điện Tử Minh Phát,cpđiệntửmi25@company.vn,0581979055,Đà Nẵng,Net60,1
+SUP-127,CÔNG TY TNHH THỰC PHẨM SAO VÀNG,tnhhthựcph71@yahoo.com,0316789850,Hà Nội,Net30,1
+SUP-128,Công ty TNHH Hóa Chất Đại Dương,tnhhhóachấ63@yahoo.com,0838688676,Hồ Chí Minh,NET60,TRUE
+SUP-129,Công ty TNHH Xây Dựng Vật Liệu ABC,tnhhxâydựn59@outlook.com,0766775103,Cần Thơ,COD,0
+SUP-130,Cty CP Điện Tử Minh Phát,cpđiệntửmi38@company.vn,0517849494,Đà Nẵng,NET30,TRUE
+SUP-131,Công ty CP Đồ Chơi Trẻ Em Vui Vẻ,cpđồchơitr65@yahoo.com,+84931130263,Cần Thơ,Net30,true
+SUP-132,CÔNG TY TNHH THỰC PHẨM SAO VÀNG,tnhhthựcph87@gmail.com,0564193837,Hồ Chí Minh,60 days,TRUE
+SUP-133,Công ty TNHH Nông Sản Xanh Sạch,tnhhnôngsả54@gmail.com,0985863473,Hồ Chí Minh,COD,False
+SUP-134,Cty Văn Phòng Phẩm Tiến Đạt,vănphòngph51@outlook.com,0596637649,Hà Nội,NET30,0
+SUP-135,Công ty TNHH Nông Sản Xanh Sạch,tnhhnôngsả10@gmail.com,0938609087,Đà Nẵng,Net30,1
+SUP-136,Nhà cung cấp Thiết Bị Y Tế Tân Bình,nhàcungcấp21@outlook.com,0882909480,Cần Thơ,NET30,FALSE
+SUP-137,Công ty CP Điện Tử Minh Phát,cpđiệntửmi34@company.vn,0324366125,Đà Nẵng,60 days,1
+SUP-138,Công ty CP Thực Phẩm Đông Lạnh Bắc Nam,cpthựcphẩm88@company.vn,0777834855,Hà Nội,Net30,false
+SUP-139,Công ty CP Dệt May Phương Nam,cpdệtmayph1@gmail.com,0727558317,Hải Phòng,net60,false
+SUP-140,Công ty TNHH Phụ Tùng Ô Tô Bền Vững,tnhhphụtùn15@gmail.com,0330005727,Cần Thơ,net60,true
+SUP-141,Cty XD Vật Liệu ABC,xdvậtliệua6@company.vn,0758942697,Hà Nội,THANH TOÁN 30 NGÀY,1
+SUP-142,Cty Văn Phòng Phẩm Tiến Đạt,vănphòngph46@gmail.com,0964543049,Hồ Chí Minh,Trả ngay,true
+SUP-143,Công ty TNHH Hóa Chất Đại Dương,tnhhhóachấ4@yahoo.com,0554585178,Hồ Chí Minh,30 ngày,true
+SUP-144,Công ty CP Điện Tử Minh Phát,cpđiệntửmi5@yahoo.com,0839854548,Đà Nẵng,30 ngày,1
+SUP-145,Cty Văn Phòng Phẩm Tiến Đạt,vănphòngph85@gmail.com,0563481198,Đà Nẵng,THANH TOÁN 30 NGÀY,false
+SUP-146,Công ty TNHH Phụ Tùng Ô Tô Bền Vững,tnhhphụtùn4@outlook.com,0345059710,Đà Nẵng,NET30,True
+SUP-147,Công ty TNHH Nông Sản Xanh Sạch,tnhhnôngsả45@yahoo.com,0768571795,Hải Phòng,60 days,1
+SUP-148,Công ty CP Dệt May Phương Nam,cpdệtmayph91@gmail.com,0810226999,Hồ Chí Minh,THANH TOÁN 30 NGÀY,false
+SUP-149,CÔNG TY TNHH THỰC PHẨM SAO VÀNG,tnhhthựcph80@outlook.com,0799038359,Đà Nẵng,net60,FALSE
+SUP-150,Cty XD Vật Liệu ABC,xdvậtliệua52@outlook.com,0784411983,Hải Phòng,COD,true
