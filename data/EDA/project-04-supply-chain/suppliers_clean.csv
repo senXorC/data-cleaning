@@ -1,0 +1,51 @@
+supplier_id,supplier_name,email,phone,city,payment_terms,is_active
+SUP-101,Công Ty CP Điện Tử Minh Phát,cpdientumi95@gmail.com,0742868828,Cần Thơ,NET30,Không hoạt động
+SUP-102,Công Ty TNHH Thực Phẩm Sao Vàng,tnhhthucph12@gmail.com,0541227216,Hồ Chí Minh,COD,Không hoạt động
+SUP-103,Công Ty Văn Phòng Phẩm Tiến Đạt,vanphongph76@yahoo.com,0710872248,Hải Phòng,NET30,Không hoạt động
+SUP-104,Công Ty CP Điện Tử Minh Phát,cpdientumi98@company.vn,0723718431,Hà Nội,NET30,Không hoạt động
+SUP-105,Công Ty TNHH Nông Sản Xanh Sạch,tnhhnongsa6@outlook.com,0881971316,Hà Nội,NET60,Không hoạt động
+SUP-106,Công Ty TNHH Nông Sản Xanh Sạch,tnhhnongsa74@outlook.com,0519335534,Hồ Chí Minh,COD,Không hoạt động
+SUP-107,Công Ty TNHH Thực Phẩm Sao Vàng,tnhhthucph13@company.vn,0847308985,Hồ Chí Minh,NET30,Không hoạt động
+SUP-108,Nhà Phân Phối Văn Phòng Phẩm Tiến Đạt,nhaphanpho90@outlook.com,0391756179,Hồ Chí Minh,NET30,Không hoạt động
+SUP-109,Công Ty TNHH Xây Dựng Vật Liệu ABC,tnhhxaydun82@outlook.com,0939476249,Hà Nội,NET30,Hoạt động
+SUP-110,Công Ty CP Thực Phẩm Đông Lạnh Bắc Nam,cpthucpham35@yahoo.com,0338317637,Đà Nẵng,NET30,Không hoạt động
+SUP-111,Công Ty TNHH Xây Dựng Vật Liệu ABC,tnhhxaydun19@yahoo.com,0728740864,Đà Nẵng,COD,Không hoạt động
+SUP-112,Công Ty CP Đồ Chơi Trẻ Em Vui Vẻ,cpdochoitr47@yahoo.com,0528566572,Hà Nội,COD,Hoạt động
+SUP-113,Công Ty CP Điện Tử Minh Phát,cpdientumi88@company.vn,0890048665,Hải Phòng,NET60,Không hoạt động
+SUP-114,Công Ty CP Mỹ Phẩm Thiên Nhiên,cpmyphamth71@outlook.com,0325374874,Đà Nẵng,COD,Không hoạt động
+SUP-115,Công Ty CP Điện Tử Minh Phát,cpdientumi56@outlook.com,0570897765,Đà Nẵng,NET60,Hoạt động
+SUP-116,Công Ty CP Mỹ Phẩm Thiên Nhiên,cpmyphamth81@gmail.com,0795758349,Đà Nẵng,COD,Hoạt động
+SUP-117,Công Ty TNHH Phụ Tùng Ô Tô Bền Vững,tnhhphutun77@gmail.com,0775579548,Đà Nẵng,COD,Không hoạt động
+SUP-118,Công Ty Văn Phòng Phẩm Tiến Đạt,vanphongph31@gmail.com,0920570592,Hải Phòng,COD,Hoạt động
+SUP-119,Công Ty TNHH Phụ Tùng Ô Tô Bền Vững,tnhhphutun17@company.vn,0883793389,Cần Thơ,NET60,Hoạt động
+SUP-120,Công Ty TNHH Phụ Tùng Ô Tô Bền Vững,tnhhphutun92@company.vn,0763551839,Hải Phòng,NET60,Không hoạt động
+SUP-121,Công Ty CP Điện Tử Minh Phát,cpdientumi29@company.vn,0355377076,Cần Thơ,NET30,Hoạt động
+SUP-122,Công Ty TNHH Thực Phẩm Sao Vàng,tnhhthucph91@gmail.com,0340728046,Hà Nội,COD,Không hoạt động
+SUP-123,Công Ty TNHH Thực Phẩm Sao Vàng,tnhhthucph36@company.vn,0838754377,Cần Thơ,NET60,Không hoạt động
+SUP-124,Công Ty Văn Phòng Phẩm Tiến Đạt,vanphongph53@yahoo.com,0522660194,Hải Phòng,NET30,Không hoạt động
+SUP-125,Công Ty XD Vật Liệu ABC,xdvatlieua94@yahoo.com,0397705310,Hải Phòng,COD,Không hoạt động
+SUP-126,Công Ty CP Điện Tử Minh Phát,cpdientumi25@company.vn,0581979055,Đà Nẵng,NET60,Hoạt động
+SUP-127,Công Ty TNHH Thực Phẩm Sao Vàng,tnhhthucph71@yahoo.com,0316789850,Hà Nội,NET30,Hoạt động
+SUP-128,Công Ty TNHH Hóa Chất Đại Dương,tnhhhoacha63@yahoo.com,0838688676,Hồ Chí Minh,NET60,Hoạt động
+SUP-129,Công Ty TNHH Xây Dựng Vật Liệu ABC,tnhhxaydun59@outlook.com,0766775103,Cần Thơ,COD,Không hoạt động
+SUP-130,Công Ty CP Điện Tử Minh Phát,cpdientumi38@company.vn,0517849494,Đà Nẵng,NET30,Hoạt động
+SUP-131,Công Ty CP Đồ Chơi Trẻ Em Vui Vẻ,cpdochoitr65@yahoo.com,0931130263,Cần Thơ,NET30,Hoạt động
+SUP-132,Công Ty TNHH Thực Phẩm Sao Vàng,tnhhthucph87@gmail.com,0564193837,Hồ Chí Minh,NET60,Hoạt động
+SUP-133,Công Ty TNHH Nông Sản Xanh Sạch,tnhhnongsa54@gmail.com,0985863473,Hồ Chí Minh,COD,Không hoạt động
+SUP-134,Công Ty Văn Phòng Phẩm Tiến Đạt,vanphongph51@outlook.com,0596637649,Hà Nội,NET30,Không hoạt động
+SUP-135,Công Ty TNHH Nông Sản Xanh Sạch,tnhhnongsa10@gmail.com,0938609087,Đà Nẵng,NET30,Hoạt động
+SUP-136,Nhà Cung Cấp Thiết Bị Y Tế Tân Bình,nhacungcap21@outlook.com,0882909480,Cần Thơ,NET30,Không hoạt động
+SUP-137,Công Ty CP Điện Tử Minh Phát,cpdientumi34@company.vn,0324366125,Đà Nẵng,NET60,Hoạt động
+SUP-138,Công Ty CP Thực Phẩm Đông Lạnh Bắc Nam,cpthucpham88@company.vn,0777834855,Hà Nội,NET30,Không hoạt động
+SUP-139,Công Ty CP Dệt May Phương Nam,cpdetmayph1@gmail.com,0727558317,Hải Phòng,NET60,Không hoạt động
+SUP-140,Công Ty TNHH Phụ Tùng Ô Tô Bền Vững,tnhhphutun15@gmail.com,0330005727,Cần Thơ,NET60,Hoạt động
+SUP-141,Công Ty XD Vật Liệu ABC,xdvatlieua6@company.vn,0758942697,Hà Nội,NET30,Hoạt động
+SUP-142,Công Ty Văn Phòng Phẩm Tiến Đạt,vanphongph46@gmail.com,0964543049,Hồ Chí Minh,COD,Hoạt động
+SUP-143,Công Ty TNHH Hóa Chất Đại Dương,tnhhhoacha4@yahoo.com,0554585178,Hồ Chí Minh,NET30,Hoạt động
+SUP-144,Công Ty CP Điện Tử Minh Phát,cpdientumi5@yahoo.com,0839854548,Đà Nẵng,NET30,Hoạt động
+SUP-145,Công Ty Văn Phòng Phẩm Tiến Đạt,vanphongph85@gmail.com,0563481198,Đà Nẵng,NET30,Không hoạt động
+SUP-146,Công Ty TNHH Phụ Tùng Ô Tô Bền Vững,tnhhphutun4@outlook.com,0345059710,Đà Nẵng,NET30,Hoạt động
+SUP-147,Công Ty TNHH Nông Sản Xanh Sạch,tnhhnongsa45@yahoo.com,0768571795,Hải Phòng,NET60,Hoạt động
+SUP-148,Công Ty CP Dệt May Phương Nam,cpdetmayph91@gmail.com,0810226999,Hồ Chí Minh,NET30,Không hoạt động
+SUP-149,Công Ty TNHH Thực Phẩm Sao Vàng,tnhhthucph80@outlook.com,0799038359,Đà Nẵng,NET60,Không hoạt động
+SUP-150,Công Ty XD Vật Liệu ABC,xdvatlieua52@outlook.com,0784411983,Hải Phòng,COD,Hoạt động
