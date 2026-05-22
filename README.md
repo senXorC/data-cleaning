@@ -127,9 +127,9 @@ Project 06 — Multi-source      🔜 Sắp tới
 - Python: format `D/M/YYYY` (không có số 0) → regex `\d{1,2}` thay vì `\d{2}`
 
 **Google Sheets public links:**
-- 📋 [Customers Cleaning](PASTE_CUSTOMERS_SHEET_URL_HERE)
-- 📦 [Products Cleaning](PASTE_PRODUCTS_SHEET_URL_HERE)
-- 🛍️ [Orders Cleaning](PASTE_ORDERS_SHEET_URL_HERE)
+- 📋 [Customers Cleaning](https://docs.google.com/spreadsheets/d/1Az5TJslLFpjIHX1JIMVbWb2OxQH0_iKe2aFakoTvVLM/edit?gid=419156242#gid=419156242)
+- 📦 [Products Cleaning](https://docs.google.com/spreadsheets/d/1swcJpAeUNpSxNbACNyM1i8fmBK9ErxKc3O1JTATNurE/edit?gid=1369293198#gid=1369293198)
+- 🛍️ [Orders Cleaning](https://docs.google.com/spreadsheets/d/1LJNFW25kYs-CjTatCwIbw6wYKCF29bLOdMa4MeK3OWQ/edit?gid=49474165#gid=49474165)
 
 ---
 
@@ -160,10 +160,10 @@ suppliers → inventory → purchase_orders → stock_movements
 - Running balance từ 0 → false positive → luôn tính opening balance trước
 
 **Google Sheets public links:**
-- 🏭 [Suppliers Cleaning](PASTE_SUPPLIERS_SHEET_URL)
-- 📦 [Inventory Cleaning](PASTE_INVENTORY_SHEET_URL)
-- 🛒 [Purchase Orders Cleaning](PASTE_PO_SHEET_URL)
-- 🚚 [Stock Movements Cleaning](PASTE_MOVEMENTS_SHEET_URL)
+- 🏭 [Suppliers Cleaning](https://docs.google.com/spreadsheets/d/1yWOneVEwU4Y2TD_S7Ldnmbkr-yJtVxqrPNve0HHOj8E/edit?gid=1544848389#gid=1544848389)
+- 📦 [Inventory Cleaning](https://docs.google.com/spreadsheets/d/1vdAFeHEmqoLi-_KD9mh-y5jA6_9xi6DCJCxPPMC5F4c/edit?gid=2057142710#gid=2057142710)
+- 🛒 [Purchase Orders Cleaning](https://docs.google.com/spreadsheets/d/1E16UvMMurscczMb8iUNFFgJLrXh9FoP9PnDGdkM2-a0/edit?gid=1760896256#gid=1760896256)
+- 🚚 [Stock Movements Cleaning](https://docs.google.com/spreadsheets/d/1swN06u1clPH3IdxPb-eXlknBhTwhGb85HuUK-QCkx2s/edit?gid=1209447413#gid=1209447413)
 
 ---
 
